@@ -3,217 +3,217 @@
     "code": "341002",
     "prefecture_code": 34,
     "name": "広島市",
-    "name_k": "ヒロシマシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ヒロシマシ"
   },
   {
     "code": "341011",
     "prefecture_code": 34,
     "name": "広島市中区",
-    "name_k": "ヒロシマシナカク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシナカク"
   },
   {
     "code": "341029",
     "prefecture_code": 34,
     "name": "広島市東区",
-    "name_k": "ヒロシマシヒガシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシヒガシク"
   },
   {
     "code": "341037",
     "prefecture_code": 34,
     "name": "広島市南区",
-    "name_k": "ヒロシマシミナミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシミナミク"
   },
   {
     "code": "341045",
     "prefecture_code": 34,
     "name": "広島市西区",
-    "name_k": "ヒロシマシニシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシニシク"
   },
   {
     "code": "341053",
     "prefecture_code": 34,
     "name": "広島市安佐南区",
-    "name_k": "ヒロシマシアサミナミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシアサミナミク"
   },
   {
     "code": "341061",
     "prefecture_code": 34,
     "name": "広島市安佐北区",
-    "name_k": "ヒロシマシアサキタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシアサキタク"
   },
   {
     "code": "341070",
     "prefecture_code": 34,
     "name": "広島市安芸区",
-    "name_k": "ヒロシマシアキク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシアキク"
   },
   {
     "code": "341088",
     "prefecture_code": 34,
     "name": "広島市佐伯区",
-    "name_k": "ヒロシマシサエキク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロシマシサエキク"
   },
   {
     "code": "342025",
     "prefecture_code": 34,
     "name": "呉市",
-    "name_k": "クレシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クレシ"
   },
   {
     "code": "342033",
     "prefecture_code": 34,
     "name": "竹原市",
-    "name_k": "タケハラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タケハラシ"
   },
   {
     "code": "342041",
     "prefecture_code": 34,
     "name": "三原市",
-    "name_k": "ミハラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミハラシ"
   },
   {
     "code": "342050",
     "prefecture_code": 34,
     "name": "尾道市",
-    "name_k": "オノミチシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オノミチシ"
   },
   {
     "code": "342076",
     "prefecture_code": 34,
     "name": "福山市",
-    "name_k": "フクヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フクヤマシ"
   },
   {
     "code": "342084",
     "prefecture_code": 34,
     "name": "府中市",
-    "name_k": "フチュウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フチュウシ"
   },
   {
     "code": "342092",
     "prefecture_code": 34,
     "name": "三次市",
-    "name_k": "ミヨシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミヨシシ"
   },
   {
     "code": "342106",
     "prefecture_code": 34,
     "name": "庄原市",
-    "name_k": "ショウバラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ショウバラシ"
   },
   {
     "code": "342114",
     "prefecture_code": 34,
     "name": "大竹市",
-    "name_k": "オオタケシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオタケシ"
   },
   {
     "code": "342122",
     "prefecture_code": 34,
     "name": "東広島市",
-    "name_k": "ヒガシヒロシマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシヒロシマシ"
   },
   {
     "code": "342131",
     "prefecture_code": 34,
     "name": "廿日市市",
-    "name_k": "ハツカイチシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハツカイチシ"
   },
   {
     "code": "342149",
     "prefecture_code": 34,
     "name": "安芸高田市",
-    "name_k": "アキタカタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アキタカタシ"
   },
   {
     "code": "342157",
     "prefecture_code": 34,
     "name": "江田島市",
-    "name_k": "エタジマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "エタジマシ"
   },
   {
     "code": "343021",
     "prefecture_code": 34,
     "name": "府中町",
-    "name_k": "フチュウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フチュウチョウ"
   },
   {
     "code": "343048",
     "prefecture_code": 34,
     "name": "海田町",
-    "name_k": "カイタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カイタチョウ"
   },
   {
     "code": "343072",
     "prefecture_code": 34,
     "name": "熊野町",
-    "name_k": "クマノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマノチョウ"
   },
   {
     "code": "343099",
     "prefecture_code": 34,
     "name": "坂町",
-    "name_k": "サカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サカチョウ"
   },
   {
     "code": "343684",
     "prefecture_code": 34,
     "name": "安芸太田町",
-    "name_k": "アキオオタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アキオオタチョウ"
   },
   {
     "code": "343692",
     "prefecture_code": 34,
     "name": "北広島町",
-    "name_k": "キタヒロシマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キタヒロシマチョウ"
   },
   {
     "code": "344311",
     "prefecture_code": 34,
     "name": "大崎上島町",
-    "name_k": "オオサキカミジマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオサキカミジマチョウ"
   },
   {
     "code": "344621",
     "prefecture_code": 34,
     "name": "世羅町",
-    "name_k": "セラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セラチョウ"
   },
   {
     "code": "345458",
     "prefecture_code": 34,
     "name": "神石高原町",
-    "name_k": "ジンセキコウゲンチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ジンセキコウゲンチョウ"
   }
 ]

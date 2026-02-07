@@ -3,119 +3,119 @@
     "code": "372013",
     "prefecture_code": 37,
     "name": "高松市",
-    "name_k": "タカマツシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "タカマツシ"
   },
   {
     "code": "372021",
     "prefecture_code": 37,
     "name": "丸亀市",
-    "name_k": "マルガメシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マルガメシ"
   },
   {
     "code": "372030",
     "prefecture_code": 37,
     "name": "坂出市",
-    "name_k": "サカイデシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サカイデシ"
   },
   {
     "code": "372048",
     "prefecture_code": 37,
     "name": "善通寺市",
-    "name_k": "ゼンツウジシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゼンツウジシ"
   },
   {
     "code": "372056",
     "prefecture_code": 37,
     "name": "観音寺市",
-    "name_k": "カンオンジシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カンオンジシ"
   },
   {
     "code": "372064",
     "prefecture_code": 37,
     "name": "さぬき市",
-    "name_k": "サヌキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サヌキシ"
   },
   {
     "code": "372072",
     "prefecture_code": 37,
     "name": "東かがわ市",
-    "name_k": "ヒガシカガワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシカガワシ"
   },
   {
     "code": "372081",
     "prefecture_code": 37,
     "name": "三豊市",
-    "name_k": "ミトヨシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミトヨシ"
   },
   {
     "code": "373222",
     "prefecture_code": 37,
     "name": "土庄町",
-    "name_k": "トノショウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トノショウチョウ"
   },
   {
     "code": "373249",
     "prefecture_code": 37,
     "name": "小豆島町",
-    "name_k": "ショウドシマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ショウドシマチョウ"
   },
   {
     "code": "373419",
     "prefecture_code": 37,
     "name": "三木町",
-    "name_k": "ミキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミキチョウ"
   },
   {
     "code": "373648",
     "prefecture_code": 37,
     "name": "直島町",
-    "name_k": "ナオシマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナオシマチョウ"
   },
   {
     "code": "373869",
     "prefecture_code": 37,
     "name": "宇多津町",
-    "name_k": "ウタヅチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウタヅチョウ"
   },
   {
     "code": "373877",
     "prefecture_code": 37,
     "name": "綾川町",
-    "name_k": "アヤガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アヤガワチョウ"
   },
   {
     "code": "374032",
     "prefecture_code": 37,
     "name": "琴平町",
-    "name_k": "コトヒラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コトヒラチョウ"
   },
   {
     "code": "374041",
     "prefecture_code": 37,
     "name": "多度津町",
-    "name_k": "タドツチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タドツチョウ"
   },
   {
     "code": "374067",
     "prefecture_code": 37,
     "name": "まんのう町",
-    "name_k": "マンノウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マンノウチョウ"
   }
 ]

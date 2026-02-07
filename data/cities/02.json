@@ -3,280 +3,280 @@
     "code": "022012",
     "prefecture_code": 2,
     "name": "青森市",
-    "name_k": "アオモリシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "アオモリシ"
   },
   {
     "code": "022021",
     "prefecture_code": 2,
     "name": "弘前市",
-    "name_k": "ヒロサキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロサキシ"
   },
   {
     "code": "022039",
     "prefecture_code": 2,
     "name": "八戸市",
-    "name_k": "ハチノヘシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハチノヘシ"
   },
   {
     "code": "022047",
     "prefecture_code": 2,
     "name": "黒石市",
-    "name_k": "クロイシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クロイシシ"
   },
   {
     "code": "022055",
     "prefecture_code": 2,
     "name": "五所川原市",
-    "name_k": "ゴショガワラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴショガワラシ"
   },
   {
     "code": "022063",
     "prefecture_code": 2,
     "name": "十和田市",
-    "name_k": "トワダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トワダシ"
   },
   {
     "code": "022071",
     "prefecture_code": 2,
     "name": "三沢市",
-    "name_k": "ミサワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミサワシ"
   },
   {
     "code": "022080",
     "prefecture_code": 2,
     "name": "むつ市",
-    "name_k": "ムツシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ムツシ"
   },
   {
     "code": "022098",
     "prefecture_code": 2,
     "name": "つがる市",
-    "name_k": "ツガルシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツガルシ"
   },
   {
     "code": "022101",
     "prefecture_code": 2,
     "name": "平川市",
-    "name_k": "ヒラカワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒラカワシ"
   },
   {
     "code": "023019",
     "prefecture_code": 2,
     "name": "平内町",
-    "name_k": "ヒラナイマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒラナイマチ"
   },
   {
     "code": "023035",
     "prefecture_code": 2,
     "name": "今別町",
-    "name_k": "イマベツマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イマベツマチ"
   },
   {
     "code": "023043",
     "prefecture_code": 2,
     "name": "蓬田村",
-    "name_k": "ヨモギタムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨモギタムラ"
   },
   {
     "code": "023078",
     "prefecture_code": 2,
     "name": "外ヶ浜町",
-    "name_k": "ソトガハママチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ソトガハママチ"
   },
   {
     "code": "023213",
     "prefecture_code": 2,
     "name": "鰺ヶ沢町",
-    "name_k": "アジガサワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アジガサワマチ"
   },
   {
     "code": "023230",
     "prefecture_code": 2,
     "name": "深浦町",
-    "name_k": "フカウラマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フカウラマチ"
   },
   {
     "code": "023434",
     "prefecture_code": 2,
     "name": "西目屋村",
-    "name_k": "ニシメヤムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシメヤムラ"
   },
   {
     "code": "023612",
     "prefecture_code": 2,
     "name": "藤崎町",
-    "name_k": "フジサキマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フジサキマチ"
   },
   {
     "code": "023621",
     "prefecture_code": 2,
     "name": "大鰐町",
-    "name_k": "オオワニマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオワニマチ"
   },
   {
     "code": "023671",
     "prefecture_code": 2,
     "name": "田舎館村",
-    "name_k": "イナカダテムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イナカダテムラ"
   },
   {
     "code": "023817",
     "prefecture_code": 2,
     "name": "板柳町",
-    "name_k": "イタヤナギマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イタヤナギマチ"
   },
   {
     "code": "023841",
     "prefecture_code": 2,
     "name": "鶴田町",
-    "name_k": "ツルタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツルタマチ"
   },
   {
     "code": "023876",
     "prefecture_code": 2,
     "name": "中泊町",
-    "name_k": "ナカドマリマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナカドマリマチ"
   },
   {
     "code": "024015",
     "prefecture_code": 2,
     "name": "野辺地町",
-    "name_k": "ノヘジマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノヘジマチ"
   },
   {
     "code": "024023",
     "prefecture_code": 2,
     "name": "七戸町",
-    "name_k": "シチノヘマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シチノヘマチ"
   },
   {
     "code": "024058",
     "prefecture_code": 2,
     "name": "六戸町",
-    "name_k": "ロクノヘマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ロクノヘマチ"
   },
   {
     "code": "024066",
     "prefecture_code": 2,
     "name": "横浜町",
-    "name_k": "ヨコハママチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨコハママチ"
   },
   {
     "code": "024082",
     "prefecture_code": 2,
     "name": "東北町",
-    "name_k": "トウホクマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トウホクマチ"
   },
   {
     "code": "024112",
     "prefecture_code": 2,
     "name": "六ヶ所村",
-    "name_k": "ロッカショムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ロッカショムラ"
   },
   {
     "code": "024121",
     "prefecture_code": 2,
     "name": "おいらせ町",
-    "name_k": "オイラセチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オイラセチョウ"
   },
   {
     "code": "024236",
     "prefecture_code": 2,
     "name": "大間町",
-    "name_k": "オオママチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオママチ"
   },
   {
     "code": "024244",
     "prefecture_code": 2,
     "name": "東通村",
-    "name_k": "ヒガシドオリムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシドオリムラ"
   },
   {
     "code": "024252",
     "prefecture_code": 2,
     "name": "風間浦村",
-    "name_k": "カザマウラムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カザマウラムラ"
   },
   {
     "code": "024261",
     "prefecture_code": 2,
     "name": "佐井村",
-    "name_k": "サイムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サイムラ"
   },
   {
     "code": "024414",
     "prefecture_code": 2,
     "name": "三戸町",
-    "name_k": "サンノヘマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サンノヘマチ"
   },
   {
     "code": "024422",
     "prefecture_code": 2,
     "name": "五戸町",
-    "name_k": "ゴノヘマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴノヘマチ"
   },
   {
     "code": "024431",
     "prefecture_code": 2,
     "name": "田子町",
-    "name_k": "タッコマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タッコマチ"
   },
   {
     "code": "024457",
     "prefecture_code": 2,
     "name": "南部町",
-    "name_k": "ナンブチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナンブチョウ"
   },
   {
     "code": "024465",
     "prefecture_code": 2,
     "name": "階上町",
-    "name_k": "ハシカミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハシカミチョウ"
   },
   {
     "code": "024503",
     "prefecture_code": 2,
     "name": "新郷村",
-    "name_k": "シンゴウムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シンゴウムラ"
   }
 ]

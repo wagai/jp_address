@@ -13,9 +13,9 @@ RSpec.describe JpAddress::Prefecture do
         pref = described_class.find(13)
         expect(pref.name).to eq("東京都")
         expect(pref.code).to eq(13)
-        expect(pref.name_e).to eq("Tokyo")
-        expect(pref.name_k).to eq("トウキョウト")
-        expect(pref.name_h).to eq("とうきょうと")
+        expect(pref.name_en).to eq("Tokyo")
+        expect(pref.name_kana).to eq("トウキョウト")
+        expect(pref.name_hiragana).to eq("とうきょうと")
         expect(pref.type).to eq("都")
         expect(pref.capital_code).to eq("131041")
       end
@@ -45,7 +45,7 @@ RSpec.describe JpAddress::Prefecture do
       end
 
       it "英語名で検索できる" do
-        pref = described_class.find(name_e: "Osaka")
+        pref = described_class.find(name_en: "Osaka")
         expect(pref.code).to eq(27)
       end
 

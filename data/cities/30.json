@@ -3,210 +3,210 @@
     "code": "302015",
     "prefecture_code": 30,
     "name": "和歌山市",
-    "name_k": "ワカヤマシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ワカヤマシ"
   },
   {
     "code": "302023",
     "prefecture_code": 30,
     "name": "海南市",
-    "name_k": "カイナンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カイナンシ"
   },
   {
     "code": "302031",
     "prefecture_code": 30,
     "name": "橋本市",
-    "name_k": "ハシモトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハシモトシ"
   },
   {
     "code": "302040",
     "prefecture_code": 30,
     "name": "有田市",
-    "name_k": "アリダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アリダシ"
   },
   {
     "code": "302058",
     "prefecture_code": 30,
     "name": "御坊市",
-    "name_k": "ゴボウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴボウシ"
   },
   {
     "code": "302066",
     "prefecture_code": 30,
     "name": "田辺市",
-    "name_k": "タナベシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タナベシ"
   },
   {
     "code": "302074",
     "prefecture_code": 30,
     "name": "新宮市",
-    "name_k": "シングウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シングウシ"
   },
   {
     "code": "302082",
     "prefecture_code": 30,
     "name": "紀の川市",
-    "name_k": "キノカワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キノカワシ"
   },
   {
     "code": "302091",
     "prefecture_code": 30,
     "name": "岩出市",
-    "name_k": "イワデシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イワデシ"
   },
   {
     "code": "303046",
     "prefecture_code": 30,
     "name": "紀美野町",
-    "name_k": "キミノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キミノチョウ"
   },
   {
     "code": "303411",
     "prefecture_code": 30,
     "name": "かつらぎ町",
-    "name_k": "カツラギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カツラギチョウ"
   },
   {
     "code": "303437",
     "prefecture_code": 30,
     "name": "九度山町",
-    "name_k": "クドヤマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クドヤマチョウ"
   },
   {
     "code": "303445",
     "prefecture_code": 30,
     "name": "高野町",
-    "name_k": "コウヤチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウヤチョウ"
   },
   {
     "code": "303615",
     "prefecture_code": 30,
     "name": "湯浅町",
-    "name_k": "ユアサチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ユアサチョウ"
   },
   {
     "code": "303623",
     "prefecture_code": 30,
     "name": "広川町",
-    "name_k": "ヒロガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒロガワチョウ"
   },
   {
     "code": "303666",
     "prefecture_code": 30,
     "name": "有田川町",
-    "name_k": "アリダガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アリダガワチョウ"
   },
   {
     "code": "303810",
     "prefecture_code": 30,
     "name": "美浜町",
-    "name_k": "ミハマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミハマチョウ"
   },
   {
     "code": "303828",
     "prefecture_code": 30,
     "name": "日高町",
-    "name_k": "ヒダカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒダカチョウ"
   },
   {
     "code": "303836",
     "prefecture_code": 30,
     "name": "由良町",
-    "name_k": "ユラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ユラチョウ"
   },
   {
     "code": "303909",
     "prefecture_code": 30,
     "name": "印南町",
-    "name_k": "イナミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イナミチョウ"
   },
   {
     "code": "303917",
     "prefecture_code": 30,
     "name": "みなべ町",
-    "name_k": "ミナベチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナベチョウ"
   },
   {
     "code": "303925",
     "prefecture_code": 30,
     "name": "日高川町",
-    "name_k": "ヒダカガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒダカガワチョウ"
   },
   {
     "code": "304018",
     "prefecture_code": 30,
     "name": "白浜町",
-    "name_k": "シラハマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シラハマチョウ"
   },
   {
     "code": "304042",
     "prefecture_code": 30,
     "name": "上富田町",
-    "name_k": "カミトンダチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミトンダチョウ"
   },
   {
     "code": "304069",
     "prefecture_code": 30,
     "name": "すさみ町",
-    "name_k": "スサミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "スサミチョウ"
   },
   {
     "code": "304212",
     "prefecture_code": 30,
     "name": "那智勝浦町",
-    "name_k": "ナチカツウラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナチカツウラチョウ"
   },
   {
     "code": "304221",
     "prefecture_code": 30,
     "name": "太地町",
-    "name_k": "タイジチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タイジチョウ"
   },
   {
     "code": "304247",
     "prefecture_code": 30,
     "name": "古座川町",
-    "name_k": "コザガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コザガワチョウ"
   },
   {
     "code": "304271",
     "prefecture_code": 30,
     "name": "北山村",
-    "name_k": "キタヤマムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キタヤマムラ"
   },
   {
     "code": "304280",
     "prefecture_code": 30,
     "name": "串本町",
-    "name_k": "クシモトチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クシモトチョウ"
   }
 ]

@@ -3,294 +3,294 @@
     "code": "212016",
     "prefecture_code": 21,
     "name": "岐阜市",
-    "name_k": "ギフシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ギフシ"
   },
   {
     "code": "212024",
     "prefecture_code": 21,
     "name": "大垣市",
-    "name_k": "オオガキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオガキシ"
   },
   {
     "code": "212032",
     "prefecture_code": 21,
     "name": "高山市",
-    "name_k": "タカヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカヤマシ"
   },
   {
     "code": "212041",
     "prefecture_code": 21,
     "name": "多治見市",
-    "name_k": "タジミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タジミシ"
   },
   {
     "code": "212059",
     "prefecture_code": 21,
     "name": "関市",
-    "name_k": "セキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セキシ"
   },
   {
     "code": "212067",
     "prefecture_code": 21,
     "name": "中津川市",
-    "name_k": "ナカツガワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナカツガワシ"
   },
   {
     "code": "212075",
     "prefecture_code": 21,
     "name": "美濃市",
-    "name_k": "ミノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミノシ"
   },
   {
     "code": "212083",
     "prefecture_code": 21,
     "name": "瑞浪市",
-    "name_k": "ミズナミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミズナミシ"
   },
   {
     "code": "212091",
     "prefecture_code": 21,
     "name": "羽島市",
-    "name_k": "ハシマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハシマシ"
   },
   {
     "code": "212105",
     "prefecture_code": 21,
     "name": "恵那市",
-    "name_k": "エナシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "エナシ"
   },
   {
     "code": "212113",
     "prefecture_code": 21,
     "name": "美濃加茂市",
-    "name_k": "ミノカモシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミノカモシ"
   },
   {
     "code": "212121",
     "prefecture_code": 21,
     "name": "土岐市",
-    "name_k": "トキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トキシ"
   },
   {
     "code": "212130",
     "prefecture_code": 21,
     "name": "各務原市",
-    "name_k": "カカミガハラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カカミガハラシ"
   },
   {
     "code": "212148",
     "prefecture_code": 21,
     "name": "可児市",
-    "name_k": "カニシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カニシ"
   },
   {
     "code": "212156",
     "prefecture_code": 21,
     "name": "山県市",
-    "name_k": "ヤマガタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマガタシ"
   },
   {
     "code": "212164",
     "prefecture_code": 21,
     "name": "瑞穂市",
-    "name_k": "ミズホシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミズホシ"
   },
   {
     "code": "212172",
     "prefecture_code": 21,
     "name": "飛騨市",
-    "name_k": "ヒダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒダシ"
   },
   {
     "code": "212181",
     "prefecture_code": 21,
     "name": "本巣市",
-    "name_k": "モトスシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "モトスシ"
   },
   {
     "code": "212199",
     "prefecture_code": 21,
     "name": "郡上市",
-    "name_k": "グジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "グジョウシ"
   },
   {
     "code": "212202",
     "prefecture_code": 21,
     "name": "下呂市",
-    "name_k": "ゲロシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゲロシ"
   },
   {
     "code": "212211",
     "prefecture_code": 21,
     "name": "海津市",
-    "name_k": "カイヅシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カイヅシ"
   },
   {
     "code": "213021",
     "prefecture_code": 21,
     "name": "岐南町",
-    "name_k": "ギナンチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ギナンチョウ"
   },
   {
     "code": "213039",
     "prefecture_code": 21,
     "name": "笠松町",
-    "name_k": "カサマツチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カサマツチョウ"
   },
   {
     "code": "213411",
     "prefecture_code": 21,
     "name": "養老町",
-    "name_k": "ヨウロウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨウロウチョウ"
   },
   {
     "code": "213616",
     "prefecture_code": 21,
     "name": "垂井町",
-    "name_k": "タルイチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タルイチョウ"
   },
   {
     "code": "213624",
     "prefecture_code": 21,
     "name": "関ケ原町",
-    "name_k": "セキガハラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セキガハラチョウ"
   },
   {
     "code": "213811",
     "prefecture_code": 21,
     "name": "神戸町",
-    "name_k": "ゴウドチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴウドチョウ"
   },
   {
     "code": "213829",
     "prefecture_code": 21,
     "name": "輪之内町",
-    "name_k": "ワノウチチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ワノウチチョウ"
   },
   {
     "code": "213837",
     "prefecture_code": 21,
     "name": "安八町",
-    "name_k": "アンパチチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アンパチチョウ"
   },
   {
     "code": "214019",
     "prefecture_code": 21,
     "name": "揖斐川町",
-    "name_k": "イビガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イビガワチョウ"
   },
   {
     "code": "214035",
     "prefecture_code": 21,
     "name": "大野町",
-    "name_k": "オオノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオノチョウ"
   },
   {
     "code": "214043",
     "prefecture_code": 21,
     "name": "池田町",
-    "name_k": "イケダチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イケダチョウ"
   },
   {
     "code": "214213",
     "prefecture_code": 21,
     "name": "北方町",
-    "name_k": "キタガタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キタガタチョウ"
   },
   {
     "code": "215015",
     "prefecture_code": 21,
     "name": "坂祝町",
-    "name_k": "サカホギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サカホギチョウ"
   },
   {
     "code": "215023",
     "prefecture_code": 21,
     "name": "富加町",
-    "name_k": "トミカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トミカチョウ"
   },
   {
     "code": "215031",
     "prefecture_code": 21,
     "name": "川辺町",
-    "name_k": "カワベチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワベチョウ"
   },
   {
     "code": "215040",
     "prefecture_code": 21,
     "name": "七宗町",
-    "name_k": "ヒチソウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒチソウチョウ"
   },
   {
     "code": "215058",
     "prefecture_code": 21,
     "name": "八百津町",
-    "name_k": "ヤオツチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤオツチョウ"
   },
   {
     "code": "215066",
     "prefecture_code": 21,
     "name": "白川町",
-    "name_k": "シラカワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シラカワチョウ"
   },
   {
     "code": "215074",
     "prefecture_code": 21,
     "name": "東白川村",
-    "name_k": "ヒガシシラカワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシシラカワムラ"
   },
   {
     "code": "215210",
     "prefecture_code": 21,
     "name": "御嵩町",
-    "name_k": "ミタケチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミタケチョウ"
   },
   {
     "code": "216046",
     "prefecture_code": 21,
     "name": "白川村",
-    "name_k": "シラカワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シラカワムラ"
   }
 ]

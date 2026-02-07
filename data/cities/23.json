@@ -3,490 +3,490 @@
     "code": "231002",
     "prefecture_code": 23,
     "name": "名古屋市",
-    "name_k": "ナゴヤシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ナゴヤシ"
   },
   {
     "code": "231011",
     "prefecture_code": 23,
     "name": "名古屋市千種区",
-    "name_k": "ナゴヤシチクサク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシチクサク"
   },
   {
     "code": "231029",
     "prefecture_code": 23,
     "name": "名古屋市東区",
-    "name_k": "ナゴヤシヒガシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシヒガシク"
   },
   {
     "code": "231037",
     "prefecture_code": 23,
     "name": "名古屋市北区",
-    "name_k": "ナゴヤシキタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシキタク"
   },
   {
     "code": "231045",
     "prefecture_code": 23,
     "name": "名古屋市西区",
-    "name_k": "ナゴヤシニシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシニシク"
   },
   {
     "code": "231053",
     "prefecture_code": 23,
     "name": "名古屋市中村区",
-    "name_k": "ナゴヤシナカムラク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシナカムラク"
   },
   {
     "code": "231061",
     "prefecture_code": 23,
     "name": "名古屋市中区",
-    "name_k": "ナゴヤシナカク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシナカク"
   },
   {
     "code": "231070",
     "prefecture_code": 23,
     "name": "名古屋市昭和区",
-    "name_k": "ナゴヤシショウワク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシショウワク"
   },
   {
     "code": "231088",
     "prefecture_code": 23,
     "name": "名古屋市瑞穂区",
-    "name_k": "ナゴヤシミズホク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシミズホク"
   },
   {
     "code": "231096",
     "prefecture_code": 23,
     "name": "名古屋市熱田区",
-    "name_k": "ナゴヤシアツタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシアツタク"
   },
   {
     "code": "231100",
     "prefecture_code": 23,
     "name": "名古屋市中川区",
-    "name_k": "ナゴヤシナカガワク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシナカガワク"
   },
   {
     "code": "231118",
     "prefecture_code": 23,
     "name": "名古屋市港区",
-    "name_k": "ナゴヤシミナトク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシミナトク"
   },
   {
     "code": "231126",
     "prefecture_code": 23,
     "name": "名古屋市南区",
-    "name_k": "ナゴヤシミナミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシミナミク"
   },
   {
     "code": "231134",
     "prefecture_code": 23,
     "name": "名古屋市守山区",
-    "name_k": "ナゴヤシモリヤマク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシモリヤマク"
   },
   {
     "code": "231142",
     "prefecture_code": 23,
     "name": "名古屋市緑区",
-    "name_k": "ナゴヤシミドリク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシミドリク"
   },
   {
     "code": "231151",
     "prefecture_code": 23,
     "name": "名古屋市名東区",
-    "name_k": "ナゴヤシメイトウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシメイトウク"
   },
   {
     "code": "231169",
     "prefecture_code": 23,
     "name": "名古屋市天白区",
-    "name_k": "ナゴヤシテンパクク",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴヤシテンパクク"
   },
   {
     "code": "232017",
     "prefecture_code": 23,
     "name": "豊橋市",
-    "name_k": "トヨハシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨハシシ"
   },
   {
     "code": "232025",
     "prefecture_code": 23,
     "name": "岡崎市",
-    "name_k": "オカザキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オカザキシ"
   },
   {
     "code": "232033",
     "prefecture_code": 23,
     "name": "一宮市",
-    "name_k": "イチノミヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イチノミヤシ"
   },
   {
     "code": "232041",
     "prefecture_code": 23,
     "name": "瀬戸市",
-    "name_k": "セトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セトシ"
   },
   {
     "code": "232050",
     "prefecture_code": 23,
     "name": "半田市",
-    "name_k": "ハンダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハンダシ"
   },
   {
     "code": "232068",
     "prefecture_code": 23,
     "name": "春日井市",
-    "name_k": "カスガイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カスガイシ"
   },
   {
     "code": "232076",
     "prefecture_code": 23,
     "name": "豊川市",
-    "name_k": "トヨカワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨカワシ"
   },
   {
     "code": "232084",
     "prefecture_code": 23,
     "name": "津島市",
-    "name_k": "ツシマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツシマシ"
   },
   {
     "code": "232092",
     "prefecture_code": 23,
     "name": "碧南市",
-    "name_k": "ヘキナンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヘキナンシ"
   },
   {
     "code": "232106",
     "prefecture_code": 23,
     "name": "刈谷市",
-    "name_k": "カリヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カリヤシ"
   },
   {
     "code": "232114",
     "prefecture_code": 23,
     "name": "豊田市",
-    "name_k": "トヨタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨタシ"
   },
   {
     "code": "232122",
     "prefecture_code": 23,
     "name": "安城市",
-    "name_k": "アンジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アンジョウシ"
   },
   {
     "code": "232131",
     "prefecture_code": 23,
     "name": "西尾市",
-    "name_k": "ニシオシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシオシ"
   },
   {
     "code": "232149",
     "prefecture_code": 23,
     "name": "蒲郡市",
-    "name_k": "ガマゴオリシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ガマゴオリシ"
   },
   {
     "code": "232157",
     "prefecture_code": 23,
     "name": "犬山市",
-    "name_k": "イヌヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イヌヤマシ"
   },
   {
     "code": "232165",
     "prefecture_code": 23,
     "name": "常滑市",
-    "name_k": "トコナメシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トコナメシ"
   },
   {
     "code": "232173",
     "prefecture_code": 23,
     "name": "江南市",
-    "name_k": "コウナンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウナンシ"
   },
   {
     "code": "232190",
     "prefecture_code": 23,
     "name": "小牧市",
-    "name_k": "コマキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コマキシ"
   },
   {
     "code": "232203",
     "prefecture_code": 23,
     "name": "稲沢市",
-    "name_k": "イナザワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イナザワシ"
   },
   {
     "code": "232211",
     "prefecture_code": 23,
     "name": "新城市",
-    "name_k": "シンシロシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シンシロシ"
   },
   {
     "code": "232220",
     "prefecture_code": 23,
     "name": "東海市",
-    "name_k": "トウカイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トウカイシ"
   },
   {
     "code": "232238",
     "prefecture_code": 23,
     "name": "大府市",
-    "name_k": "オオブシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオブシ"
   },
   {
     "code": "232246",
     "prefecture_code": 23,
     "name": "知多市",
-    "name_k": "チタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "チタシ"
   },
   {
     "code": "232254",
     "prefecture_code": 23,
     "name": "知立市",
-    "name_k": "チリュウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "チリュウシ"
   },
   {
     "code": "232262",
     "prefecture_code": 23,
     "name": "尾張旭市",
-    "name_k": "オワリアサヒシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オワリアサヒシ"
   },
   {
     "code": "232271",
     "prefecture_code": 23,
     "name": "高浜市",
-    "name_k": "タカハマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカハマシ"
   },
   {
     "code": "232289",
     "prefecture_code": 23,
     "name": "岩倉市",
-    "name_k": "イワクラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イワクラシ"
   },
   {
     "code": "232297",
     "prefecture_code": 23,
     "name": "豊明市",
-    "name_k": "トヨアケシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨアケシ"
   },
   {
     "code": "232301",
     "prefecture_code": 23,
     "name": "日進市",
-    "name_k": "ニッシンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニッシンシ"
   },
   {
     "code": "232319",
     "prefecture_code": 23,
     "name": "田原市",
-    "name_k": "タハラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タハラシ"
   },
   {
     "code": "232327",
     "prefecture_code": 23,
     "name": "愛西市",
-    "name_k": "アイサイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アイサイシ"
   },
   {
     "code": "232335",
     "prefecture_code": 23,
     "name": "清須市",
-    "name_k": "キヨスシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キヨスシ"
   },
   {
     "code": "232343",
     "prefecture_code": 23,
     "name": "北名古屋市",
-    "name_k": "キタナゴヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キタナゴヤシ"
   },
   {
     "code": "232351",
     "prefecture_code": 23,
     "name": "弥富市",
-    "name_k": "ヤトミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤトミシ"
   },
   {
     "code": "232360",
     "prefecture_code": 23,
     "name": "みよし市",
-    "name_k": "ミヨシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミヨシシ"
   },
   {
     "code": "232378",
     "prefecture_code": 23,
     "name": "あま市",
-    "name_k": "アマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アマシ"
   },
   {
     "code": "232386",
     "prefecture_code": 23,
     "name": "長久手市",
-    "name_k": "ナガクテシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナガクテシ"
   },
   {
     "code": "233021",
     "prefecture_code": 23,
     "name": "東郷町",
-    "name_k": "トウゴウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トウゴウチョウ"
   },
   {
     "code": "233421",
     "prefecture_code": 23,
     "name": "豊山町",
-    "name_k": "トヨヤマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨヤマチョウ"
   },
   {
     "code": "233617",
     "prefecture_code": 23,
     "name": "大口町",
-    "name_k": "オオグチチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオグチチョウ"
   },
   {
     "code": "233625",
     "prefecture_code": 23,
     "name": "扶桑町",
-    "name_k": "フソウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フソウチョウ"
   },
   {
     "code": "234249",
     "prefecture_code": 23,
     "name": "大治町",
-    "name_k": "オオハルチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオハルチョウ"
   },
   {
     "code": "234257",
     "prefecture_code": 23,
     "name": "蟹江町",
-    "name_k": "カニエチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カニエチョウ"
   },
   {
     "code": "234273",
     "prefecture_code": 23,
     "name": "飛島村",
-    "name_k": "トビシマムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トビシマムラ"
   },
   {
     "code": "234419",
     "prefecture_code": 23,
     "name": "阿久比町",
-    "name_k": "アグイチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アグイチョウ"
   },
   {
     "code": "234427",
     "prefecture_code": 23,
     "name": "東浦町",
-    "name_k": "ヒガシウラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシウラチョウ"
   },
   {
     "code": "234451",
     "prefecture_code": 23,
     "name": "南知多町",
-    "name_k": "ミナミチタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミチタチョウ"
   },
   {
     "code": "234460",
     "prefecture_code": 23,
     "name": "美浜町",
-    "name_k": "ミハマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミハマチョウ"
   },
   {
     "code": "234478",
     "prefecture_code": 23,
     "name": "武豊町",
-    "name_k": "タケトヨチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タケトヨチョウ"
   },
   {
     "code": "235016",
     "prefecture_code": 23,
     "name": "幸田町",
-    "name_k": "コウタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウタチョウ"
   },
   {
     "code": "235610",
     "prefecture_code": 23,
     "name": "設楽町",
-    "name_k": "シタラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シタラチョウ"
   },
   {
     "code": "235628",
     "prefecture_code": 23,
     "name": "東栄町",
-    "name_k": "トウエイチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トウエイチョウ"
   },
   {
     "code": "235636",
     "prefecture_code": 23,
     "name": "豊根村",
-    "name_k": "トヨネムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨネムラ"
   }
 ]

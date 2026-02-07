@@ -13,9 +13,9 @@ RSpec.describe JpAddress::Data::Loader do
       data = described_class.prefectures.first
       expect(data).to have_key(:code)
       expect(data).to have_key(:name)
-      expect(data).to have_key(:name_e)
-      expect(data).to have_key(:name_k)
-      expect(data).to have_key(:name_h)
+      expect(data).to have_key(:name_en)
+      expect(data).to have_key(:name_kana)
+      expect(data).to have_key(:name_hiragana)
       expect(data).to have_key(:region)
       expect(data).to have_key(:type)
       expect(data).to have_key(:capital_code)

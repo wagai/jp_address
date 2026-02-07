@@ -2,13 +2,13 @@
 
 module JpAddress
   class City
-    attr_reader :code, :prefecture_code, :name, :name_k
+    attr_reader :code, :prefecture_code, :name, :name_kana
 
-    def initialize(code:, prefecture_code:, name:, name_k:, capital: false)
+    def initialize(code:, prefecture_code:, name:, name_kana:, capital: false)
       @code = code
       @prefecture_code = prefecture_code
       @name = name
-      @name_k = name_k
+      @name_kana = name_kana
       @capital = capital
     end
 

@@ -3,175 +3,175 @@
     "code": "052019",
     "prefecture_code": 5,
     "name": "秋田市",
-    "name_k": "アキタシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "アキタシ"
   },
   {
     "code": "052027",
     "prefecture_code": 5,
     "name": "能代市",
-    "name_k": "ノシロシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノシロシ"
   },
   {
     "code": "052035",
     "prefecture_code": 5,
     "name": "横手市",
-    "name_k": "ヨコテシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨコテシ"
   },
   {
     "code": "052043",
     "prefecture_code": 5,
     "name": "大館市",
-    "name_k": "オオダテシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオダテシ"
   },
   {
     "code": "052060",
     "prefecture_code": 5,
     "name": "男鹿市",
-    "name_k": "オガシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オガシ"
   },
   {
     "code": "052078",
     "prefecture_code": 5,
     "name": "湯沢市",
-    "name_k": "ユザワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ユザワシ"
   },
   {
     "code": "052094",
     "prefecture_code": 5,
     "name": "鹿角市",
-    "name_k": "カヅノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カヅノシ"
   },
   {
     "code": "052108",
     "prefecture_code": 5,
     "name": "由利本荘市",
-    "name_k": "ユリホンジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ユリホンジョウシ"
   },
   {
     "code": "052116",
     "prefecture_code": 5,
     "name": "潟上市",
-    "name_k": "カタガミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カタガミシ"
   },
   {
     "code": "052124",
     "prefecture_code": 5,
     "name": "大仙市",
-    "name_k": "ダイセンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ダイセンシ"
   },
   {
     "code": "052132",
     "prefecture_code": 5,
     "name": "北秋田市",
-    "name_k": "キタアキタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キタアキタシ"
   },
   {
     "code": "052141",
     "prefecture_code": 5,
     "name": "にかほ市",
-    "name_k": "ニカホシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニカホシ"
   },
   {
     "code": "052159",
     "prefecture_code": 5,
     "name": "仙北市",
-    "name_k": "センボクシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "センボクシ"
   },
   {
     "code": "053031",
     "prefecture_code": 5,
     "name": "小坂町",
-    "name_k": "コサカマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コサカマチ"
   },
   {
     "code": "053279",
     "prefecture_code": 5,
     "name": "上小阿仁村",
-    "name_k": "カミコアニムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミコアニムラ"
   },
   {
     "code": "053465",
     "prefecture_code": 5,
     "name": "藤里町",
-    "name_k": "フジサトマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フジサトマチ"
   },
   {
     "code": "053481",
     "prefecture_code": 5,
     "name": "三種町",
-    "name_k": "ミタネチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミタネチョウ"
   },
   {
     "code": "053490",
     "prefecture_code": 5,
     "name": "八峰町",
-    "name_k": "ハッポウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハッポウチョウ"
   },
   {
     "code": "053619",
     "prefecture_code": 5,
     "name": "五城目町",
-    "name_k": "ゴジョウメマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴジョウメマチ"
   },
   {
     "code": "053635",
     "prefecture_code": 5,
     "name": "八郎潟町",
-    "name_k": "ハチロウガタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハチロウガタマチ"
   },
   {
     "code": "053660",
     "prefecture_code": 5,
     "name": "井川町",
-    "name_k": "イカワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イカワマチ"
   },
   {
     "code": "053686",
     "prefecture_code": 5,
     "name": "大潟村",
-    "name_k": "オオガタムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオガタムラ"
   },
   {
     "code": "054348",
     "prefecture_code": 5,
     "name": "美郷町",
-    "name_k": "ミサトチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミサトチョウ"
   },
   {
     "code": "054631",
     "prefecture_code": 5,
     "name": "羽後町",
-    "name_k": "ウゴマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウゴマチ"
   },
   {
     "code": "054640",
     "prefecture_code": 5,
     "name": "東成瀬村",
-    "name_k": "ヒガシナルセムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシナルセムラ"
   }
 ]

@@ -3,245 +3,245 @@
     "code": "062014",
     "prefecture_code": 6,
     "name": "山形市",
-    "name_k": "ヤマガタシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ヤマガタシ"
   },
   {
     "code": "062022",
     "prefecture_code": 6,
     "name": "米沢市",
-    "name_k": "ヨネザワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨネザワシ"
   },
   {
     "code": "062031",
     "prefecture_code": 6,
     "name": "鶴岡市",
-    "name_k": "ツルオカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツルオカシ"
   },
   {
     "code": "062049",
     "prefecture_code": 6,
     "name": "酒田市",
-    "name_k": "サカタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サカタシ"
   },
   {
     "code": "062057",
     "prefecture_code": 6,
     "name": "新庄市",
-    "name_k": "シンジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シンジョウシ"
   },
   {
     "code": "062065",
     "prefecture_code": 6,
     "name": "寒河江市",
-    "name_k": "サガエシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サガエシ"
   },
   {
     "code": "062073",
     "prefecture_code": 6,
     "name": "上山市",
-    "name_k": "カミノヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミノヤマシ"
   },
   {
     "code": "062081",
     "prefecture_code": 6,
     "name": "村山市",
-    "name_k": "ムラヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ムラヤマシ"
   },
   {
     "code": "062090",
     "prefecture_code": 6,
     "name": "長井市",
-    "name_k": "ナガイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナガイシ"
   },
   {
     "code": "062103",
     "prefecture_code": 6,
     "name": "天童市",
-    "name_k": "テンドウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "テンドウシ"
   },
   {
     "code": "062111",
     "prefecture_code": 6,
     "name": "東根市",
-    "name_k": "ヒガシネシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシネシ"
   },
   {
     "code": "062120",
     "prefecture_code": 6,
     "name": "尾花沢市",
-    "name_k": "オバナザワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オバナザワシ"
   },
   {
     "code": "062138",
     "prefecture_code": 6,
     "name": "南陽市",
-    "name_k": "ナンヨウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナンヨウシ"
   },
   {
     "code": "063011",
     "prefecture_code": 6,
     "name": "山辺町",
-    "name_k": "ヤマノベマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマノベマチ"
   },
   {
     "code": "063029",
     "prefecture_code": 6,
     "name": "中山町",
-    "name_k": "ナカヤママチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナカヤママチ"
   },
   {
     "code": "063215",
     "prefecture_code": 6,
     "name": "河北町",
-    "name_k": "カホクチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カホクチョウ"
   },
   {
     "code": "063223",
     "prefecture_code": 6,
     "name": "西川町",
-    "name_k": "ニシカワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシカワマチ"
   },
   {
     "code": "063231",
     "prefecture_code": 6,
     "name": "朝日町",
-    "name_k": "アサヒマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アサヒマチ"
   },
   {
     "code": "063240",
     "prefecture_code": 6,
     "name": "大江町",
-    "name_k": "オオエマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオエマチ"
   },
   {
     "code": "063410",
     "prefecture_code": 6,
     "name": "大石田町",
-    "name_k": "オオイシダマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオイシダマチ"
   },
   {
     "code": "063614",
     "prefecture_code": 6,
     "name": "金山町",
-    "name_k": "カネヤママチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カネヤママチ"
   },
   {
     "code": "063622",
     "prefecture_code": 6,
     "name": "最上町",
-    "name_k": "モガミマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "モガミマチ"
   },
   {
     "code": "063631",
     "prefecture_code": 6,
     "name": "舟形町",
-    "name_k": "フナガタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フナガタマチ"
   },
   {
     "code": "063649",
     "prefecture_code": 6,
     "name": "真室川町",
-    "name_k": "マムロガワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マムロガワマチ"
   },
   {
     "code": "063657",
     "prefecture_code": 6,
     "name": "大蔵村",
-    "name_k": "オオクラムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオクラムラ"
   },
   {
     "code": "063665",
     "prefecture_code": 6,
     "name": "鮭川村",
-    "name_k": "サケガワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サケガワムラ"
   },
   {
     "code": "063673",
     "prefecture_code": 6,
     "name": "戸沢村",
-    "name_k": "トザワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トザワムラ"
   },
   {
     "code": "063819",
     "prefecture_code": 6,
     "name": "高畠町",
-    "name_k": "タカハタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカハタマチ"
   },
   {
     "code": "063827",
     "prefecture_code": 6,
     "name": "川西町",
-    "name_k": "カワニシマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワニシマチ"
   },
   {
     "code": "064017",
     "prefecture_code": 6,
     "name": "小国町",
-    "name_k": "オグニマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オグニマチ"
   },
   {
     "code": "064025",
     "prefecture_code": 6,
     "name": "白鷹町",
-    "name_k": "シラタカマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シラタカマチ"
   },
   {
     "code": "064033",
     "prefecture_code": 6,
     "name": "飯豊町",
-    "name_k": "イイデマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イイデマチ"
   },
   {
     "code": "064262",
     "prefecture_code": 6,
     "name": "三川町",
-    "name_k": "ミカワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミカワマチ"
   },
   {
     "code": "064289",
     "prefecture_code": 6,
     "name": "庄内町",
-    "name_k": "シヨウナイマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シヨウナイマチ"
   },
   {
     "code": "064611",
     "prefecture_code": 6,
     "name": "遊佐町",
-    "name_k": "ユザマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ユザマチ"
   }
 ]

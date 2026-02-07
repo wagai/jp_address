@@ -26,9 +26,9 @@ JpAddress::Prefecture.where(region: "関東") # 地方で絞り込み
 pref = JpAddress::Prefecture.find(13)
 pref.code       # => 13
 pref.name       # => "東京都"
-pref.name_e     # => "Tokyo"
-pref.name_k     # => "トウキョウト"
-pref.name_h     # => "とうきょうと"
+pref.name_en       # => "Tokyo"
+pref.name_kana     # => "トウキョウト"
+pref.name_hiragana # => "とうきょうと"
 pref.type       # => "都"
 pref.region     # => Region
 pref.cities     # => Array<City>
@@ -46,7 +46,7 @@ city = JpAddress::City.find("131016")
 city.code             # => "131016"
 city.prefecture_code  # => 13
 city.name             # => "千代田区"
-city.name_k           # => "チヨダク"
+city.name_kana        # => "チヨダク"
 city.capital?         # => false
 city.prefecture       # => Prefecture
 ```
@@ -75,7 +75,7 @@ JpAddress::Region.find("関東")       # 名前で検索
 
 region = JpAddress::Region.find("関東")
 region.name             # => "関東"
-region.name_e           # => "Kanto"
+region.name_en          # => "Kanto"
 region.prefectures      # => Array<Prefecture>
 region.prefecture_codes # => [8, 9, 10, 11, 12, 13, 14]
 ```

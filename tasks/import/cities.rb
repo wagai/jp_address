@@ -26,7 +26,7 @@ OUTPUT_DIR = File.expand_path("../../data/cities", __dir__)
       code: entry[:code],
       prefecture_code: prefecture_code,
       name: entry[:city],
-      name_k: entry[:city_kana],
+      name_kana: entry[:city_kana],
       capital: entry[:prefecture_capital] || false
     }
   end

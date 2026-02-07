@@ -3,175 +3,175 @@
     "code": "092011",
     "prefecture_code": 9,
     "name": "宇都宮市",
-    "name_k": "ウツノミヤシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ウツノミヤシ"
   },
   {
     "code": "092029",
     "prefecture_code": 9,
     "name": "足利市",
-    "name_k": "アシカガシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アシカガシ"
   },
   {
     "code": "092037",
     "prefecture_code": 9,
     "name": "栃木市",
-    "name_k": "トチギシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トチギシ"
   },
   {
     "code": "092045",
     "prefecture_code": 9,
     "name": "佐野市",
-    "name_k": "サノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サノシ"
   },
   {
     "code": "092053",
     "prefecture_code": 9,
     "name": "鹿沼市",
-    "name_k": "カヌマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カヌマシ"
   },
   {
     "code": "092061",
     "prefecture_code": 9,
     "name": "日光市",
-    "name_k": "ニッコウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニッコウシ"
   },
   {
     "code": "092088",
     "prefecture_code": 9,
     "name": "小山市",
-    "name_k": "オヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オヤマシ"
   },
   {
     "code": "092096",
     "prefecture_code": 9,
     "name": "真岡市",
-    "name_k": "モオカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "モオカシ"
   },
   {
     "code": "092100",
     "prefecture_code": 9,
     "name": "大田原市",
-    "name_k": "オオタワラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオタワラシ"
   },
   {
     "code": "092118",
     "prefecture_code": 9,
     "name": "矢板市",
-    "name_k": "ヤイタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤイタシ"
   },
   {
     "code": "092134",
     "prefecture_code": 9,
     "name": "那須塩原市",
-    "name_k": "ナスシオバラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナスシオバラシ"
   },
   {
     "code": "092142",
     "prefecture_code": 9,
     "name": "さくら市",
-    "name_k": "サクラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サクラシ"
   },
   {
     "code": "092151",
     "prefecture_code": 9,
     "name": "那須烏山市",
-    "name_k": "ナスカラスヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナスカラスヤマシ"
   },
   {
     "code": "092169",
     "prefecture_code": 9,
     "name": "下野市",
-    "name_k": "シモツケシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シモツケシ"
   },
   {
     "code": "093017",
     "prefecture_code": 9,
     "name": "上三川町",
-    "name_k": "カミノカワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミノカワマチ"
   },
   {
     "code": "093424",
     "prefecture_code": 9,
     "name": "益子町",
-    "name_k": "マシコマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マシコマチ"
   },
   {
     "code": "093432",
     "prefecture_code": 9,
     "name": "茂木町",
-    "name_k": "モテギマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "モテギマチ"
   },
   {
     "code": "093441",
     "prefecture_code": 9,
     "name": "市貝町",
-    "name_k": "イチカイマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イチカイマチ"
   },
   {
     "code": "093459",
     "prefecture_code": 9,
     "name": "芳賀町",
-    "name_k": "ハガマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハガマチ"
   },
   {
     "code": "093611",
     "prefecture_code": 9,
     "name": "壬生町",
-    "name_k": "ミブマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミブマチ"
   },
   {
     "code": "093645",
     "prefecture_code": 9,
     "name": "野木町",
-    "name_k": "ノギマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノギマチ"
   },
   {
     "code": "093840",
     "prefecture_code": 9,
     "name": "塩谷町",
-    "name_k": "シオヤマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シオヤマチ"
   },
   {
     "code": "093866",
     "prefecture_code": 9,
     "name": "高根沢町",
-    "name_k": "タカネザワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカネザワマチ"
   },
   {
     "code": "094072",
     "prefecture_code": 9,
     "name": "那須町",
-    "name_k": "ナスマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナスマチ"
   },
   {
     "code": "094111",
     "prefecture_code": 9,
     "name": "那珂川町",
-    "name_k": "ナカガワマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナカガワマチ"
   }
 ]

@@ -3,259 +3,259 @@
     "code": "261009",
     "prefecture_code": 26,
     "name": "京都市",
-    "name_k": "キョウトシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "キョウトシ"
   },
   {
     "code": "261017",
     "prefecture_code": 26,
     "name": "京都市北区",
-    "name_k": "キョウトシキタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシキタク"
   },
   {
     "code": "261025",
     "prefecture_code": 26,
     "name": "京都市上京区",
-    "name_k": "キョウトシカミギョウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシカミギョウク"
   },
   {
     "code": "261033",
     "prefecture_code": 26,
     "name": "京都市左京区",
-    "name_k": "キョウトシサキョウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシサキョウク"
   },
   {
     "code": "261041",
     "prefecture_code": 26,
     "name": "京都市中京区",
-    "name_k": "キョウトシナカギョウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシナカギョウク"
   },
   {
     "code": "261050",
     "prefecture_code": 26,
     "name": "京都市東山区",
-    "name_k": "キョウトシヒガシヤマク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシヒガシヤマク"
   },
   {
     "code": "261068",
     "prefecture_code": 26,
     "name": "京都市下京区",
-    "name_k": "キョウトシシモギョウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシシモギョウク"
   },
   {
     "code": "261076",
     "prefecture_code": 26,
     "name": "京都市南区",
-    "name_k": "キョウトシミナミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシミナミク"
   },
   {
     "code": "261084",
     "prefecture_code": 26,
     "name": "京都市右京区",
-    "name_k": "キョウトシウキョウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシウキョウク"
   },
   {
     "code": "261092",
     "prefecture_code": 26,
     "name": "京都市伏見区",
-    "name_k": "キョウトシフシミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシフシミク"
   },
   {
     "code": "261106",
     "prefecture_code": 26,
     "name": "京都市山科区",
-    "name_k": "キョウトシヤマシナク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシヤマシナク"
   },
   {
     "code": "261114",
     "prefecture_code": 26,
     "name": "京都市西京区",
-    "name_k": "キョウトシニシキョウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウトシニシキョウク"
   },
   {
     "code": "262013",
     "prefecture_code": 26,
     "name": "福知山市",
-    "name_k": "フクチヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フクチヤマシ"
   },
   {
     "code": "262021",
     "prefecture_code": 26,
     "name": "舞鶴市",
-    "name_k": "マイヅルシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マイヅルシ"
   },
   {
     "code": "262030",
     "prefecture_code": 26,
     "name": "綾部市",
-    "name_k": "アヤベシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アヤベシ"
   },
   {
     "code": "262048",
     "prefecture_code": 26,
     "name": "宇治市",
-    "name_k": "ウジシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウジシ"
   },
   {
     "code": "262056",
     "prefecture_code": 26,
     "name": "宮津市",
-    "name_k": "ミヤヅシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミヤヅシ"
   },
   {
     "code": "262064",
     "prefecture_code": 26,
     "name": "亀岡市",
-    "name_k": "カメオカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カメオカシ"
   },
   {
     "code": "262072",
     "prefecture_code": 26,
     "name": "城陽市",
-    "name_k": "ジョウヨウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ジョウヨウシ"
   },
   {
     "code": "262081",
     "prefecture_code": 26,
     "name": "向日市",
-    "name_k": "ムコウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ムコウシ"
   },
   {
     "code": "262099",
     "prefecture_code": 26,
     "name": "長岡京市",
-    "name_k": "ナガオカキョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナガオカキョウシ"
   },
   {
     "code": "262102",
     "prefecture_code": 26,
     "name": "八幡市",
-    "name_k": "ヤワタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤワタシ"
   },
   {
     "code": "262111",
     "prefecture_code": 26,
     "name": "京田辺市",
-    "name_k": "キョウタナベシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウタナベシ"
   },
   {
     "code": "262129",
     "prefecture_code": 26,
     "name": "京丹後市",
-    "name_k": "キョウタンゴシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウタンゴシ"
   },
   {
     "code": "262137",
     "prefecture_code": 26,
     "name": "南丹市",
-    "name_k": "ナンタンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナンタンシ"
   },
   {
     "code": "262145",
     "prefecture_code": 26,
     "name": "木津川市",
-    "name_k": "キヅガワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キヅガワシ"
   },
   {
     "code": "263036",
     "prefecture_code": 26,
     "name": "大山崎町",
-    "name_k": "オオヤマザキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオヤマザキチョウ"
   },
   {
     "code": "263222",
     "prefecture_code": 26,
     "name": "久御山町",
-    "name_k": "クミヤマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クミヤマチョウ"
   },
   {
     "code": "263435",
     "prefecture_code": 26,
     "name": "井手町",
-    "name_k": "イデチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イデチョウ"
   },
   {
     "code": "263443",
     "prefecture_code": 26,
     "name": "宇治田原町",
-    "name_k": "ウジタワラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウジタワラチョウ"
   },
   {
     "code": "263648",
     "prefecture_code": 26,
     "name": "笠置町",
-    "name_k": "カサギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カサギチョウ"
   },
   {
     "code": "263656",
     "prefecture_code": 26,
     "name": "和束町",
-    "name_k": "ワヅカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ワヅカチョウ"
   },
   {
     "code": "263664",
     "prefecture_code": 26,
     "name": "精華町",
-    "name_k": "セイカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セイカチョウ"
   },
   {
     "code": "263672",
     "prefecture_code": 26,
     "name": "南山城村",
-    "name_k": "ミナミヤマシロムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミヤマシロムラ"
   },
   {
     "code": "264075",
     "prefecture_code": 26,
     "name": "京丹波町",
-    "name_k": "キョウタンバチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キョウタンバチョウ"
   },
   {
     "code": "264636",
     "prefecture_code": 26,
     "name": "伊根町",
-    "name_k": "イネチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イネチョウ"
   },
   {
     "code": "264652",
     "prefecture_code": 26,
     "name": "与謝野町",
-    "name_k": "ヨサノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨサノチョウ"
   }
 ]

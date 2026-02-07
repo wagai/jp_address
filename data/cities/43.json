@@ -3,350 +3,350 @@
     "code": "431001",
     "prefecture_code": 43,
     "name": "熊本市",
-    "name_k": "クマモトシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "クマモトシ"
   },
   {
     "code": "431010",
     "prefecture_code": 43,
     "name": "熊本市中央区",
-    "name_k": "クマモトシチュウオウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマモトシチュウオウク"
   },
   {
     "code": "431028",
     "prefecture_code": 43,
     "name": "熊本市東区",
-    "name_k": "クマモトシヒガシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマモトシヒガシク"
   },
   {
     "code": "431036",
     "prefecture_code": 43,
     "name": "熊本市西区",
-    "name_k": "クマモトシニシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマモトシニシク"
   },
   {
     "code": "431044",
     "prefecture_code": 43,
     "name": "熊本市南区",
-    "name_k": "クマモトシミナミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマモトシミナミク"
   },
   {
     "code": "431052",
     "prefecture_code": 43,
     "name": "熊本市北区",
-    "name_k": "クマモトシキタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマモトシキタク"
   },
   {
     "code": "432024",
     "prefecture_code": 43,
     "name": "八代市",
-    "name_k": "ヤツシロシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤツシロシ"
   },
   {
     "code": "432032",
     "prefecture_code": 43,
     "name": "人吉市",
-    "name_k": "ヒトヨシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒトヨシシ"
   },
   {
     "code": "432041",
     "prefecture_code": 43,
     "name": "荒尾市",
-    "name_k": "アラオシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アラオシ"
   },
   {
     "code": "432059",
     "prefecture_code": 43,
     "name": "水俣市",
-    "name_k": "ミナマタシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナマタシ"
   },
   {
     "code": "432067",
     "prefecture_code": 43,
     "name": "玉名市",
-    "name_k": "タマナシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タマナシ"
   },
   {
     "code": "432083",
     "prefecture_code": 43,
     "name": "山鹿市",
-    "name_k": "ヤマガシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマガシ"
   },
   {
     "code": "432105",
     "prefecture_code": 43,
     "name": "菊池市",
-    "name_k": "キクチシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キクチシ"
   },
   {
     "code": "432113",
     "prefecture_code": 43,
     "name": "宇土市",
-    "name_k": "ウトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウトシ"
   },
   {
     "code": "432121",
     "prefecture_code": 43,
     "name": "上天草市",
-    "name_k": "カミアマクサシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミアマクサシ"
   },
   {
     "code": "432130",
     "prefecture_code": 43,
     "name": "宇城市",
-    "name_k": "ウキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウキシ"
   },
   {
     "code": "432148",
     "prefecture_code": 43,
     "name": "阿蘇市",
-    "name_k": "アソシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アソシ"
   },
   {
     "code": "432156",
     "prefecture_code": 43,
     "name": "天草市",
-    "name_k": "アマクサシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アマクサシ"
   },
   {
     "code": "432164",
     "prefecture_code": 43,
     "name": "合志市",
-    "name_k": "コウシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウシシ"
   },
   {
     "code": "433489",
     "prefecture_code": 43,
     "name": "美里町",
-    "name_k": "ミサトマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミサトマチ"
   },
   {
     "code": "433641",
     "prefecture_code": 43,
     "name": "玉東町",
-    "name_k": "ギョクトウマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ギョクトウマチ"
   },
   {
     "code": "433675",
     "prefecture_code": 43,
     "name": "南関町",
-    "name_k": "ナンカンマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナンカンマチ"
   },
   {
     "code": "433683",
     "prefecture_code": 43,
     "name": "長洲町",
-    "name_k": "ナガスマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナガスマチ"
   },
   {
     "code": "433691",
     "prefecture_code": 43,
     "name": "和水町",
-    "name_k": "ナゴミマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナゴミマチ"
   },
   {
     "code": "434035",
     "prefecture_code": 43,
     "name": "大津町",
-    "name_k": "オオヅマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオヅマチ"
   },
   {
     "code": "434043",
     "prefecture_code": 43,
     "name": "菊陽町",
-    "name_k": "キクヨウマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キクヨウマチ"
   },
   {
     "code": "434230",
     "prefecture_code": 43,
     "name": "南小国町",
-    "name_k": "ミナミオグニマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミオグニマチ"
   },
   {
     "code": "434248",
     "prefecture_code": 43,
     "name": "小国町",
-    "name_k": "オグニマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オグニマチ"
   },
   {
     "code": "434256",
     "prefecture_code": 43,
     "name": "産山村",
-    "name_k": "ウブヤマムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウブヤマムラ"
   },
   {
     "code": "434281",
     "prefecture_code": 43,
     "name": "高森町",
-    "name_k": "タカモリマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカモリマチ"
   },
   {
     "code": "434329",
     "prefecture_code": 43,
     "name": "西原村",
-    "name_k": "ニシハラムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシハラムラ"
   },
   {
     "code": "434337",
     "prefecture_code": 43,
     "name": "南阿蘇村",
-    "name_k": "ミナミアソムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミアソムラ"
   },
   {
     "code": "434418",
     "prefecture_code": 43,
     "name": "御船町",
-    "name_k": "ミフネマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミフネマチ"
   },
   {
     "code": "434426",
     "prefecture_code": 43,
     "name": "嘉島町",
-    "name_k": "カシママチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カシママチ"
   },
   {
     "code": "434434",
     "prefecture_code": 43,
     "name": "益城町",
-    "name_k": "マシキマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マシキマチ"
   },
   {
     "code": "434442",
     "prefecture_code": 43,
     "name": "甲佐町",
-    "name_k": "コウサマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウサマチ"
   },
   {
     "code": "434477",
     "prefecture_code": 43,
     "name": "山都町",
-    "name_k": "ヤマトチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマトチョウ"
   },
   {
     "code": "434680",
     "prefecture_code": 43,
     "name": "氷川町",
-    "name_k": "ヒカワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒカワチョウ"
   },
   {
     "code": "434825",
     "prefecture_code": 43,
     "name": "芦北町",
-    "name_k": "アシキタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アシキタマチ"
   },
   {
     "code": "434841",
     "prefecture_code": 43,
     "name": "津奈木町",
-    "name_k": "ツナギマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツナギマチ"
   },
   {
     "code": "435015",
     "prefecture_code": 43,
     "name": "錦町",
-    "name_k": "ニシキマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシキマチ"
   },
   {
     "code": "435058",
     "prefecture_code": 43,
     "name": "多良木町",
-    "name_k": "タラギマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タラギマチ"
   },
   {
     "code": "435066",
     "prefecture_code": 43,
     "name": "湯前町",
-    "name_k": "ユノマエマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ユノマエマチ"
   },
   {
     "code": "435074",
     "prefecture_code": 43,
     "name": "水上村",
-    "name_k": "ミズカミムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミズカミムラ"
   },
   {
     "code": "435104",
     "prefecture_code": 43,
     "name": "相良村",
-    "name_k": "サガラムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サガラムラ"
   },
   {
     "code": "435112",
     "prefecture_code": 43,
     "name": "五木村",
-    "name_k": "イツキムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イツキムラ"
   },
   {
     "code": "435121",
     "prefecture_code": 43,
     "name": "山江村",
-    "name_k": "ヤマエムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマエムラ"
   },
   {
     "code": "435139",
     "prefecture_code": 43,
     "name": "球磨村",
-    "name_k": "クマムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマムラ"
   },
   {
     "code": "435147",
     "prefecture_code": 43,
     "name": "あさぎり町",
-    "name_k": "アサギリチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アサギリチョウ"
   },
   {
     "code": "435317",
     "prefecture_code": 43,
     "name": "苓北町",
-    "name_k": "レイホクマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "レイホクマチ"
   }
 ]

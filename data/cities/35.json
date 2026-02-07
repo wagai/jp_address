@@ -3,133 +3,133 @@
     "code": "352012",
     "prefecture_code": 35,
     "name": "下関市",
-    "name_k": "シモノセキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シモノセキシ"
   },
   {
     "code": "352021",
     "prefecture_code": 35,
     "name": "宇部市",
-    "name_k": "ウベシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウベシ"
   },
   {
     "code": "352039",
     "prefecture_code": 35,
     "name": "山口市",
-    "name_k": "ヤマグチシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ヤマグチシ"
   },
   {
     "code": "352047",
     "prefecture_code": 35,
     "name": "萩市",
-    "name_k": "ハギシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハギシ"
   },
   {
     "code": "352063",
     "prefecture_code": 35,
     "name": "防府市",
-    "name_k": "ホウフシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ホウフシ"
   },
   {
     "code": "352071",
     "prefecture_code": 35,
     "name": "下松市",
-    "name_k": "クダマツシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クダマツシ"
   },
   {
     "code": "352080",
     "prefecture_code": 35,
     "name": "岩国市",
-    "name_k": "イワクニシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イワクニシ"
   },
   {
     "code": "352101",
     "prefecture_code": 35,
     "name": "光市",
-    "name_k": "ヒカリシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒカリシ"
   },
   {
     "code": "352110",
     "prefecture_code": 35,
     "name": "長門市",
-    "name_k": "ナガトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナガトシ"
   },
   {
     "code": "352128",
     "prefecture_code": 35,
     "name": "柳井市",
-    "name_k": "ヤナイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤナイシ"
   },
   {
     "code": "352136",
     "prefecture_code": 35,
     "name": "美祢市",
-    "name_k": "ミネシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミネシ"
   },
   {
     "code": "352152",
     "prefecture_code": 35,
     "name": "周南市",
-    "name_k": "シュウナンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シュウナンシ"
   },
   {
     "code": "352161",
     "prefecture_code": 35,
     "name": "山陽小野田市",
-    "name_k": "サンヨウオノダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サンヨウオノダシ"
   },
   {
     "code": "353051",
     "prefecture_code": 35,
     "name": "周防大島町",
-    "name_k": "スオウオオシマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "スオウオオシマチョウ"
   },
   {
     "code": "353213",
     "prefecture_code": 35,
     "name": "和木町",
-    "name_k": "ワキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ワキチョウ"
   },
   {
     "code": "353418",
     "prefecture_code": 35,
     "name": "上関町",
-    "name_k": "カミノセキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミノセキチョウ"
   },
   {
     "code": "353434",
     "prefecture_code": 35,
     "name": "田布施町",
-    "name_k": "タブセチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タブセチョウ"
   },
   {
     "code": "353442",
     "prefecture_code": 35,
     "name": "平生町",
-    "name_k": "ヒラオチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒラオチョウ"
   },
   {
     "code": "355020",
     "prefecture_code": 35,
     "name": "阿武町",
-    "name_k": "アブチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アブチョウ"
   }
 ]

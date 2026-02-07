@@ -3,168 +3,168 @@
     "code": "362018",
     "prefecture_code": 36,
     "name": "徳島市",
-    "name_k": "トクシマシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "トクシマシ"
   },
   {
     "code": "362026",
     "prefecture_code": 36,
     "name": "鳴門市",
-    "name_k": "ナルトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナルトシ"
   },
   {
     "code": "362034",
     "prefecture_code": 36,
     "name": "小松島市",
-    "name_k": "コマツシマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コマツシマシ"
   },
   {
     "code": "362042",
     "prefecture_code": 36,
     "name": "阿南市",
-    "name_k": "アナンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アナンシ"
   },
   {
     "code": "362051",
     "prefecture_code": 36,
     "name": "吉野川市",
-    "name_k": "ヨシノガワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨシノガワシ"
   },
   {
     "code": "362069",
     "prefecture_code": 36,
     "name": "阿波市",
-    "name_k": "アワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アワシ"
   },
   {
     "code": "362077",
     "prefecture_code": 36,
     "name": "美馬市",
-    "name_k": "ミマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミマシ"
   },
   {
     "code": "362085",
     "prefecture_code": 36,
     "name": "三好市",
-    "name_k": "ミヨシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミヨシシ"
   },
   {
     "code": "363014",
     "prefecture_code": 36,
     "name": "勝浦町",
-    "name_k": "カツウラチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カツウラチョウ"
   },
   {
     "code": "363022",
     "prefecture_code": 36,
     "name": "上勝町",
-    "name_k": "カミカツチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミカツチョウ"
   },
   {
     "code": "363219",
     "prefecture_code": 36,
     "name": "佐那河内村",
-    "name_k": "サナゴウチソン",
-    "capital": false
+    "capital": false,
+    "name_kana": "サナゴウチソン"
   },
   {
     "code": "363413",
     "prefecture_code": 36,
     "name": "石井町",
-    "name_k": "イシイチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イシイチョウ"
   },
   {
     "code": "363421",
     "prefecture_code": 36,
     "name": "神山町",
-    "name_k": "カミヤマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミヤマチョウ"
   },
   {
     "code": "363685",
     "prefecture_code": 36,
     "name": "那賀町",
-    "name_k": "ナカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナカチョウ"
   },
   {
     "code": "363839",
     "prefecture_code": 36,
     "name": "牟岐町",
-    "name_k": "ムギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ムギチョウ"
   },
   {
     "code": "363871",
     "prefecture_code": 36,
     "name": "美波町",
-    "name_k": "ミナミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミチョウ"
   },
   {
     "code": "363880",
     "prefecture_code": 36,
     "name": "海陽町",
-    "name_k": "カイヨウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カイヨウチョウ"
   },
   {
     "code": "364011",
     "prefecture_code": 36,
     "name": "松茂町",
-    "name_k": "マツシゲチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マツシゲチョウ"
   },
   {
     "code": "364029",
     "prefecture_code": 36,
     "name": "北島町",
-    "name_k": "キタジマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キタジマチョウ"
   },
   {
     "code": "364037",
     "prefecture_code": 36,
     "name": "藍住町",
-    "name_k": "アイズミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アイズミチョウ"
   },
   {
     "code": "364045",
     "prefecture_code": 36,
     "name": "板野町",
-    "name_k": "イタノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イタノチョウ"
   },
   {
     "code": "364053",
     "prefecture_code": 36,
     "name": "上板町",
-    "name_k": "カミイタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミイタチョウ"
   },
   {
     "code": "364681",
     "prefecture_code": 36,
     "name": "つるぎ町",
-    "name_k": "ツルギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツルギチョウ"
   },
   {
     "code": "364894",
     "prefecture_code": 36,
     "name": "東みよし町",
-    "name_k": "ヒガシミヨシチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシミヨシチョウ"
   }
 ]

@@ -3,273 +3,273 @@
     "code": "292010",
     "prefecture_code": 29,
     "name": "奈良市",
-    "name_k": "ナラシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ナラシ"
   },
   {
     "code": "292028",
     "prefecture_code": 29,
     "name": "大和高田市",
-    "name_k": "ヤマトタカダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマトタカダシ"
   },
   {
     "code": "292036",
     "prefecture_code": 29,
     "name": "大和郡山市",
-    "name_k": "ヤマトコオリヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマトコオリヤマシ"
   },
   {
     "code": "292044",
     "prefecture_code": 29,
     "name": "天理市",
-    "name_k": "テンリシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "テンリシ"
   },
   {
     "code": "292052",
     "prefecture_code": 29,
     "name": "橿原市",
-    "name_k": "カシハラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カシハラシ"
   },
   {
     "code": "292061",
     "prefecture_code": 29,
     "name": "桜井市",
-    "name_k": "サクライシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サクライシ"
   },
   {
     "code": "292079",
     "prefecture_code": 29,
     "name": "五條市",
-    "name_k": "ゴジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴジョウシ"
   },
   {
     "code": "292087",
     "prefecture_code": 29,
     "name": "御所市",
-    "name_k": "ゴセシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴセシ"
   },
   {
     "code": "292095",
     "prefecture_code": 29,
     "name": "生駒市",
-    "name_k": "イコマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イコマシ"
   },
   {
     "code": "292109",
     "prefecture_code": 29,
     "name": "香芝市",
-    "name_k": "カシバシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カシバシ"
   },
   {
     "code": "292117",
     "prefecture_code": 29,
     "name": "葛城市",
-    "name_k": "カツラギシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カツラギシ"
   },
   {
     "code": "292125",
     "prefecture_code": 29,
     "name": "宇陀市",
-    "name_k": "ウダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウダシ"
   },
   {
     "code": "293229",
     "prefecture_code": 29,
     "name": "山添村",
-    "name_k": "ヤマゾエムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤマゾエムラ"
   },
   {
     "code": "293423",
     "prefecture_code": 29,
     "name": "平群町",
-    "name_k": "ヘグリチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヘグリチョウ"
   },
   {
     "code": "293431",
     "prefecture_code": 29,
     "name": "三郷町",
-    "name_k": "サンゴウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サンゴウチョウ"
   },
   {
     "code": "293440",
     "prefecture_code": 29,
     "name": "斑鳩町",
-    "name_k": "イカルガチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イカルガチョウ"
   },
   {
     "code": "293458",
     "prefecture_code": 29,
     "name": "安堵町",
-    "name_k": "アンドチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アンドチョウ"
   },
   {
     "code": "293610",
     "prefecture_code": 29,
     "name": "川西町",
-    "name_k": "カワニシチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワニシチョウ"
   },
   {
     "code": "293628",
     "prefecture_code": 29,
     "name": "三宅町",
-    "name_k": "ミヤケチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミヤケチョウ"
   },
   {
     "code": "293636",
     "prefecture_code": 29,
     "name": "田原本町",
-    "name_k": "タワラモトチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タワラモトチョウ"
   },
   {
     "code": "293857",
     "prefecture_code": 29,
     "name": "曽爾村",
-    "name_k": "ソニムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ソニムラ"
   },
   {
     "code": "293865",
     "prefecture_code": 29,
     "name": "御杖村",
-    "name_k": "ミツエムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミツエムラ"
   },
   {
     "code": "294012",
     "prefecture_code": 29,
     "name": "高取町",
-    "name_k": "タカトリチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカトリチョウ"
   },
   {
     "code": "294021",
     "prefecture_code": 29,
     "name": "明日香村",
-    "name_k": "アスカムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アスカムラ"
   },
   {
     "code": "294241",
     "prefecture_code": 29,
     "name": "上牧町",
-    "name_k": "カンマキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カンマキチョウ"
   },
   {
     "code": "294250",
     "prefecture_code": 29,
     "name": "王寺町",
-    "name_k": "オウジチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オウジチョウ"
   },
   {
     "code": "294268",
     "prefecture_code": 29,
     "name": "広陵町",
-    "name_k": "コウリヨウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウリヨウチョウ"
   },
   {
     "code": "294276",
     "prefecture_code": 29,
     "name": "河合町",
-    "name_k": "カワイチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワイチョウ"
   },
   {
     "code": "294411",
     "prefecture_code": 29,
     "name": "吉野町",
-    "name_k": "ヨシノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヨシノチョウ"
   },
   {
     "code": "294420",
     "prefecture_code": 29,
     "name": "大淀町",
-    "name_k": "オオヨドチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオヨドチョウ"
   },
   {
     "code": "294438",
     "prefecture_code": 29,
     "name": "下市町",
-    "name_k": "シモイチチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シモイチチョウ"
   },
   {
     "code": "294446",
     "prefecture_code": 29,
     "name": "黒滝村",
-    "name_k": "クロタキムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クロタキムラ"
   },
   {
     "code": "294462",
     "prefecture_code": 29,
     "name": "天川村",
-    "name_k": "テンカワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "テンカワムラ"
   },
   {
     "code": "294471",
     "prefecture_code": 29,
     "name": "野迫川村",
-    "name_k": "ノセガワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノセガワムラ"
   },
   {
     "code": "294497",
     "prefecture_code": 29,
     "name": "十津川村",
-    "name_k": "トツカワムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トツカワムラ"
   },
   {
     "code": "294501",
     "prefecture_code": 29,
     "name": "下北山村",
-    "name_k": "シモキタヤマムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シモキタヤマムラ"
   },
   {
     "code": "294519",
     "prefecture_code": 29,
     "name": "上北山村",
-    "name_k": "カミキタヤマムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミキタヤマムラ"
   },
   {
     "code": "294527",
     "prefecture_code": 29,
     "name": "川上村",
-    "name_k": "カワカミムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワカミムラ"
   },
   {
     "code": "294535",
     "prefecture_code": 29,
     "name": "東吉野村",
-    "name_k": "ヒガシヨシノムラ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシヨシノムラ"
   }
 ]

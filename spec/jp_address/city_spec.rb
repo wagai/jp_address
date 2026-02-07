@@ -6,7 +6,7 @@ RSpec.describe JpAddress::City do
       city = described_class.find("131016")
       expect(city.code).to eq("131016")
       expect(city.name).to eq("千代田区")
-      expect(city.name_k).to eq("チヨダク")
+      expect(city.name_kana).to eq("チヨダク")
       expect(city.prefecture_code).to eq(13)
     end
 

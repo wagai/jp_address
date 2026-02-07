@@ -3,140 +3,140 @@
     "code": "382019",
     "prefecture_code": 38,
     "name": "松山市",
-    "name_k": "マツヤマシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "マツヤマシ"
   },
   {
     "code": "382027",
     "prefecture_code": 38,
     "name": "今治市",
-    "name_k": "イマバリシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イマバリシ"
   },
   {
     "code": "382035",
     "prefecture_code": 38,
     "name": "宇和島市",
-    "name_k": "ウワジマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウワジマシ"
   },
   {
     "code": "382043",
     "prefecture_code": 38,
     "name": "八幡浜市",
-    "name_k": "ヤワタハマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤワタハマシ"
   },
   {
     "code": "382051",
     "prefecture_code": 38,
     "name": "新居浜市",
-    "name_k": "ニイハマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニイハマシ"
   },
   {
     "code": "382060",
     "prefecture_code": 38,
     "name": "西条市",
-    "name_k": "サイジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サイジョウシ"
   },
   {
     "code": "382078",
     "prefecture_code": 38,
     "name": "大洲市",
-    "name_k": "オオズシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオズシ"
   },
   {
     "code": "382108",
     "prefecture_code": 38,
     "name": "伊予市",
-    "name_k": "イヨシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イヨシ"
   },
   {
     "code": "382132",
     "prefecture_code": 38,
     "name": "四国中央市",
-    "name_k": "シコクチュウオウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シコクチュウオウシ"
   },
   {
     "code": "382141",
     "prefecture_code": 38,
     "name": "西予市",
-    "name_k": "セイヨシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セイヨシ"
   },
   {
     "code": "382159",
     "prefecture_code": 38,
     "name": "東温市",
-    "name_k": "トウオンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トウオンシ"
   },
   {
     "code": "383562",
     "prefecture_code": 38,
     "name": "上島町",
-    "name_k": "カミジマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミジマチョウ"
   },
   {
     "code": "383864",
     "prefecture_code": 38,
     "name": "久万高原町",
-    "name_k": "クマコウゲンチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クマコウゲンチョウ"
   },
   {
     "code": "384011",
     "prefecture_code": 38,
     "name": "松前町",
-    "name_k": "マサキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マサキチョウ"
   },
   {
     "code": "384020",
     "prefecture_code": 38,
     "name": "砥部町",
-    "name_k": "トベチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トベチョウ"
   },
   {
     "code": "384224",
     "prefecture_code": 38,
     "name": "内子町",
-    "name_k": "ウチコチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウチコチョウ"
   },
   {
     "code": "384429",
     "prefecture_code": 38,
     "name": "伊方町",
-    "name_k": "イカタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イカタチョウ"
   },
   {
     "code": "384844",
     "prefecture_code": 38,
     "name": "松野町",
-    "name_k": "マツノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マツノチョウ"
   },
   {
     "code": "384887",
     "prefecture_code": 38,
     "name": "鬼北町",
-    "name_k": "キホクチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キホクチョウ"
   },
   {
     "code": "385069",
     "prefecture_code": 38,
     "name": "愛南町",
-    "name_k": "アイナンチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アイナンチョウ"
   }
 ]

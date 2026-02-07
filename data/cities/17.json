@@ -3,133 +3,133 @@
     "code": "172014",
     "prefecture_code": 17,
     "name": "金沢市",
-    "name_k": "カナザワシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "カナザワシ"
   },
   {
     "code": "172022",
     "prefecture_code": 17,
     "name": "七尾市",
-    "name_k": "ナナオシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナナオシ"
   },
   {
     "code": "172031",
     "prefecture_code": 17,
     "name": "小松市",
-    "name_k": "コマツシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コマツシ"
   },
   {
     "code": "172049",
     "prefecture_code": 17,
     "name": "輪島市",
-    "name_k": "ワジマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ワジマシ"
   },
   {
     "code": "172057",
     "prefecture_code": 17,
     "name": "珠洲市",
-    "name_k": "スズシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "スズシ"
   },
   {
     "code": "172065",
     "prefecture_code": 17,
     "name": "加賀市",
-    "name_k": "カガシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カガシ"
   },
   {
     "code": "172073",
     "prefecture_code": 17,
     "name": "羽咋市",
-    "name_k": "ハクイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハクイシ"
   },
   {
     "code": "172090",
     "prefecture_code": 17,
     "name": "かほく市",
-    "name_k": "カホクシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カホクシ"
   },
   {
     "code": "172103",
     "prefecture_code": 17,
     "name": "白山市",
-    "name_k": "ハクサンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハクサンシ"
   },
   {
     "code": "172111",
     "prefecture_code": 17,
     "name": "能美市",
-    "name_k": "ノミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノミシ"
   },
   {
     "code": "172120",
     "prefecture_code": 17,
     "name": "野々市市",
-    "name_k": "ノノイチシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノノイチシ"
   },
   {
     "code": "173240",
     "prefecture_code": 17,
     "name": "川北町",
-    "name_k": "カワキタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワキタマチ"
   },
   {
     "code": "173614",
     "prefecture_code": 17,
     "name": "津幡町",
-    "name_k": "ツバタマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツバタマチ"
   },
   {
     "code": "173657",
     "prefecture_code": 17,
     "name": "内灘町",
-    "name_k": "ウチナダマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウチナダマチ"
   },
   {
     "code": "173843",
     "prefecture_code": 17,
     "name": "志賀町",
-    "name_k": "シカマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シカマチ"
   },
   {
     "code": "173860",
     "prefecture_code": 17,
     "name": "宝達志水町",
-    "name_k": "ホウダツシミズチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ホウダツシミズチョウ"
   },
   {
     "code": "174076",
     "prefecture_code": 17,
     "name": "中能登町",
-    "name_k": "ナカノトマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナカノトマチ"
   },
   {
     "code": "174611",
     "prefecture_code": 17,
     "name": "穴水町",
-    "name_k": "アナミズマチ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アナミズマチ"
   },
   {
     "code": "174637",
     "prefecture_code": 17,
     "name": "能登町",
-    "name_k": "ノトチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノトチョウ"
   }
 ]

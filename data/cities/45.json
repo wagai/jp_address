@@ -3,182 +3,182 @@
     "code": "452017",
     "prefecture_code": 45,
     "name": "宮崎市",
-    "name_k": "ミヤザキシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ミヤザキシ"
   },
   {
     "code": "452025",
     "prefecture_code": 45,
     "name": "都城市",
-    "name_k": "ミヤコノジョウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミヤコノジョウシ"
   },
   {
     "code": "452033",
     "prefecture_code": 45,
     "name": "延岡市",
-    "name_k": "ノベオカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ノベオカシ"
   },
   {
     "code": "452041",
     "prefecture_code": 45,
     "name": "日南市",
-    "name_k": "ニチナンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニチナンシ"
   },
   {
     "code": "452050",
     "prefecture_code": 45,
     "name": "小林市",
-    "name_k": "コバヤシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "コバヤシシ"
   },
   {
     "code": "452068",
     "prefecture_code": 45,
     "name": "日向市",
-    "name_k": "ヒュウガシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒュウガシ"
   },
   {
     "code": "452076",
     "prefecture_code": 45,
     "name": "串間市",
-    "name_k": "クシマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クシマシ"
   },
   {
     "code": "452084",
     "prefecture_code": 45,
     "name": "西都市",
-    "name_k": "サイトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サイトシ"
   },
   {
     "code": "452092",
     "prefecture_code": 45,
     "name": "えびの市",
-    "name_k": "エビノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "エビノシ"
   },
   {
     "code": "453412",
     "prefecture_code": 45,
     "name": "三股町",
-    "name_k": "ミマタチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミマタチョウ"
   },
   {
     "code": "453617",
     "prefecture_code": 45,
     "name": "高原町",
-    "name_k": "タカハルチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカハルチョウ"
   },
   {
     "code": "453820",
     "prefecture_code": 45,
     "name": "国富町",
-    "name_k": "クニトミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クニトミチョウ"
   },
   {
     "code": "453838",
     "prefecture_code": 45,
     "name": "綾町",
-    "name_k": "アヤチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アヤチョウ"
   },
   {
     "code": "454010",
     "prefecture_code": 45,
     "name": "高鍋町",
-    "name_k": "タカナベチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカナベチョウ"
   },
   {
     "code": "454028",
     "prefecture_code": 45,
     "name": "新富町",
-    "name_k": "シントミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シントミチョウ"
   },
   {
     "code": "454036",
     "prefecture_code": 45,
     "name": "西米良村",
-    "name_k": "ニシメラソン",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシメラソン"
   },
   {
     "code": "454044",
     "prefecture_code": 45,
     "name": "木城町",
-    "name_k": "キジョウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キジョウチョウ"
   },
   {
     "code": "454052",
     "prefecture_code": 45,
     "name": "川南町",
-    "name_k": "カワミナミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワミナミチョウ"
   },
   {
     "code": "454061",
     "prefecture_code": 45,
     "name": "都農町",
-    "name_k": "ツノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツノチョウ"
   },
   {
     "code": "454214",
     "prefecture_code": 45,
     "name": "門川町",
-    "name_k": "カドガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カドガワチョウ"
   },
   {
     "code": "454290",
     "prefecture_code": 45,
     "name": "諸塚村",
-    "name_k": "モロツカソン",
-    "capital": false
+    "capital": false,
+    "name_kana": "モロツカソン"
   },
   {
     "code": "454303",
     "prefecture_code": 45,
     "name": "椎葉村",
-    "name_k": "シイバソン",
-    "capital": false
+    "capital": false,
+    "name_kana": "シイバソン"
   },
   {
     "code": "454311",
     "prefecture_code": 45,
     "name": "美郷町",
-    "name_k": "ミサトチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミサトチョウ"
   },
   {
     "code": "454419",
     "prefecture_code": 45,
     "name": "高千穂町",
-    "name_k": "タカチホチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカチホチョウ"
   },
   {
     "code": "454427",
     "prefecture_code": 45,
     "name": "日之影町",
-    "name_k": "ヒノカゲチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒノカゲチョウ"
   },
   {
     "code": "454435",
     "prefecture_code": 45,
     "name": "五ヶ瀬町",
-    "name_k": "ゴカセチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴカセチョウ"
   }
 ]

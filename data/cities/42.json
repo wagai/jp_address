@@ -3,147 +3,147 @@
     "code": "422011",
     "prefecture_code": 42,
     "name": "長崎市",
-    "name_k": "ナガサキシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "ナガサキシ"
   },
   {
     "code": "422029",
     "prefecture_code": 42,
     "name": "佐世保市",
-    "name_k": "サセボシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サセボシ"
   },
   {
     "code": "422037",
     "prefecture_code": 42,
     "name": "島原市",
-    "name_k": "シマバラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シマバラシ"
   },
   {
     "code": "422045",
     "prefecture_code": 42,
     "name": "諫早市",
-    "name_k": "イサハヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イサハヤシ"
   },
   {
     "code": "422053",
     "prefecture_code": 42,
     "name": "大村市",
-    "name_k": "オオムラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オオムラシ"
   },
   {
     "code": "422070",
     "prefecture_code": 42,
     "name": "平戸市",
-    "name_k": "ヒラドシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒラドシ"
   },
   {
     "code": "422088",
     "prefecture_code": 42,
     "name": "松浦市",
-    "name_k": "マツウラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マツウラシ"
   },
   {
     "code": "422096",
     "prefecture_code": 42,
     "name": "対馬市",
-    "name_k": "ツシマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツシマシ"
   },
   {
     "code": "422100",
     "prefecture_code": 42,
     "name": "壱岐市",
-    "name_k": "イキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イキシ"
   },
   {
     "code": "422118",
     "prefecture_code": 42,
     "name": "五島市",
-    "name_k": "ゴトウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ゴトウシ"
   },
   {
     "code": "422126",
     "prefecture_code": 42,
     "name": "西海市",
-    "name_k": "サイカイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サイカイシ"
   },
   {
     "code": "422134",
     "prefecture_code": 42,
     "name": "雲仙市",
-    "name_k": "ウンゼンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ウンゼンシ"
   },
   {
     "code": "422142",
     "prefecture_code": 42,
     "name": "南島原市",
-    "name_k": "ミナミシマバラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミシマバラシ"
   },
   {
     "code": "423076",
     "prefecture_code": 42,
     "name": "長与町",
-    "name_k": "ナガヨチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナガヨチョウ"
   },
   {
     "code": "423084",
     "prefecture_code": 42,
     "name": "時津町",
-    "name_k": "トギツチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トギツチョウ"
   },
   {
     "code": "423211",
     "prefecture_code": 42,
     "name": "東彼杵町",
-    "name_k": "ヒガシソノギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒガシソノギチョウ"
   },
   {
     "code": "423220",
     "prefecture_code": 42,
     "name": "川棚町",
-    "name_k": "カワタナチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワタナチョウ"
   },
   {
     "code": "423238",
     "prefecture_code": 42,
     "name": "波佐見町",
-    "name_k": "ハサミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハサミチョウ"
   },
   {
     "code": "423831",
     "prefecture_code": 42,
     "name": "小値賀町",
-    "name_k": "オヂカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オヂカチョウ"
   },
   {
     "code": "423912",
     "prefecture_code": 42,
     "name": "佐々町",
-    "name_k": "サザチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サザチョウ"
   },
   {
     "code": "424111",
     "prefecture_code": 42,
     "name": "新上五島町",
-    "name_k": "シンカミゴトウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シンカミゴトウチョウ"
   }
 ]

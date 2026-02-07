@@ -3,350 +3,350 @@
     "code": "281000",
     "prefecture_code": 28,
     "name": "神戸市",
-    "name_k": "コウベシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "コウベシ"
   },
   {
     "code": "281018",
     "prefecture_code": 28,
     "name": "神戸市東灘区",
-    "name_k": "コウベシヒガシナダク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシヒガシナダク"
   },
   {
     "code": "281026",
     "prefecture_code": 28,
     "name": "神戸市灘区",
-    "name_k": "コウベシナダク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシナダク"
   },
   {
     "code": "281051",
     "prefecture_code": 28,
     "name": "神戸市兵庫区",
-    "name_k": "コウベシヒョウゴク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシヒョウゴク"
   },
   {
     "code": "281069",
     "prefecture_code": 28,
     "name": "神戸市長田区",
-    "name_k": "コウベシナガタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシナガタク"
   },
   {
     "code": "281077",
     "prefecture_code": 28,
     "name": "神戸市須磨区",
-    "name_k": "コウベシスマク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシスマク"
   },
   {
     "code": "281085",
     "prefecture_code": 28,
     "name": "神戸市垂水区",
-    "name_k": "コウベシタルミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシタルミク"
   },
   {
     "code": "281093",
     "prefecture_code": 28,
     "name": "神戸市北区",
-    "name_k": "コウベシキタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシキタク"
   },
   {
     "code": "281107",
     "prefecture_code": 28,
     "name": "神戸市中央区",
-    "name_k": "コウベシチュウオウク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシチュウオウク"
   },
   {
     "code": "281115",
     "prefecture_code": 28,
     "name": "神戸市西区",
-    "name_k": "コウベシニシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "コウベシニシク"
   },
   {
     "code": "282014",
     "prefecture_code": 28,
     "name": "姫路市",
-    "name_k": "ヒメジシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヒメジシ"
   },
   {
     "code": "282022",
     "prefecture_code": 28,
     "name": "尼崎市",
-    "name_k": "アマガサキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アマガサキシ"
   },
   {
     "code": "282031",
     "prefecture_code": 28,
     "name": "明石市",
-    "name_k": "アカシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アカシシ"
   },
   {
     "code": "282049",
     "prefecture_code": 28,
     "name": "西宮市",
-    "name_k": "ニシノミヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシノミヤシ"
   },
   {
     "code": "282057",
     "prefecture_code": 28,
     "name": "洲本市",
-    "name_k": "スモトシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "スモトシ"
   },
   {
     "code": "282065",
     "prefecture_code": 28,
     "name": "芦屋市",
-    "name_k": "アシヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アシヤシ"
   },
   {
     "code": "282073",
     "prefecture_code": 28,
     "name": "伊丹市",
-    "name_k": "イタミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イタミシ"
   },
   {
     "code": "282081",
     "prefecture_code": 28,
     "name": "相生市",
-    "name_k": "アイオイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アイオイシ"
   },
   {
     "code": "282090",
     "prefecture_code": 28,
     "name": "豊岡市",
-    "name_k": "トヨオカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "トヨオカシ"
   },
   {
     "code": "282103",
     "prefecture_code": 28,
     "name": "加古川市",
-    "name_k": "カコガワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カコガワシ"
   },
   {
     "code": "282120",
     "prefecture_code": 28,
     "name": "赤穂市",
-    "name_k": "アコウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アコウシ"
   },
   {
     "code": "282138",
     "prefecture_code": 28,
     "name": "西脇市",
-    "name_k": "ニシワキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシワキシ"
   },
   {
     "code": "282146",
     "prefecture_code": 28,
     "name": "宝塚市",
-    "name_k": "タカラヅカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカラヅカシ"
   },
   {
     "code": "282154",
     "prefecture_code": 28,
     "name": "三木市",
-    "name_k": "ミキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミキシ"
   },
   {
     "code": "282162",
     "prefecture_code": 28,
     "name": "高砂市",
-    "name_k": "タカサゴシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカサゴシ"
   },
   {
     "code": "282171",
     "prefecture_code": 28,
     "name": "川西市",
-    "name_k": "カワニシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カワニシシ"
   },
   {
     "code": "282189",
     "prefecture_code": 28,
     "name": "小野市",
-    "name_k": "オノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "オノシ"
   },
   {
     "code": "282197",
     "prefecture_code": 28,
     "name": "三田市",
-    "name_k": "サンダシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サンダシ"
   },
   {
     "code": "282201",
     "prefecture_code": 28,
     "name": "加西市",
-    "name_k": "カサイシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カサイシ"
   },
   {
     "code": "282219",
     "prefecture_code": 28,
     "name": "丹波篠山市",
-    "name_k": "タンバササヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タンバササヤマシ"
   },
   {
     "code": "282227",
     "prefecture_code": 28,
     "name": "養父市",
-    "name_k": "ヤブシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤブシ"
   },
   {
     "code": "282235",
     "prefecture_code": 28,
     "name": "丹波市",
-    "name_k": "タンバシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タンバシ"
   },
   {
     "code": "282243",
     "prefecture_code": 28,
     "name": "南あわじ市",
-    "name_k": "ミナミアワジシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミナミアワジシ"
   },
   {
     "code": "282251",
     "prefecture_code": 28,
     "name": "朝来市",
-    "name_k": "アサゴシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アサゴシ"
   },
   {
     "code": "282260",
     "prefecture_code": 28,
     "name": "淡路市",
-    "name_k": "アワジシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アワジシ"
   },
   {
     "code": "282278",
     "prefecture_code": 28,
     "name": "宍粟市",
-    "name_k": "シソウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シソウシ"
   },
   {
     "code": "282286",
     "prefecture_code": 28,
     "name": "加東市",
-    "name_k": "カトウシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カトウシ"
   },
   {
     "code": "282294",
     "prefecture_code": 28,
     "name": "たつの市",
-    "name_k": "タツノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タツノシ"
   },
   {
     "code": "283011",
     "prefecture_code": 28,
     "name": "猪名川町",
-    "name_k": "イナガワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イナガワチョウ"
   },
   {
     "code": "283657",
     "prefecture_code": 28,
     "name": "多可町",
-    "name_k": "タカチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカチョウ"
   },
   {
     "code": "283819",
     "prefecture_code": 28,
     "name": "稲美町",
-    "name_k": "イナミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イナミチョウ"
   },
   {
     "code": "283827",
     "prefecture_code": 28,
     "name": "播磨町",
-    "name_k": "ハリマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハリマチョウ"
   },
   {
     "code": "284424",
     "prefecture_code": 28,
     "name": "市川町",
-    "name_k": "イチカワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イチカワチョウ"
   },
   {
     "code": "284432",
     "prefecture_code": 28,
     "name": "福崎町",
-    "name_k": "フクサキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "フクサキチョウ"
   },
   {
     "code": "284467",
     "prefecture_code": 28,
     "name": "神河町",
-    "name_k": "カミカワチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミカワチョウ"
   },
   {
     "code": "284645",
     "prefecture_code": 28,
     "name": "太子町",
-    "name_k": "タイシチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タイシチョウ"
   },
   {
     "code": "284815",
     "prefecture_code": 28,
     "name": "上郡町",
-    "name_k": "カミゴオリチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミゴオリチョウ"
   },
   {
     "code": "285013",
     "prefecture_code": 28,
     "name": "佐用町",
-    "name_k": "サヨウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サヨウチョウ"
   },
   {
     "code": "285854",
     "prefecture_code": 28,
     "name": "香美町",
-    "name_k": "カミチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カミチョウ"
   },
   {
     "code": "285862",
     "prefecture_code": 28,
     "name": "新温泉町",
-    "name_k": "シンオンセンチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "シンオンセンチョウ"
   }
 ]

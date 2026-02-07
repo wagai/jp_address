@@ -2,9 +2,9 @@
 
 module JpAddress
   class Prefecture
-    attr_reader :code, :name, :name_e, :name_k, :name_h, :type, :capital_code
+    attr_reader :code, :name, :name_en, :name_kana, :name_hiragana, :type, :capital_code
 
-    ATTRIBUTES = %i[code name name_e name_k name_h type capital_code].freeze
+    ATTRIBUTES = %i[code name name_en name_kana name_hiragana type capital_code].freeze
 
     def initialize(**attrs)
       ATTRIBUTES.each { |key| instance_variable_set(:"@#{key}", attrs[key]) }
@@ -49,8 +49,8 @@ module JpAddress
       def find_by_options(options)
         if options[:name]
           all.find { |pref| pref.name == options[:name] }
-        elsif options[:name_e]
-          all.find { |pref| pref.name_e == options[:name_e] }
+        elsif options[:name_en]
+          all.find { |pref| pref.name_en == options[:name_en] }
         end
       end
     end

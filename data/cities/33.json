@@ -3,217 +3,217 @@
     "code": "331007",
     "prefecture_code": 33,
     "name": "岡山市",
-    "name_k": "オカヤマシ",
-    "capital": true
+    "capital": true,
+    "name_kana": "オカヤマシ"
   },
   {
     "code": "331015",
     "prefecture_code": 33,
     "name": "岡山市北区",
-    "name_k": "オカヤマシキタク",
-    "capital": false
+    "capital": false,
+    "name_kana": "オカヤマシキタク"
   },
   {
     "code": "331023",
     "prefecture_code": 33,
     "name": "岡山市中区",
-    "name_k": "オカヤマシナカク",
-    "capital": false
+    "capital": false,
+    "name_kana": "オカヤマシナカク"
   },
   {
     "code": "331031",
     "prefecture_code": 33,
     "name": "岡山市東区",
-    "name_k": "オカヤマシヒガシク",
-    "capital": false
+    "capital": false,
+    "name_kana": "オカヤマシヒガシク"
   },
   {
     "code": "331040",
     "prefecture_code": 33,
     "name": "岡山市南区",
-    "name_k": "オカヤマシミナミク",
-    "capital": false
+    "capital": false,
+    "name_kana": "オカヤマシミナミク"
   },
   {
     "code": "332020",
     "prefecture_code": 33,
     "name": "倉敷市",
-    "name_k": "クラシキシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クラシキシ"
   },
   {
     "code": "332038",
     "prefecture_code": 33,
     "name": "津山市",
-    "name_k": "ツヤマシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ツヤマシ"
   },
   {
     "code": "332046",
     "prefecture_code": 33,
     "name": "玉野市",
-    "name_k": "タマノシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タマノシ"
   },
   {
     "code": "332054",
     "prefecture_code": 33,
     "name": "笠岡市",
-    "name_k": "カサオカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カサオカシ"
   },
   {
     "code": "332071",
     "prefecture_code": 33,
     "name": "井原市",
-    "name_k": "イバラシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "イバラシ"
   },
   {
     "code": "332089",
     "prefecture_code": 33,
     "name": "総社市",
-    "name_k": "ソウジヤシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ソウジヤシ"
   },
   {
     "code": "332097",
     "prefecture_code": 33,
     "name": "高梁市",
-    "name_k": "タカハシシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "タカハシシ"
   },
   {
     "code": "332101",
     "prefecture_code": 33,
     "name": "新見市",
-    "name_k": "ニイミシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニイミシ"
   },
   {
     "code": "332119",
     "prefecture_code": 33,
     "name": "備前市",
-    "name_k": "ビゼンシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ビゼンシ"
   },
   {
     "code": "332127",
     "prefecture_code": 33,
     "name": "瀬戸内市",
-    "name_k": "セトウチシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "セトウチシ"
   },
   {
     "code": "332135",
     "prefecture_code": 33,
     "name": "赤磐市",
-    "name_k": "アカイワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アカイワシ"
   },
   {
     "code": "332143",
     "prefecture_code": 33,
     "name": "真庭市",
-    "name_k": "マニワシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "マニワシ"
   },
   {
     "code": "332151",
     "prefecture_code": 33,
     "name": "美作市",
-    "name_k": "ミマサカシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミマサカシ"
   },
   {
     "code": "332160",
     "prefecture_code": 33,
     "name": "浅口市",
-    "name_k": "アサクチシ",
-    "capital": false
+    "capital": false,
+    "name_kana": "アサクチシ"
   },
   {
     "code": "333468",
     "prefecture_code": 33,
     "name": "和気町",
-    "name_k": "ワケチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ワケチョウ"
   },
   {
     "code": "334235",
     "prefecture_code": 33,
     "name": "早島町",
-    "name_k": "ハヤシマチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ハヤシマチョウ"
   },
   {
     "code": "334456",
     "prefecture_code": 33,
     "name": "里庄町",
-    "name_k": "サトショウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "サトショウチョウ"
   },
   {
     "code": "334618",
     "prefecture_code": 33,
     "name": "矢掛町",
-    "name_k": "ヤカゲチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ヤカゲチョウ"
   },
   {
     "code": "335860",
     "prefecture_code": 33,
     "name": "新庄村",
-    "name_k": "シンジヨウソン",
-    "capital": false
+    "capital": false,
+    "name_kana": "シンジヨウソン"
   },
   {
     "code": "336068",
     "prefecture_code": 33,
     "name": "鏡野町",
-    "name_k": "カガミノチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "カガミノチョウ"
   },
   {
     "code": "336220",
     "prefecture_code": 33,
     "name": "勝央町",
-    "name_k": "ショウオウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ショウオウチョウ"
   },
   {
     "code": "336238",
     "prefecture_code": 33,
     "name": "奈義町",
-    "name_k": "ナギチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ナギチョウ"
   },
   {
     "code": "336432",
     "prefecture_code": 33,
     "name": "西粟倉村",
-    "name_k": "ニシアワクラソン",
-    "capital": false
+    "capital": false,
+    "name_kana": "ニシアワクラソン"
   },
   {
     "code": "336637",
     "prefecture_code": 33,
     "name": "久米南町",
-    "name_k": "クメナンチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "クメナンチョウ"
   },
   {
     "code": "336661",
     "prefecture_code": 33,
     "name": "美咲町",
-    "name_k": "ミサキチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "ミサキチョウ"
   },
   {
     "code": "336815",
     "prefecture_code": 33,
     "name": "吉備中央町",
-    "name_k": "キビチュウオウチョウ",
-    "capital": false
+    "capital": false,
+    "name_kana": "キビチュウオウチョウ"
   }
 ]

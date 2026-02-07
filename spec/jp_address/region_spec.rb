@@ -6,10 +6,10 @@ RSpec.describe JpAddress::Region do
       expect(described_class.all.size).to eq(8)
     end
 
-    it "各地方がname, name_e, prefecture_codesを持つ" do
+    it "各地方がname, name_en, prefecture_codesを持つ" do
       region = described_class.all.first
       expect(region.name).to eq("北海道")
-      expect(region.name_e).to eq("Hokkaido")
+      expect(region.name_en).to eq("Hokkaido")
       expect(region.prefecture_codes).to eq([1])
     end
   end
