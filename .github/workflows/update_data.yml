@@ -1,0 +1,50 @@
+name: 月次データ更新
+
+on:
+  schedule:
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+
+      - name: 市区町村データ更新
+        run: |
+          gem install jp_local_gov
+          ruby tasks/import/cities.rb
+
+      - name: 郵便番号データ更新
+        run: |
+          curl -sL -o /tmp/ken_all.zip "https://www.post.japanpost.jp/zipcode/dl/kogaki/zip/ken_all.zip"
+          unzip -o /tmp/ken_all.zip -d /tmp/ken_all
+          ruby tasks/import/postal_codes.rb
+
+      - name: 変更チェック・PR作成
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet data/; then
+            echo "データ変更なし"
+            exit 0
+          fi
+
+          BRANCH="data-update-$(date +%Y%m)"
+          git checkout -b "$BRANCH"
+          git add data/
+          git commit -m "chore: 月次データ更新 $(date +%Y-%m)"
+          git push origin "$BRANCH"
+          gh pr create --title "chore: 月次データ更新 $(date +%Y-%m)" --body "自動生成されたデータ更新PR"
