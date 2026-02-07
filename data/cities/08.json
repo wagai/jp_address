@@ -1,0 +1,310 @@
+[
+  {
+    "code": "082015",
+    "prefecture_code": 8,
+    "name": "水戸市",
+    "name_k": "ミトシ",
+    "capital": true
+  },
+  {
+    "code": "082023",
+    "prefecture_code": 8,
+    "name": "日立市",
+    "name_k": "ヒタチシ",
+    "capital": false
+  },
+  {
+    "code": "082031",
+    "prefecture_code": 8,
+    "name": "土浦市",
+    "name_k": "ツチウラシ",
+    "capital": false
+  },
+  {
+    "code": "082040",
+    "prefecture_code": 8,
+    "name": "古河市",
+    "name_k": "コガシ",
+    "capital": false
+  },
+  {
+    "code": "082058",
+    "prefecture_code": 8,
+    "name": "石岡市",
+    "name_k": "イシオカシ",
+    "capital": false
+  },
+  {
+    "code": "082074",
+    "prefecture_code": 8,
+    "name": "結城市",
+    "name_k": "ユウキシ",
+    "capital": false
+  },
+  {
+    "code": "082082",
+    "prefecture_code": 8,
+    "name": "龍ケ崎市",
+    "name_k": "リュウガサキシ",
+    "capital": false
+  },
+  {
+    "code": "082104",
+    "prefecture_code": 8,
+    "name": "下妻市",
+    "name_k": "シモツマシ",
+    "capital": false
+  },
+  {
+    "code": "082112",
+    "prefecture_code": 8,
+    "name": "常総市",
+    "name_k": "ジョウソウシ",
+    "capital": false
+  },
+  {
+    "code": "082121",
+    "prefecture_code": 8,
+    "name": "常陸太田市",
+    "name_k": "ヒタチオオタシ",
+    "capital": false
+  },
+  {
+    "code": "082147",
+    "prefecture_code": 8,
+    "name": "高萩市",
+    "name_k": "タカハギシ",
+    "capital": false
+  },
+  {
+    "code": "082155",
+    "prefecture_code": 8,
+    "name": "北茨城市",
+    "name_k": "キタイバラキシ",
+    "capital": false
+  },
+  {
+    "code": "082163",
+    "prefecture_code": 8,
+    "name": "笠間市",
+    "name_k": "カサマシ",
+    "capital": false
+  },
+  {
+    "code": "082171",
+    "prefecture_code": 8,
+    "name": "取手市",
+    "name_k": "トリデシ",
+    "capital": false
+  },
+  {
+    "code": "082198",
+    "prefecture_code": 8,
+    "name": "牛久市",
+    "name_k": "ウシクシ",
+    "capital": false
+  },
+  {
+    "code": "082201",
+    "prefecture_code": 8,
+    "name": "つくば市",
+    "name_k": "ツクバシ",
+    "capital": false
+  },
+  {
+    "code": "082210",
+    "prefecture_code": 8,
+    "name": "ひたちなか市",
+    "name_k": "ヒタチナカシ",
+    "capital": false
+  },
+  {
+    "code": "082228",
+    "prefecture_code": 8,
+    "name": "鹿嶋市",
+    "name_k": "カシマシ",
+    "capital": false
+  },
+  {
+    "code": "082236",
+    "prefecture_code": 8,
+    "name": "潮来市",
+    "name_k": "イタコシ",
+    "capital": false
+  },
+  {
+    "code": "082244",
+    "prefecture_code": 8,
+    "name": "守谷市",
+    "name_k": "モリヤシ",
+    "capital": false
+  },
+  {
+    "code": "082252",
+    "prefecture_code": 8,
+    "name": "常陸大宮市",
+    "name_k": "ヒタチオオミヤシ",
+    "capital": false
+  },
+  {
+    "code": "082261",
+    "prefecture_code": 8,
+    "name": "那珂市",
+    "name_k": "ナカシ",
+    "capital": false
+  },
+  {
+    "code": "082279",
+    "prefecture_code": 8,
+    "name": "筑西市",
+    "name_k": "チクセイシ",
+    "capital": false
+  },
+  {
+    "code": "082287",
+    "prefecture_code": 8,
+    "name": "坂東市",
+    "name_k": "バンドウシ",
+    "capital": false
+  },
+  {
+    "code": "082295",
+    "prefecture_code": 8,
+    "name": "稲敷市",
+    "name_k": "イナシキシ",
+    "capital": false
+  },
+  {
+    "code": "082309",
+    "prefecture_code": 8,
+    "name": "かすみがうら市",
+    "name_k": "カスミガウラシ",
+    "capital": false
+  },
+  {
+    "code": "082317",
+    "prefecture_code": 8,
+    "name": "桜川市",
+    "name_k": "サクラガワシ",
+    "capital": false
+  },
+  {
+    "code": "082325",
+    "prefecture_code": 8,
+    "name": "神栖市",
+    "name_k": "カミスシ",
+    "capital": false
+  },
+  {
+    "code": "082333",
+    "prefecture_code": 8,
+    "name": "行方市",
+    "name_k": "ナメガタシ",
+    "capital": false
+  },
+  {
+    "code": "082341",
+    "prefecture_code": 8,
+    "name": "鉾田市",
+    "name_k": "ホコタシ",
+    "capital": false
+  },
+  {
+    "code": "082350",
+    "prefecture_code": 8,
+    "name": "つくばみらい市",
+    "name_k": "ツクバミライシ",
+    "capital": false
+  },
+  {
+    "code": "082368",
+    "prefecture_code": 8,
+    "name": "小美玉市",
+    "name_k": "オミタマシ",
+    "capital": false
+  },
+  {
+    "code": "083020",
+    "prefecture_code": 8,
+    "name": "茨城町",
+    "name_k": "イバラキマチ",
+    "capital": false
+  },
+  {
+    "code": "083097",
+    "prefecture_code": 8,
+    "name": "大洗町",
+    "name_k": "オオアライマチ",
+    "capital": false
+  },
+  {
+    "code": "083101",
+    "prefecture_code": 8,
+    "name": "城里町",
+    "name_k": "シロサトマチ",
+    "capital": false
+  },
+  {
+    "code": "083411",
+    "prefecture_code": 8,
+    "name": "東海村",
+    "name_k": "トウカイムラ",
+    "capital": false
+  },
+  {
+    "code": "083640",
+    "prefecture_code": 8,
+    "name": "大子町",
+    "name_k": "ダイゴマチ",
+    "capital": false
+  },
+  {
+    "code": "084425",
+    "prefecture_code": 8,
+    "name": "美浦村",
+    "name_k": "ミホムラ",
+    "capital": false
+  },
+  {
+    "code": "084433",
+    "prefecture_code": 8,
+    "name": "阿見町",
+    "name_k": "アミマチ",
+    "capital": false
+  },
+  {
+    "code": "084476",
+    "prefecture_code": 8,
+    "name": "河内町",
+    "name_k": "カワチマチ",
+    "capital": false
+  },
+  {
+    "code": "085219",
+    "prefecture_code": 8,
+    "name": "八千代町",
+    "name_k": "ヤチヨマチ",
+    "capital": false
+  },
+  {
+    "code": "085421",
+    "prefecture_code": 8,
+    "name": "五霞町",
+    "name_k": "ゴカマチ",
+    "capital": false
+  },
+  {
+    "code": "085464",
+    "prefecture_code": 8,
+    "name": "境町",
+    "name_k": "サカイマチ",
+    "capital": false
+  },
+  {
+    "code": "085642",
+    "prefecture_code": 8,
+    "name": "利根町",
+    "name_k": "トネマチ",
+    "capital": false
+  }
+]

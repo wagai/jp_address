@@ -1,0 +1,177 @@
+[
+  {
+    "code": "052019",
+    "prefecture_code": 5,
+    "name": "秋田市",
+    "name_k": "アキタシ",
+    "capital": true
+  },
+  {
+    "code": "052027",
+    "prefecture_code": 5,
+    "name": "能代市",
+    "name_k": "ノシロシ",
+    "capital": false
+  },
+  {
+    "code": "052035",
+    "prefecture_code": 5,
+    "name": "横手市",
+    "name_k": "ヨコテシ",
+    "capital": false
+  },
+  {
+    "code": "052043",
+    "prefecture_code": 5,
+    "name": "大館市",
+    "name_k": "オオダテシ",
+    "capital": false
+  },
+  {
+    "code": "052060",
+    "prefecture_code": 5,
+    "name": "男鹿市",
+    "name_k": "オガシ",
+    "capital": false
+  },
+  {
+    "code": "052078",
+    "prefecture_code": 5,
+    "name": "湯沢市",
+    "name_k": "ユザワシ",
+    "capital": false
+  },
+  {
+    "code": "052094",
+    "prefecture_code": 5,
+    "name": "鹿角市",
+    "name_k": "カヅノシ",
+    "capital": false
+  },
+  {
+    "code": "052108",
+    "prefecture_code": 5,
+    "name": "由利本荘市",
+    "name_k": "ユリホンジョウシ",
+    "capital": false
+  },
+  {
+    "code": "052116",
+    "prefecture_code": 5,
+    "name": "潟上市",
+    "name_k": "カタガミシ",
+    "capital": false
+  },
+  {
+    "code": "052124",
+    "prefecture_code": 5,
+    "name": "大仙市",
+    "name_k": "ダイセンシ",
+    "capital": false
+  },
+  {
+    "code": "052132",
+    "prefecture_code": 5,
+    "name": "北秋田市",
+    "name_k": "キタアキタシ",
+    "capital": false
+  },
+  {
+    "code": "052141",
+    "prefecture_code": 5,
+    "name": "にかほ市",
+    "name_k": "ニカホシ",
+    "capital": false
+  },
+  {
+    "code": "052159",
+    "prefecture_code": 5,
+    "name": "仙北市",
+    "name_k": "センボクシ",
+    "capital": false
+  },
+  {
+    "code": "053031",
+    "prefecture_code": 5,
+    "name": "小坂町",
+    "name_k": "コサカマチ",
+    "capital": false
+  },
+  {
+    "code": "053279",
+    "prefecture_code": 5,
+    "name": "上小阿仁村",
+    "name_k": "カミコアニムラ",
+    "capital": false
+  },
+  {
+    "code": "053465",
+    "prefecture_code": 5,
+    "name": "藤里町",
+    "name_k": "フジサトマチ",
+    "capital": false
+  },
+  {
+    "code": "053481",
+    "prefecture_code": 5,
+    "name": "三種町",
+    "name_k": "ミタネチョウ",
+    "capital": false
+  },
+  {
+    "code": "053490",
+    "prefecture_code": 5,
+    "name": "八峰町",
+    "name_k": "ハッポウチョウ",
+    "capital": false
+  },
+  {
+    "code": "053619",
+    "prefecture_code": 5,
+    "name": "五城目町",
+    "name_k": "ゴジョウメマチ",
+    "capital": false
+  },
+  {
+    "code": "053635",
+    "prefecture_code": 5,
+    "name": "八郎潟町",
+    "name_k": "ハチロウガタマチ",
+    "capital": false
+  },
+  {
+    "code": "053660",
+    "prefecture_code": 5,
+    "name": "井川町",
+    "name_k": "イカワマチ",
+    "capital": false
+  },
+  {
+    "code": "053686",
+    "prefecture_code": 5,
+    "name": "大潟村",
+    "name_k": "オオガタムラ",
+    "capital": false
+  },
+  {
+    "code": "054348",
+    "prefecture_code": 5,
+    "name": "美郷町",
+    "name_k": "ミサトチョウ",
+    "capital": false
+  },
+  {
+    "code": "054631",
+    "prefecture_code": 5,
+    "name": "羽後町",
+    "name_k": "ウゴマチ",
+    "capital": false
+  },
+  {
+    "code": "054640",
+    "prefecture_code": 5,
+    "name": "東成瀬村",
+    "name_k": "ヒガシナルセムラ",
+    "capital": false
+  }
+]

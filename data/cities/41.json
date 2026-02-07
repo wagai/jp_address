@@ -1,0 +1,142 @@
+[
+  {
+    "code": "412015",
+    "prefecture_code": 41,
+    "name": "佐賀市",
+    "name_k": "サガシ",
+    "capital": true
+  },
+  {
+    "code": "412023",
+    "prefecture_code": 41,
+    "name": "唐津市",
+    "name_k": "カラツシ",
+    "capital": false
+  },
+  {
+    "code": "412031",
+    "prefecture_code": 41,
+    "name": "鳥栖市",
+    "name_k": "トスシ",
+    "capital": false
+  },
+  {
+    "code": "412040",
+    "prefecture_code": 41,
+    "name": "多久市",
+    "name_k": "タクシ",
+    "capital": false
+  },
+  {
+    "code": "412058",
+    "prefecture_code": 41,
+    "name": "伊万里市",
+    "name_k": "イマリシ",
+    "capital": false
+  },
+  {
+    "code": "412066",
+    "prefecture_code": 41,
+    "name": "武雄市",
+    "name_k": "タケオシ",
+    "capital": false
+  },
+  {
+    "code": "412074",
+    "prefecture_code": 41,
+    "name": "鹿島市",
+    "name_k": "カシマシ",
+    "capital": false
+  },
+  {
+    "code": "412082",
+    "prefecture_code": 41,
+    "name": "小城市",
+    "name_k": "オギシ",
+    "capital": false
+  },
+  {
+    "code": "412091",
+    "prefecture_code": 41,
+    "name": "嬉野市",
+    "name_k": "ウレシノシ",
+    "capital": false
+  },
+  {
+    "code": "412104",
+    "prefecture_code": 41,
+    "name": "神埼市",
+    "name_k": "カンザキシ",
+    "capital": false
+  },
+  {
+    "code": "413275",
+    "prefecture_code": 41,
+    "name": "吉野ヶ里町",
+    "name_k": "ヨシノガリチョウ",
+    "capital": false
+  },
+  {
+    "code": "413411",
+    "prefecture_code": 41,
+    "name": "基山町",
+    "name_k": "キヤマチョウ",
+    "capital": false
+  },
+  {
+    "code": "413453",
+    "prefecture_code": 41,
+    "name": "上峰町",
+    "name_k": "カミミネチョウ",
+    "capital": false
+  },
+  {
+    "code": "413461",
+    "prefecture_code": 41,
+    "name": "みやき町",
+    "name_k": "ミヤキチョウ",
+    "capital": false
+  },
+  {
+    "code": "413879",
+    "prefecture_code": 41,
+    "name": "玄海町",
+    "name_k": "ゲンカイチョウ",
+    "capital": false
+  },
+  {
+    "code": "414018",
+    "prefecture_code": 41,
+    "name": "有田町",
+    "name_k": "アリタチョウ",
+    "capital": false
+  },
+  {
+    "code": "414239",
+    "prefecture_code": 41,
+    "name": "大町町",
+    "name_k": "オオマチチョウ",
+    "capital": false
+  },
+  {
+    "code": "414247",
+    "prefecture_code": 41,
+    "name": "江北町",
+    "name_k": "コウホクマチ",
+    "capital": false
+  },
+  {
+    "code": "414255",
+    "prefecture_code": 41,
+    "name": "白石町",
+    "name_k": "シロイシチョウ",
+    "capital": false
+  },
+  {
+    "code": "414417",
+    "prefecture_code": 41,
+    "name": "太良町",
+    "name_k": "タラチョウ",
+    "capital": false
+  }
+]

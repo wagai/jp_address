@@ -1,0 +1,415 @@
+[
+  {
+    "code": "072010",
+    "prefecture_code": 7,
+    "name": "福島市",
+    "name_k": "フクシマシ",
+    "capital": true
+  },
+  {
+    "code": "072028",
+    "prefecture_code": 7,
+    "name": "会津若松市",
+    "name_k": "アイヅワカマツシ",
+    "capital": false
+  },
+  {
+    "code": "072036",
+    "prefecture_code": 7,
+    "name": "郡山市",
+    "name_k": "コオリヤマシ",
+    "capital": false
+  },
+  {
+    "code": "072044",
+    "prefecture_code": 7,
+    "name": "いわき市",
+    "name_k": "イワキシ",
+    "capital": false
+  },
+  {
+    "code": "072052",
+    "prefecture_code": 7,
+    "name": "白河市",
+    "name_k": "シラカワシ",
+    "capital": false
+  },
+  {
+    "code": "072079",
+    "prefecture_code": 7,
+    "name": "須賀川市",
+    "name_k": "スカガワシ",
+    "capital": false
+  },
+  {
+    "code": "072087",
+    "prefecture_code": 7,
+    "name": "喜多方市",
+    "name_k": "キタカタシ",
+    "capital": false
+  },
+  {
+    "code": "072095",
+    "prefecture_code": 7,
+    "name": "相馬市",
+    "name_k": "ソウマシ",
+    "capital": false
+  },
+  {
+    "code": "072109",
+    "prefecture_code": 7,
+    "name": "二本松市",
+    "name_k": "ニホンマツシ",
+    "capital": false
+  },
+  {
+    "code": "072117",
+    "prefecture_code": 7,
+    "name": "田村市",
+    "name_k": "タムラシ",
+    "capital": false
+  },
+  {
+    "code": "072125",
+    "prefecture_code": 7,
+    "name": "南相馬市",
+    "name_k": "ミナミソウマシ",
+    "capital": false
+  },
+  {
+    "code": "072133",
+    "prefecture_code": 7,
+    "name": "伊達市",
+    "name_k": "ダテシ",
+    "capital": false
+  },
+  {
+    "code": "072141",
+    "prefecture_code": 7,
+    "name": "本宮市",
+    "name_k": "モトミヤシ",
+    "capital": false
+  },
+  {
+    "code": "073016",
+    "prefecture_code": 7,
+    "name": "桑折町",
+    "name_k": "コオリマチ",
+    "capital": false
+  },
+  {
+    "code": "073032",
+    "prefecture_code": 7,
+    "name": "国見町",
+    "name_k": "クニミマチ",
+    "capital": false
+  },
+  {
+    "code": "073083",
+    "prefecture_code": 7,
+    "name": "川俣町",
+    "name_k": "カワマタマチ",
+    "capital": false
+  },
+  {
+    "code": "073229",
+    "prefecture_code": 7,
+    "name": "大玉村",
+    "name_k": "オオタマムラ",
+    "capital": false
+  },
+  {
+    "code": "073423",
+    "prefecture_code": 7,
+    "name": "鏡石町",
+    "name_k": "カガミイシマチ",
+    "capital": false
+  },
+  {
+    "code": "073440",
+    "prefecture_code": 7,
+    "name": "天栄村",
+    "name_k": "テンエイムラ",
+    "capital": false
+  },
+  {
+    "code": "073628",
+    "prefecture_code": 7,
+    "name": "下郷町",
+    "name_k": "シモゴウマチ",
+    "capital": false
+  },
+  {
+    "code": "073644",
+    "prefecture_code": 7,
+    "name": "檜枝岐村",
+    "name_k": "ヒノエマタムラ",
+    "capital": false
+  },
+  {
+    "code": "073679",
+    "prefecture_code": 7,
+    "name": "只見町",
+    "name_k": "タダミマチ",
+    "capital": false
+  },
+  {
+    "code": "073687",
+    "prefecture_code": 7,
+    "name": "南会津町",
+    "name_k": "ミナミアイヅマチ",
+    "capital": false
+  },
+  {
+    "code": "074021",
+    "prefecture_code": 7,
+    "name": "北塩原村",
+    "name_k": "キタシオバラムラ",
+    "capital": false
+  },
+  {
+    "code": "074055",
+    "prefecture_code": 7,
+    "name": "西会津町",
+    "name_k": "ニシアイヅマチ",
+    "capital": false
+  },
+  {
+    "code": "074071",
+    "prefecture_code": 7,
+    "name": "磐梯町",
+    "name_k": "バンダイマチ",
+    "capital": false
+  },
+  {
+    "code": "074080",
+    "prefecture_code": 7,
+    "name": "猪苗代町",
+    "name_k": "イナワシロマチ",
+    "capital": false
+  },
+  {
+    "code": "074217",
+    "prefecture_code": 7,
+    "name": "会津坂下町",
+    "name_k": "アイヅバンゲマチ",
+    "capital": false
+  },
+  {
+    "code": "074225",
+    "prefecture_code": 7,
+    "name": "湯川村",
+    "name_k": "ユガワムラ",
+    "capital": false
+  },
+  {
+    "code": "074233",
+    "prefecture_code": 7,
+    "name": "柳津町",
+    "name_k": "ヤナイヅマチ",
+    "capital": false
+  },
+  {
+    "code": "074446",
+    "prefecture_code": 7,
+    "name": "三島町",
+    "name_k": "ミシママチ",
+    "capital": false
+  },
+  {
+    "code": "074454",
+    "prefecture_code": 7,
+    "name": "金山町",
+    "name_k": "カネヤママチ",
+    "capital": false
+  },
+  {
+    "code": "074462",
+    "prefecture_code": 7,
+    "name": "昭和村",
+    "name_k": "ショウワムラ",
+    "capital": false
+  },
+  {
+    "code": "074471",
+    "prefecture_code": 7,
+    "name": "会津美里町",
+    "name_k": "アイヅミサトマチ",
+    "capital": false
+  },
+  {
+    "code": "074616",
+    "prefecture_code": 7,
+    "name": "西郷村",
+    "name_k": "ニシゴウムラ",
+    "capital": false
+  },
+  {
+    "code": "074641",
+    "prefecture_code": 7,
+    "name": "泉崎村",
+    "name_k": "イズミザキムラ",
+    "capital": false
+  },
+  {
+    "code": "074659",
+    "prefecture_code": 7,
+    "name": "中島村",
+    "name_k": "ナカジマムラ",
+    "capital": false
+  },
+  {
+    "code": "074667",
+    "prefecture_code": 7,
+    "name": "矢吹町",
+    "name_k": "ヤブキマチ",
+    "capital": false
+  },
+  {
+    "code": "074811",
+    "prefecture_code": 7,
+    "name": "棚倉町",
+    "name_k": "タナグラマチ",
+    "capital": false
+  },
+  {
+    "code": "074829",
+    "prefecture_code": 7,
+    "name": "矢祭町",
+    "name_k": "ヤマツリマチ",
+    "capital": false
+  },
+  {
+    "code": "074837",
+    "prefecture_code": 7,
+    "name": "塙町",
+    "name_k": "ハナワマチ",
+    "capital": false
+  },
+  {
+    "code": "074845",
+    "prefecture_code": 7,
+    "name": "鮫川村",
+    "name_k": "サメガワムラ",
+    "capital": false
+  },
+  {
+    "code": "075019",
+    "prefecture_code": 7,
+    "name": "石川町",
+    "name_k": "イシカワマチ",
+    "capital": false
+  },
+  {
+    "code": "075027",
+    "prefecture_code": 7,
+    "name": "玉川村",
+    "name_k": "タマカワムラ",
+    "capital": false
+  },
+  {
+    "code": "075035",
+    "prefecture_code": 7,
+    "name": "平田村",
+    "name_k": "ヒラタムラ",
+    "capital": false
+  },
+  {
+    "code": "075043",
+    "prefecture_code": 7,
+    "name": "浅川町",
+    "name_k": "アサカワマチ",
+    "capital": false
+  },
+  {
+    "code": "075051",
+    "prefecture_code": 7,
+    "name": "古殿町",
+    "name_k": "フルドノマチ",
+    "capital": false
+  },
+  {
+    "code": "075213",
+    "prefecture_code": 7,
+    "name": "三春町",
+    "name_k": "ミハルマチ",
+    "capital": false
+  },
+  {
+    "code": "075221",
+    "prefecture_code": 7,
+    "name": "小野町",
+    "name_k": "オノマチ",
+    "capital": false
+  },
+  {
+    "code": "075418",
+    "prefecture_code": 7,
+    "name": "広野町",
+    "name_k": "ヒロノマチ",
+    "capital": false
+  },
+  {
+    "code": "075426",
+    "prefecture_code": 7,
+    "name": "楢葉町",
+    "name_k": "ナラハマチ",
+    "capital": false
+  },
+  {
+    "code": "075434",
+    "prefecture_code": 7,
+    "name": "富岡町",
+    "name_k": "トミオカマチ",
+    "capital": false
+  },
+  {
+    "code": "075442",
+    "prefecture_code": 7,
+    "name": "川内村",
+    "name_k": "カワウチムラ",
+    "capital": false
+  },
+  {
+    "code": "075451",
+    "prefecture_code": 7,
+    "name": "大熊町",
+    "name_k": "オオクママチ",
+    "capital": false
+  },
+  {
+    "code": "075469",
+    "prefecture_code": 7,
+    "name": "双葉町",
+    "name_k": "フタバマチ",
+    "capital": false
+  },
+  {
+    "code": "075477",
+    "prefecture_code": 7,
+    "name": "浪江町",
+    "name_k": "ナミエマチ",
+    "capital": false
+  },
+  {
+    "code": "075485",
+    "prefecture_code": 7,
+    "name": "葛尾村",
+    "name_k": "カツラオムラ",
+    "capital": false
+  },
+  {
+    "code": "075612",
+    "prefecture_code": 7,
+    "name": "新地町",
+    "name_k": "シンチマチ",
+    "capital": false
+  },
+  {
+    "code": "075647",
+    "prefecture_code": 7,
+    "name": "飯舘村",
+    "name_k": "イイタテムラ",
+    "capital": false
+  }
+]

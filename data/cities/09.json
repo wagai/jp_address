@@ -1,0 +1,177 @@
+[
+  {
+    "code": "092011",
+    "prefecture_code": 9,
+    "name": "宇都宮市",
+    "name_k": "ウツノミヤシ",
+    "capital": true
+  },
+  {
+    "code": "092029",
+    "prefecture_code": 9,
+    "name": "足利市",
+    "name_k": "アシカガシ",
+    "capital": false
+  },
+  {
+    "code": "092037",
+    "prefecture_code": 9,
+    "name": "栃木市",
+    "name_k": "トチギシ",
+    "capital": false
+  },
+  {
+    "code": "092045",
+    "prefecture_code": 9,
+    "name": "佐野市",
+    "name_k": "サノシ",
+    "capital": false
+  },
+  {
+    "code": "092053",
+    "prefecture_code": 9,
+    "name": "鹿沼市",
+    "name_k": "カヌマシ",
+    "capital": false
+  },
+  {
+    "code": "092061",
+    "prefecture_code": 9,
+    "name": "日光市",
+    "name_k": "ニッコウシ",
+    "capital": false
+  },
+  {
+    "code": "092088",
+    "prefecture_code": 9,
+    "name": "小山市",
+    "name_k": "オヤマシ",
+    "capital": false
+  },
+  {
+    "code": "092096",
+    "prefecture_code": 9,
+    "name": "真岡市",
+    "name_k": "モオカシ",
+    "capital": false
+  },
+  {
+    "code": "092100",
+    "prefecture_code": 9,
+    "name": "大田原市",
+    "name_k": "オオタワラシ",
+    "capital": false
+  },
+  {
+    "code": "092118",
+    "prefecture_code": 9,
+    "name": "矢板市",
+    "name_k": "ヤイタシ",
+    "capital": false
+  },
+  {
+    "code": "092134",
+    "prefecture_code": 9,
+    "name": "那須塩原市",
+    "name_k": "ナスシオバラシ",
+    "capital": false
+  },
+  {
+    "code": "092142",
+    "prefecture_code": 9,
+    "name": "さくら市",
+    "name_k": "サクラシ",
+    "capital": false
+  },
+  {
+    "code": "092151",
+    "prefecture_code": 9,
+    "name": "那須烏山市",
+    "name_k": "ナスカラスヤマシ",
+    "capital": false
+  },
+  {
+    "code": "092169",
+    "prefecture_code": 9,
+    "name": "下野市",
+    "name_k": "シモツケシ",
+    "capital": false
+  },
+  {
+    "code": "093017",
+    "prefecture_code": 9,
+    "name": "上三川町",
+    "name_k": "カミノカワマチ",
+    "capital": false
+  },
+  {
+    "code": "093424",
+    "prefecture_code": 9,
+    "name": "益子町",
+    "name_k": "マシコマチ",
+    "capital": false
+  },
+  {
+    "code": "093432",
+    "prefecture_code": 9,
+    "name": "茂木町",
+    "name_k": "モテギマチ",
+    "capital": false
+  },
+  {
+    "code": "093441",
+    "prefecture_code": 9,
+    "name": "市貝町",
+    "name_k": "イチカイマチ",
+    "capital": false
+  },
+  {
+    "code": "093459",
+    "prefecture_code": 9,
+    "name": "芳賀町",
+    "name_k": "ハガマチ",
+    "capital": false
+  },
+  {
+    "code": "093611",
+    "prefecture_code": 9,
+    "name": "壬生町",
+    "name_k": "ミブマチ",
+    "capital": false
+  },
+  {
+    "code": "093645",
+    "prefecture_code": 9,
+    "name": "野木町",
+    "name_k": "ノギマチ",
+    "capital": false
+  },
+  {
+    "code": "093840",
+    "prefecture_code": 9,
+    "name": "塩谷町",
+    "name_k": "シオヤマチ",
+    "capital": false
+  },
+  {
+    "code": "093866",
+    "prefecture_code": 9,
+    "name": "高根沢町",
+    "name_k": "タカネザワマチ",
+    "capital": false
+  },
+  {
+    "code": "094072",
+    "prefecture_code": 9,
+    "name": "那須町",
+    "name_k": "ナスマチ",
+    "capital": false
+  },
+  {
+    "code": "094111",
+    "prefecture_code": 9,
+    "name": "那珂川町",
+    "name_k": "ナカガワマチ",
+    "capital": false
+  }
+]

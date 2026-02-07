@@ -1,0 +1,205 @@
+[
+  {
+    "code": "242012",
+    "prefecture_code": 24,
+    "name": "津市",
+    "name_k": "ツシ",
+    "capital": true
+  },
+  {
+    "code": "242021",
+    "prefecture_code": 24,
+    "name": "四日市市",
+    "name_k": "ヨッカイチシ",
+    "capital": false
+  },
+  {
+    "code": "242039",
+    "prefecture_code": 24,
+    "name": "伊勢市",
+    "name_k": "イセシ",
+    "capital": false
+  },
+  {
+    "code": "242047",
+    "prefecture_code": 24,
+    "name": "松阪市",
+    "name_k": "マツサカシ",
+    "capital": false
+  },
+  {
+    "code": "242055",
+    "prefecture_code": 24,
+    "name": "桑名市",
+    "name_k": "クワナシ",
+    "capital": false
+  },
+  {
+    "code": "242071",
+    "prefecture_code": 24,
+    "name": "鈴鹿市",
+    "name_k": "スズカシ",
+    "capital": false
+  },
+  {
+    "code": "242080",
+    "prefecture_code": 24,
+    "name": "名張市",
+    "name_k": "ナバリシ",
+    "capital": false
+  },
+  {
+    "code": "242098",
+    "prefecture_code": 24,
+    "name": "尾鷲市",
+    "name_k": "オワセシ",
+    "capital": false
+  },
+  {
+    "code": "242101",
+    "prefecture_code": 24,
+    "name": "亀山市",
+    "name_k": "カメヤマシ",
+    "capital": false
+  },
+  {
+    "code": "242110",
+    "prefecture_code": 24,
+    "name": "鳥羽市",
+    "name_k": "トバシ",
+    "capital": false
+  },
+  {
+    "code": "242128",
+    "prefecture_code": 24,
+    "name": "熊野市",
+    "name_k": "クマノシ",
+    "capital": false
+  },
+  {
+    "code": "242144",
+    "prefecture_code": 24,
+    "name": "いなべ市",
+    "name_k": "イナベシ",
+    "capital": false
+  },
+  {
+    "code": "242152",
+    "prefecture_code": 24,
+    "name": "志摩市",
+    "name_k": "シマシ",
+    "capital": false
+  },
+  {
+    "code": "242161",
+    "prefecture_code": 24,
+    "name": "伊賀市",
+    "name_k": "イガシ",
+    "capital": false
+  },
+  {
+    "code": "243035",
+    "prefecture_code": 24,
+    "name": "木曽岬町",
+    "name_k": "キソサキチョウ",
+    "capital": false
+  },
+  {
+    "code": "243248",
+    "prefecture_code": 24,
+    "name": "東員町",
+    "name_k": "トウインチョウ",
+    "capital": false
+  },
+  {
+    "code": "243418",
+    "prefecture_code": 24,
+    "name": "菰野町",
+    "name_k": "コモノチョウ",
+    "capital": false
+  },
+  {
+    "code": "243434",
+    "prefecture_code": 24,
+    "name": "朝日町",
+    "name_k": "アサヒチョウ",
+    "capital": false
+  },
+  {
+    "code": "243442",
+    "prefecture_code": 24,
+    "name": "川越町",
+    "name_k": "カワゴエチョウ",
+    "capital": false
+  },
+  {
+    "code": "244414",
+    "prefecture_code": 24,
+    "name": "多気町",
+    "name_k": "タキチョウ",
+    "capital": false
+  },
+  {
+    "code": "244422",
+    "prefecture_code": 24,
+    "name": "明和町",
+    "name_k": "メイワチョウ",
+    "capital": false
+  },
+  {
+    "code": "244431",
+    "prefecture_code": 24,
+    "name": "大台町",
+    "name_k": "オオダイチョウ",
+    "capital": false
+  },
+  {
+    "code": "244619",
+    "prefecture_code": 24,
+    "name": "玉城町",
+    "name_k": "タマキチョウ",
+    "capital": false
+  },
+  {
+    "code": "244708",
+    "prefecture_code": 24,
+    "name": "度会町",
+    "name_k": "ワタライチョウ",
+    "capital": false
+  },
+  {
+    "code": "244716",
+    "prefecture_code": 24,
+    "name": "大紀町",
+    "name_k": "タイキチョウ",
+    "capital": false
+  },
+  {
+    "code": "244724",
+    "prefecture_code": 24,
+    "name": "南伊勢町",
+    "name_k": "ミナミイセチョウ",
+    "capital": false
+  },
+  {
+    "code": "245437",
+    "prefecture_code": 24,
+    "name": "紀北町",
+    "name_k": "キホクチョウ",
+    "capital": false
+  },
+  {
+    "code": "245615",
+    "prefecture_code": 24,
+    "name": "御浜町",
+    "name_k": "ミハマチョウ",
+    "capital": false
+  },
+  {
+    "code": "245623",
+    "prefecture_code": 24,
+    "name": "紀宝町",
+    "name_k": "キホウチョウ",
+    "capital": false
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "code": "322016",
+    "prefecture_code": 32,
+    "name": "松江市",
+    "name_k": "マツエシ",
+    "capital": true
+  },
+  {
+    "code": "322024",
+    "prefecture_code": 32,
+    "name": "浜田市",
+    "name_k": "ハマダシ",
+    "capital": false
+  },
+  {
+    "code": "322032",
+    "prefecture_code": 32,
+    "name": "出雲市",
+    "name_k": "イズモシ",
+    "capital": false
+  },
+  {
+    "code": "322041",
+    "prefecture_code": 32,
+    "name": "益田市",
+    "name_k": "マスダシ",
+    "capital": false
+  },
+  {
+    "code": "322059",
+    "prefecture_code": 32,
+    "name": "大田市",
+    "name_k": "オオダシ",
+    "capital": false
+  },
+  {
+    "code": "322067",
+    "prefecture_code": 32,
+    "name": "安来市",
+    "name_k": "ヤスギシ",
+    "capital": false
+  },
+  {
+    "code": "322075",
+    "prefecture_code": 32,
+    "name": "江津市",
+    "name_k": "ゴウツシ",
+    "capital": false
+  },
+  {
+    "code": "322091",
+    "prefecture_code": 32,
+    "name": "雲南市",
+    "name_k": "ウンナンシ",
+    "capital": false
+  },
+  {
+    "code": "323438",
+    "prefecture_code": 32,
+    "name": "奥出雲町",
+    "name_k": "オクイズモチョウ",
+    "capital": false
+  },
+  {
+    "code": "323861",
+    "prefecture_code": 32,
+    "name": "飯南町",
+    "name_k": "イイナンチョウ",
+    "capital": false
+  },
+  {
+    "code": "324418",
+    "prefecture_code": 32,
+    "name": "川本町",
+    "name_k": "カワモトマチ",
+    "capital": false
+  },
+  {
+    "code": "324485",
+    "prefecture_code": 32,
+    "name": "美郷町",
+    "name_k": "ミサトチョウ",
+    "capital": false
+  },
+  {
+    "code": "324493",
+    "prefecture_code": 32,
+    "name": "邑南町",
+    "name_k": "オオナンチョウ",
+    "capital": false
+  },
+  {
+    "code": "325015",
+    "prefecture_code": 32,
+    "name": "津和野町",
+    "name_k": "ツワノチョウ",
+    "capital": false
+  },
+  {
+    "code": "325058",
+    "prefecture_code": 32,
+    "name": "吉賀町",
+    "name_k": "ヨシカチョウ",
+    "capital": false
+  },
+  {
+    "code": "325252",
+    "prefecture_code": 32,
+    "name": "海士町",
+    "name_k": "アマチョウ",
+    "capital": false
+  },
+  {
+    "code": "325261",
+    "prefecture_code": 32,
+    "name": "西ノ島町",
+    "name_k": "ニシノシマチョウ",
+    "capital": false
+  },
+  {
+    "code": "325279",
+    "prefecture_code": 32,
+    "name": "知夫村",
+    "name_k": "チブムラ",
+    "capital": false
+  },
+  {
+    "code": "325287",
+    "prefecture_code": 32,
+    "name": "隠岐の島町",
+    "name_k": "オキノシマチョウ",
+    "capital": false
+  }
+]

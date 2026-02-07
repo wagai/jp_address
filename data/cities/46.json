@@ -1,0 +1,303 @@
+[
+  {
+    "code": "462012",
+    "prefecture_code": 46,
+    "name": "鹿児島市",
+    "name_k": "カゴシマシ",
+    "capital": true
+  },
+  {
+    "code": "462039",
+    "prefecture_code": 46,
+    "name": "鹿屋市",
+    "name_k": "カノヤシ",
+    "capital": false
+  },
+  {
+    "code": "462047",
+    "prefecture_code": 46,
+    "name": "枕崎市",
+    "name_k": "マクラザキシ",
+    "capital": false
+  },
+  {
+    "code": "462063",
+    "prefecture_code": 46,
+    "name": "阿久根市",
+    "name_k": "アクネシ",
+    "capital": false
+  },
+  {
+    "code": "462080",
+    "prefecture_code": 46,
+    "name": "出水市",
+    "name_k": "イズミシ",
+    "capital": false
+  },
+  {
+    "code": "462101",
+    "prefecture_code": 46,
+    "name": "指宿市",
+    "name_k": "イブスキシ",
+    "capital": false
+  },
+  {
+    "code": "462136",
+    "prefecture_code": 46,
+    "name": "西之表市",
+    "name_k": "ニシノオモテシ",
+    "capital": false
+  },
+  {
+    "code": "462144",
+    "prefecture_code": 46,
+    "name": "垂水市",
+    "name_k": "タルミズシ",
+    "capital": false
+  },
+  {
+    "code": "462152",
+    "prefecture_code": 46,
+    "name": "薩摩川内市",
+    "name_k": "サツマセンダイシ",
+    "capital": false
+  },
+  {
+    "code": "462161",
+    "prefecture_code": 46,
+    "name": "日置市",
+    "name_k": "ヒオキシ",
+    "capital": false
+  },
+  {
+    "code": "462179",
+    "prefecture_code": 46,
+    "name": "曽於市",
+    "name_k": "ソオシ",
+    "capital": false
+  },
+  {
+    "code": "462187",
+    "prefecture_code": 46,
+    "name": "霧島市",
+    "name_k": "キリシマシ",
+    "capital": false
+  },
+  {
+    "code": "462195",
+    "prefecture_code": 46,
+    "name": "いちき串木野市",
+    "name_k": "イチキクシキノシ",
+    "capital": false
+  },
+  {
+    "code": "462209",
+    "prefecture_code": 46,
+    "name": "南さつま市",
+    "name_k": "ミナミサツマシ",
+    "capital": false
+  },
+  {
+    "code": "462217",
+    "prefecture_code": 46,
+    "name": "志布志市",
+    "name_k": "シブシシ",
+    "capital": false
+  },
+  {
+    "code": "462225",
+    "prefecture_code": 46,
+    "name": "奄美市",
+    "name_k": "アマミシ",
+    "capital": false
+  },
+  {
+    "code": "462233",
+    "prefecture_code": 46,
+    "name": "南九州市",
+    "name_k": "ミナミキュウシュウシ",
+    "capital": false
+  },
+  {
+    "code": "462241",
+    "prefecture_code": 46,
+    "name": "伊佐市",
+    "name_k": "イサシ",
+    "capital": false
+  },
+  {
+    "code": "462250",
+    "prefecture_code": 46,
+    "name": "姶良市",
+    "name_k": "アイラシ",
+    "capital": false
+  },
+  {
+    "code": "463035",
+    "prefecture_code": 46,
+    "name": "三島村",
+    "name_k": "ミシマムラ",
+    "capital": false
+  },
+  {
+    "code": "463043",
+    "prefecture_code": 46,
+    "name": "十島村",
+    "name_k": "トシマムラ",
+    "capital": false
+  },
+  {
+    "code": "463922",
+    "prefecture_code": 46,
+    "name": "さつま町",
+    "name_k": "サツマチョウ",
+    "capital": false
+  },
+  {
+    "code": "464040",
+    "prefecture_code": 46,
+    "name": "長島町",
+    "name_k": "ナガシマチョウ",
+    "capital": false
+  },
+  {
+    "code": "464520",
+    "prefecture_code": 46,
+    "name": "湧水町",
+    "name_k": "ユウスイチョウ",
+    "capital": false
+  },
+  {
+    "code": "464686",
+    "prefecture_code": 46,
+    "name": "大崎町",
+    "name_k": "オオサキチョウ",
+    "capital": false
+  },
+  {
+    "code": "464821",
+    "prefecture_code": 46,
+    "name": "東串良町",
+    "name_k": "ヒガシクシラチョウ",
+    "capital": false
+  },
+  {
+    "code": "464902",
+    "prefecture_code": 46,
+    "name": "錦江町",
+    "name_k": "キンコウチョウ",
+    "capital": false
+  },
+  {
+    "code": "464911",
+    "prefecture_code": 46,
+    "name": "南大隅町",
+    "name_k": "ミナミオオスミチョウ",
+    "capital": false
+  },
+  {
+    "code": "464929",
+    "prefecture_code": 46,
+    "name": "肝付町",
+    "name_k": "キモツキチョウ",
+    "capital": false
+  },
+  {
+    "code": "465011",
+    "prefecture_code": 46,
+    "name": "中種子町",
+    "name_k": "ナカタネチョウ",
+    "capital": false
+  },
+  {
+    "code": "465020",
+    "prefecture_code": 46,
+    "name": "南種子町",
+    "name_k": "ミナミタネチョウ",
+    "capital": false
+  },
+  {
+    "code": "465054",
+    "prefecture_code": 46,
+    "name": "屋久島町",
+    "name_k": "ヤクシマチョウ",
+    "capital": false
+  },
+  {
+    "code": "465232",
+    "prefecture_code": 46,
+    "name": "大和村",
+    "name_k": "ヤマトソン",
+    "capital": false
+  },
+  {
+    "code": "465241",
+    "prefecture_code": 46,
+    "name": "宇検村",
+    "name_k": "ウケンソン",
+    "capital": false
+  },
+  {
+    "code": "465259",
+    "prefecture_code": 46,
+    "name": "瀬戸内町",
+    "name_k": "セトウチチョウ",
+    "capital": false
+  },
+  {
+    "code": "465275",
+    "prefecture_code": 46,
+    "name": "龍郷町",
+    "name_k": "タツゴウチョウ",
+    "capital": false
+  },
+  {
+    "code": "465291",
+    "prefecture_code": 46,
+    "name": "喜界町",
+    "name_k": "キカイチョウ",
+    "capital": false
+  },
+  {
+    "code": "465305",
+    "prefecture_code": 46,
+    "name": "徳之島町",
+    "name_k": "トクノシマチョウ",
+    "capital": false
+  },
+  {
+    "code": "465313",
+    "prefecture_code": 46,
+    "name": "天城町",
+    "name_k": "アマギチョウ",
+    "capital": false
+  },
+  {
+    "code": "465321",
+    "prefecture_code": 46,
+    "name": "伊仙町",
+    "name_k": "イセンチョウ",
+    "capital": false
+  },
+  {
+    "code": "465330",
+    "prefecture_code": 46,
+    "name": "和泊町",
+    "name_k": "ワドマリチョウ",
+    "capital": false
+  },
+  {
+    "code": "465348",
+    "prefecture_code": 46,
+    "name": "知名町",
+    "name_k": "チナチョウ",
+    "capital": false
+  },
+  {
+    "code": "465356",
+    "prefecture_code": 46,
+    "name": "与論町",
+    "name_k": "ヨロンチョウ",
+    "capital": false
+  }
+]

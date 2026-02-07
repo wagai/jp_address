@@ -1,0 +1,191 @@
+[
+  {
+    "code": "192015",
+    "prefecture_code": 19,
+    "name": "甲府市",
+    "name_k": "コウフシ",
+    "capital": true
+  },
+  {
+    "code": "192023",
+    "prefecture_code": 19,
+    "name": "富士吉田市",
+    "name_k": "フジヨシダシ",
+    "capital": false
+  },
+  {
+    "code": "192040",
+    "prefecture_code": 19,
+    "name": "都留市",
+    "name_k": "ツルシ",
+    "capital": false
+  },
+  {
+    "code": "192058",
+    "prefecture_code": 19,
+    "name": "山梨市",
+    "name_k": "ヤマナシシ",
+    "capital": false
+  },
+  {
+    "code": "192066",
+    "prefecture_code": 19,
+    "name": "大月市",
+    "name_k": "オオツキシ",
+    "capital": false
+  },
+  {
+    "code": "192074",
+    "prefecture_code": 19,
+    "name": "韮崎市",
+    "name_k": "ニラサキシ",
+    "capital": false
+  },
+  {
+    "code": "192082",
+    "prefecture_code": 19,
+    "name": "南アルプス市",
+    "name_k": "ミナミアルプスシ",
+    "capital": false
+  },
+  {
+    "code": "192091",
+    "prefecture_code": 19,
+    "name": "北杜市",
+    "name_k": "ホクトシ",
+    "capital": false
+  },
+  {
+    "code": "192104",
+    "prefecture_code": 19,
+    "name": "甲斐市",
+    "name_k": "カイシ",
+    "capital": false
+  },
+  {
+    "code": "192112",
+    "prefecture_code": 19,
+    "name": "笛吹市",
+    "name_k": "フエフキシ",
+    "capital": false
+  },
+  {
+    "code": "192121",
+    "prefecture_code": 19,
+    "name": "上野原市",
+    "name_k": "ウエノハラシ",
+    "capital": false
+  },
+  {
+    "code": "192139",
+    "prefecture_code": 19,
+    "name": "甲州市",
+    "name_k": "コウシュウシ",
+    "capital": false
+  },
+  {
+    "code": "192147",
+    "prefecture_code": 19,
+    "name": "中央市",
+    "name_k": "チュウオウシ",
+    "capital": false
+  },
+  {
+    "code": "193461",
+    "prefecture_code": 19,
+    "name": "市川三郷町",
+    "name_k": "イチカワミサトチョウ",
+    "capital": false
+  },
+  {
+    "code": "193640",
+    "prefecture_code": 19,
+    "name": "早川町",
+    "name_k": "ハヤカワチョウ",
+    "capital": false
+  },
+  {
+    "code": "193658",
+    "prefecture_code": 19,
+    "name": "身延町",
+    "name_k": "ミノブチョウ",
+    "capital": false
+  },
+  {
+    "code": "193666",
+    "prefecture_code": 19,
+    "name": "南部町",
+    "name_k": "ナンブチョウ",
+    "capital": false
+  },
+  {
+    "code": "193682",
+    "prefecture_code": 19,
+    "name": "富士川町",
+    "name_k": "フジカワチョウ",
+    "capital": false
+  },
+  {
+    "code": "193844",
+    "prefecture_code": 19,
+    "name": "昭和町",
+    "name_k": "ショウワチョウ",
+    "capital": false
+  },
+  {
+    "code": "194221",
+    "prefecture_code": 19,
+    "name": "道志村",
+    "name_k": "ドウシムラ",
+    "capital": false
+  },
+  {
+    "code": "194239",
+    "prefecture_code": 19,
+    "name": "西桂町",
+    "name_k": "ニシカツラチョウ",
+    "capital": false
+  },
+  {
+    "code": "194247",
+    "prefecture_code": 19,
+    "name": "忍野村",
+    "name_k": "オシノムラ",
+    "capital": false
+  },
+  {
+    "code": "194255",
+    "prefecture_code": 19,
+    "name": "山中湖村",
+    "name_k": "ヤマナカコムラ",
+    "capital": false
+  },
+  {
+    "code": "194298",
+    "prefecture_code": 19,
+    "name": "鳴沢村",
+    "name_k": "ナルサワムラ",
+    "capital": false
+  },
+  {
+    "code": "194301",
+    "prefecture_code": 19,
+    "name": "富士河口湖町",
+    "name_k": "フジカワグチコマチ",
+    "capital": false
+  },
+  {
+    "code": "194425",
+    "prefecture_code": 19,
+    "name": "小菅村",
+    "name_k": "コスゲムラ",
+    "capital": false
+  },
+  {
+    "code": "194433",
+    "prefecture_code": 19,
+    "name": "丹波山村",
+    "name_k": "タバヤマムラ",
+    "capital": false
+  }
+]

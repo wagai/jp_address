@@ -1,0 +1,275 @@
+[
+  {
+    "code": "292010",
+    "prefecture_code": 29,
+    "name": "奈良市",
+    "name_k": "ナラシ",
+    "capital": true
+  },
+  {
+    "code": "292028",
+    "prefecture_code": 29,
+    "name": "大和高田市",
+    "name_k": "ヤマトタカダシ",
+    "capital": false
+  },
+  {
+    "code": "292036",
+    "prefecture_code": 29,
+    "name": "大和郡山市",
+    "name_k": "ヤマトコオリヤマシ",
+    "capital": false
+  },
+  {
+    "code": "292044",
+    "prefecture_code": 29,
+    "name": "天理市",
+    "name_k": "テンリシ",
+    "capital": false
+  },
+  {
+    "code": "292052",
+    "prefecture_code": 29,
+    "name": "橿原市",
+    "name_k": "カシハラシ",
+    "capital": false
+  },
+  {
+    "code": "292061",
+    "prefecture_code": 29,
+    "name": "桜井市",
+    "name_k": "サクライシ",
+    "capital": false
+  },
+  {
+    "code": "292079",
+    "prefecture_code": 29,
+    "name": "五條市",
+    "name_k": "ゴジョウシ",
+    "capital": false
+  },
+  {
+    "code": "292087",
+    "prefecture_code": 29,
+    "name": "御所市",
+    "name_k": "ゴセシ",
+    "capital": false
+  },
+  {
+    "code": "292095",
+    "prefecture_code": 29,
+    "name": "生駒市",
+    "name_k": "イコマシ",
+    "capital": false
+  },
+  {
+    "code": "292109",
+    "prefecture_code": 29,
+    "name": "香芝市",
+    "name_k": "カシバシ",
+    "capital": false
+  },
+  {
+    "code": "292117",
+    "prefecture_code": 29,
+    "name": "葛城市",
+    "name_k": "カツラギシ",
+    "capital": false
+  },
+  {
+    "code": "292125",
+    "prefecture_code": 29,
+    "name": "宇陀市",
+    "name_k": "ウダシ",
+    "capital": false
+  },
+  {
+    "code": "293229",
+    "prefecture_code": 29,
+    "name": "山添村",
+    "name_k": "ヤマゾエムラ",
+    "capital": false
+  },
+  {
+    "code": "293423",
+    "prefecture_code": 29,
+    "name": "平群町",
+    "name_k": "ヘグリチョウ",
+    "capital": false
+  },
+  {
+    "code": "293431",
+    "prefecture_code": 29,
+    "name": "三郷町",
+    "name_k": "サンゴウチョウ",
+    "capital": false
+  },
+  {
+    "code": "293440",
+    "prefecture_code": 29,
+    "name": "斑鳩町",
+    "name_k": "イカルガチョウ",
+    "capital": false
+  },
+  {
+    "code": "293458",
+    "prefecture_code": 29,
+    "name": "安堵町",
+    "name_k": "アンドチョウ",
+    "capital": false
+  },
+  {
+    "code": "293610",
+    "prefecture_code": 29,
+    "name": "川西町",
+    "name_k": "カワニシチョウ",
+    "capital": false
+  },
+  {
+    "code": "293628",
+    "prefecture_code": 29,
+    "name": "三宅町",
+    "name_k": "ミヤケチョウ",
+    "capital": false
+  },
+  {
+    "code": "293636",
+    "prefecture_code": 29,
+    "name": "田原本町",
+    "name_k": "タワラモトチョウ",
+    "capital": false
+  },
+  {
+    "code": "293857",
+    "prefecture_code": 29,
+    "name": "曽爾村",
+    "name_k": "ソニムラ",
+    "capital": false
+  },
+  {
+    "code": "293865",
+    "prefecture_code": 29,
+    "name": "御杖村",
+    "name_k": "ミツエムラ",
+    "capital": false
+  },
+  {
+    "code": "294012",
+    "prefecture_code": 29,
+    "name": "高取町",
+    "name_k": "タカトリチョウ",
+    "capital": false
+  },
+  {
+    "code": "294021",
+    "prefecture_code": 29,
+    "name": "明日香村",
+    "name_k": "アスカムラ",
+    "capital": false
+  },
+  {
+    "code": "294241",
+    "prefecture_code": 29,
+    "name": "上牧町",
+    "name_k": "カンマキチョウ",
+    "capital": false
+  },
+  {
+    "code": "294250",
+    "prefecture_code": 29,
+    "name": "王寺町",
+    "name_k": "オウジチョウ",
+    "capital": false
+  },
+  {
+    "code": "294268",
+    "prefecture_code": 29,
+    "name": "広陵町",
+    "name_k": "コウリヨウチョウ",
+    "capital": false
+  },
+  {
+    "code": "294276",
+    "prefecture_code": 29,
+    "name": "河合町",
+    "name_k": "カワイチョウ",
+    "capital": false
+  },
+  {
+    "code": "294411",
+    "prefecture_code": 29,
+    "name": "吉野町",
+    "name_k": "ヨシノチョウ",
+    "capital": false
+  },
+  {
+    "code": "294420",
+    "prefecture_code": 29,
+    "name": "大淀町",
+    "name_k": "オオヨドチョウ",
+    "capital": false
+  },
+  {
+    "code": "294438",
+    "prefecture_code": 29,
+    "name": "下市町",
+    "name_k": "シモイチチョウ",
+    "capital": false
+  },
+  {
+    "code": "294446",
+    "prefecture_code": 29,
+    "name": "黒滝村",
+    "name_k": "クロタキムラ",
+    "capital": false
+  },
+  {
+    "code": "294462",
+    "prefecture_code": 29,
+    "name": "天川村",
+    "name_k": "テンカワムラ",
+    "capital": false
+  },
+  {
+    "code": "294471",
+    "prefecture_code": 29,
+    "name": "野迫川村",
+    "name_k": "ノセガワムラ",
+    "capital": false
+  },
+  {
+    "code": "294497",
+    "prefecture_code": 29,
+    "name": "十津川村",
+    "name_k": "トツカワムラ",
+    "capital": false
+  },
+  {
+    "code": "294501",
+    "prefecture_code": 29,
+    "name": "下北山村",
+    "name_k": "シモキタヤマムラ",
+    "capital": false
+  },
+  {
+    "code": "294519",
+    "prefecture_code": 29,
+    "name": "上北山村",
+    "name_k": "カミキタヤマムラ",
+    "capital": false
+  },
+  {
+    "code": "294527",
+    "prefecture_code": 29,
+    "name": "川上村",
+    "name_k": "カワカミムラ",
+    "capital": false
+  },
+  {
+    "code": "294535",
+    "prefecture_code": 29,
+    "name": "東吉野村",
+    "name_k": "ヒガシヨシノムラ",
+    "capital": false
+  }
+]

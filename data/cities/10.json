@@ -1,0 +1,247 @@
+[
+  {
+    "code": "102016",
+    "prefecture_code": 10,
+    "name": "前橋市",
+    "name_k": "マエバシシ",
+    "capital": true
+  },
+  {
+    "code": "102024",
+    "prefecture_code": 10,
+    "name": "高崎市",
+    "name_k": "タカサキシ",
+    "capital": false
+  },
+  {
+    "code": "102032",
+    "prefecture_code": 10,
+    "name": "桐生市",
+    "name_k": "キリュウシ",
+    "capital": false
+  },
+  {
+    "code": "102041",
+    "prefecture_code": 10,
+    "name": "伊勢崎市",
+    "name_k": "イセサキシ",
+    "capital": false
+  },
+  {
+    "code": "102059",
+    "prefecture_code": 10,
+    "name": "太田市",
+    "name_k": "オオタシ",
+    "capital": false
+  },
+  {
+    "code": "102067",
+    "prefecture_code": 10,
+    "name": "沼田市",
+    "name_k": "ヌマタシ",
+    "capital": false
+  },
+  {
+    "code": "102075",
+    "prefecture_code": 10,
+    "name": "館林市",
+    "name_k": "タテバヤシシ",
+    "capital": false
+  },
+  {
+    "code": "102083",
+    "prefecture_code": 10,
+    "name": "渋川市",
+    "name_k": "シブカワシ",
+    "capital": false
+  },
+  {
+    "code": "102091",
+    "prefecture_code": 10,
+    "name": "藤岡市",
+    "name_k": "フジオカシ",
+    "capital": false
+  },
+  {
+    "code": "102105",
+    "prefecture_code": 10,
+    "name": "富岡市",
+    "name_k": "トミオカシ",
+    "capital": false
+  },
+  {
+    "code": "102113",
+    "prefecture_code": 10,
+    "name": "安中市",
+    "name_k": "アンナカシ",
+    "capital": false
+  },
+  {
+    "code": "102121",
+    "prefecture_code": 10,
+    "name": "みどり市",
+    "name_k": "ミドリシ",
+    "capital": false
+  },
+  {
+    "code": "103446",
+    "prefecture_code": 10,
+    "name": "榛東村",
+    "name_k": "シントウムラ",
+    "capital": false
+  },
+  {
+    "code": "103454",
+    "prefecture_code": 10,
+    "name": "吉岡町",
+    "name_k": "ヨシオカマチ",
+    "capital": false
+  },
+  {
+    "code": "103667",
+    "prefecture_code": 10,
+    "name": "上野村",
+    "name_k": "ウエノムラ",
+    "capital": false
+  },
+  {
+    "code": "103675",
+    "prefecture_code": 10,
+    "name": "神流町",
+    "name_k": "カンナマチ",
+    "capital": false
+  },
+  {
+    "code": "103829",
+    "prefecture_code": 10,
+    "name": "下仁田町",
+    "name_k": "シモニタマチ",
+    "capital": false
+  },
+  {
+    "code": "103837",
+    "prefecture_code": 10,
+    "name": "南牧村",
+    "name_k": "ナンモクムラ",
+    "capital": false
+  },
+  {
+    "code": "103845",
+    "prefecture_code": 10,
+    "name": "甘楽町",
+    "name_k": "カンラマチ",
+    "capital": false
+  },
+  {
+    "code": "104213",
+    "prefecture_code": 10,
+    "name": "中之条町",
+    "name_k": "ナカノジヨウマチ",
+    "capital": false
+  },
+  {
+    "code": "104248",
+    "prefecture_code": 10,
+    "name": "長野原町",
+    "name_k": "ナガノハラマチ",
+    "capital": false
+  },
+  {
+    "code": "104256",
+    "prefecture_code": 10,
+    "name": "嬬恋村",
+    "name_k": "ツマゴイムラ",
+    "capital": false
+  },
+  {
+    "code": "104264",
+    "prefecture_code": 10,
+    "name": "草津町",
+    "name_k": "クサツマチ",
+    "capital": false
+  },
+  {
+    "code": "104281",
+    "prefecture_code": 10,
+    "name": "高山村",
+    "name_k": "タカヤマムラ",
+    "capital": false
+  },
+  {
+    "code": "104299",
+    "prefecture_code": 10,
+    "name": "東吾妻町",
+    "name_k": "ヒガシアガツママチ",
+    "capital": false
+  },
+  {
+    "code": "104434",
+    "prefecture_code": 10,
+    "name": "片品村",
+    "name_k": "カタシナムラ",
+    "capital": false
+  },
+  {
+    "code": "104442",
+    "prefecture_code": 10,
+    "name": "川場村",
+    "name_k": "カワバムラ",
+    "capital": false
+  },
+  {
+    "code": "104485",
+    "prefecture_code": 10,
+    "name": "昭和村",
+    "name_k": "ショウワムラ",
+    "capital": false
+  },
+  {
+    "code": "104493",
+    "prefecture_code": 10,
+    "name": "みなかみ町",
+    "name_k": "ミナカミマチ",
+    "capital": false
+  },
+  {
+    "code": "104647",
+    "prefecture_code": 10,
+    "name": "玉村町",
+    "name_k": "タマムラマチ",
+    "capital": false
+  },
+  {
+    "code": "105210",
+    "prefecture_code": 10,
+    "name": "板倉町",
+    "name_k": "イタクラマチ",
+    "capital": false
+  },
+  {
+    "code": "105228",
+    "prefecture_code": 10,
+    "name": "明和町",
+    "name_k": "メイワマチ",
+    "capital": false
+  },
+  {
+    "code": "105236",
+    "prefecture_code": 10,
+    "name": "千代田町",
+    "name_k": "チヨダマチ",
+    "capital": false
+  },
+  {
+    "code": "105244",
+    "prefecture_code": 10,
+    "name": "大泉町",
+    "name_k": "オオイズミマチ",
+    "capital": false
+  },
+  {
+    "code": "105252",
+    "prefecture_code": 10,
+    "name": "邑楽町",
+    "name_k": "オウラマチ",
+    "capital": false
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "code": "392014",
+    "prefecture_code": 39,
+    "name": "高知市",
+    "name_k": "コウチシ",
+    "capital": true
+  },
+  {
+    "code": "392022",
+    "prefecture_code": 39,
+    "name": "室戸市",
+    "name_k": "ムロトシ",
+    "capital": false
+  },
+  {
+    "code": "392031",
+    "prefecture_code": 39,
+    "name": "安芸市",
+    "name_k": "アキシ",
+    "capital": false
+  },
+  {
+    "code": "392049",
+    "prefecture_code": 39,
+    "name": "南国市",
+    "name_k": "ナンコクシ",
+    "capital": false
+  },
+  {
+    "code": "392057",
+    "prefecture_code": 39,
+    "name": "土佐市",
+    "name_k": "トサシ",
+    "capital": false
+  },
+  {
+    "code": "392065",
+    "prefecture_code": 39,
+    "name": "須崎市",
+    "name_k": "スサキシ",
+    "capital": false
+  },
+  {
+    "code": "392081",
+    "prefecture_code": 39,
+    "name": "宿毛市",
+    "name_k": "スクモシ",
+    "capital": false
+  },
+  {
+    "code": "392090",
+    "prefecture_code": 39,
+    "name": "土佐清水市",
+    "name_k": "トサシミズシ",
+    "capital": false
+  },
+  {
+    "code": "392103",
+    "prefecture_code": 39,
+    "name": "四万十市",
+    "name_k": "シマントシ",
+    "capital": false
+  },
+  {
+    "code": "392111",
+    "prefecture_code": 39,
+    "name": "香南市",
+    "name_k": "コウナンシ",
+    "capital": false
+  },
+  {
+    "code": "392120",
+    "prefecture_code": 39,
+    "name": "香美市",
+    "name_k": "カミシ",
+    "capital": false
+  },
+  {
+    "code": "393011",
+    "prefecture_code": 39,
+    "name": "東洋町",
+    "name_k": "トウヨウチョウ",
+    "capital": false
+  },
+  {
+    "code": "393029",
+    "prefecture_code": 39,
+    "name": "奈半利町",
+    "name_k": "ナハリチョウ",
+    "capital": false
+  },
+  {
+    "code": "393037",
+    "prefecture_code": 39,
+    "name": "田野町",
+    "name_k": "タノチョウ",
+    "capital": false
+  },
+  {
+    "code": "393045",
+    "prefecture_code": 39,
+    "name": "安田町",
+    "name_k": "ヤスダチョウ",
+    "capital": false
+  },
+  {
+    "code": "393053",
+    "prefecture_code": 39,
+    "name": "北川村",
+    "name_k": "キタガワムラ",
+    "capital": false
+  },
+  {
+    "code": "393061",
+    "prefecture_code": 39,
+    "name": "馬路村",
+    "name_k": "ウマジムラ",
+    "capital": false
+  },
+  {
+    "code": "393070",
+    "prefecture_code": 39,
+    "name": "芸西村",
+    "name_k": "ゲイセイムラ",
+    "capital": false
+  },
+  {
+    "code": "393410",
+    "prefecture_code": 39,
+    "name": "本山町",
+    "name_k": "モトヤマチョウ",
+    "capital": false
+  },
+  {
+    "code": "393444",
+    "prefecture_code": 39,
+    "name": "大豊町",
+    "name_k": "オオトヨチョウ",
+    "capital": false
+  },
+  {
+    "code": "393631",
+    "prefecture_code": 39,
+    "name": "土佐町",
+    "name_k": "トサチョウ",
+    "capital": false
+  },
+  {
+    "code": "393649",
+    "prefecture_code": 39,
+    "name": "大川村",
+    "name_k": "オオカワムラ",
+    "capital": false
+  },
+  {
+    "code": "393860",
+    "prefecture_code": 39,
+    "name": "いの町",
+    "name_k": "イノチョウ",
+    "capital": false
+  },
+  {
+    "code": "393878",
+    "prefecture_code": 39,
+    "name": "仁淀川町",
+    "name_k": "ニヨドガワチョウ",
+    "capital": false
+  },
+  {
+    "code": "394017",
+    "prefecture_code": 39,
+    "name": "中土佐町",
+    "name_k": "ナカトサチョウ",
+    "capital": false
+  },
+  {
+    "code": "394025",
+    "prefecture_code": 39,
+    "name": "佐川町",
+    "name_k": "サカワチョウ",
+    "capital": false
+  },
+  {
+    "code": "394033",
+    "prefecture_code": 39,
+    "name": "越知町",
+    "name_k": "オチチョウ",
+    "capital": false
+  },
+  {
+    "code": "394050",
+    "prefecture_code": 39,
+    "name": "梼原町",
+    "name_k": "ユスハラチョウ",
+    "capital": false
+  },
+  {
+    "code": "394106",
+    "prefecture_code": 39,
+    "name": "日高村",
+    "name_k": "ヒダカムラ",
+    "capital": false
+  },
+  {
+    "code": "394114",
+    "prefecture_code": 39,
+    "name": "津野町",
+    "name_k": "ツノチョウ",
+    "capital": false
+  },
+  {
+    "code": "394122",
+    "prefecture_code": 39,
+    "name": "四万十町",
+    "name_k": "シマントチョウ",
+    "capital": false
+  },
+  {
+    "code": "394246",
+    "prefecture_code": 39,
+    "name": "大月町",
+    "name_k": "オオツキチョウ",
+    "capital": false
+  },
+  {
+    "code": "394271",
+    "prefecture_code": 39,
+    "name": "三原村",
+    "name_k": "ミハラムラ",
+    "capital": false
+  },
+  {
+    "code": "394289",
+    "prefecture_code": 39,
+    "name": "黒潮町",
+    "name_k": "クロシオチョウ",
+    "capital": false
+  }
+]

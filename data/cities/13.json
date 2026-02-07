@@ -1,0 +1,436 @@
+[
+  {
+    "code": "131016",
+    "prefecture_code": 13,
+    "name": "千代田区",
+    "name_k": "チヨダク",
+    "capital": false
+  },
+  {
+    "code": "131024",
+    "prefecture_code": 13,
+    "name": "中央区",
+    "name_k": "チュウオウク",
+    "capital": false
+  },
+  {
+    "code": "131032",
+    "prefecture_code": 13,
+    "name": "港区",
+    "name_k": "ミナトク",
+    "capital": false
+  },
+  {
+    "code": "131041",
+    "prefecture_code": 13,
+    "name": "新宿区",
+    "name_k": "シンジュクク",
+    "capital": true
+  },
+  {
+    "code": "131059",
+    "prefecture_code": 13,
+    "name": "文京区",
+    "name_k": "ブンキョウク",
+    "capital": false
+  },
+  {
+    "code": "131067",
+    "prefecture_code": 13,
+    "name": "台東区",
+    "name_k": "タイトウク",
+    "capital": false
+  },
+  {
+    "code": "131075",
+    "prefecture_code": 13,
+    "name": "墨田区",
+    "name_k": "スミダク",
+    "capital": false
+  },
+  {
+    "code": "131083",
+    "prefecture_code": 13,
+    "name": "江東区",
+    "name_k": "コウトウク",
+    "capital": false
+  },
+  {
+    "code": "131091",
+    "prefecture_code": 13,
+    "name": "品川区",
+    "name_k": "シナガワク",
+    "capital": false
+  },
+  {
+    "code": "131105",
+    "prefecture_code": 13,
+    "name": "目黒区",
+    "name_k": "メグロク",
+    "capital": false
+  },
+  {
+    "code": "131113",
+    "prefecture_code": 13,
+    "name": "大田区",
+    "name_k": "オオタク",
+    "capital": false
+  },
+  {
+    "code": "131121",
+    "prefecture_code": 13,
+    "name": "世田谷区",
+    "name_k": "セタガヤク",
+    "capital": false
+  },
+  {
+    "code": "131130",
+    "prefecture_code": 13,
+    "name": "渋谷区",
+    "name_k": "シブヤク",
+    "capital": false
+  },
+  {
+    "code": "131148",
+    "prefecture_code": 13,
+    "name": "中野区",
+    "name_k": "ナカノク",
+    "capital": false
+  },
+  {
+    "code": "131156",
+    "prefecture_code": 13,
+    "name": "杉並区",
+    "name_k": "スギナミク",
+    "capital": false
+  },
+  {
+    "code": "131164",
+    "prefecture_code": 13,
+    "name": "豊島区",
+    "name_k": "トシマク",
+    "capital": false
+  },
+  {
+    "code": "131172",
+    "prefecture_code": 13,
+    "name": "北区",
+    "name_k": "キタク",
+    "capital": false
+  },
+  {
+    "code": "131181",
+    "prefecture_code": 13,
+    "name": "荒川区",
+    "name_k": "アラカワク",
+    "capital": false
+  },
+  {
+    "code": "131199",
+    "prefecture_code": 13,
+    "name": "板橋区",
+    "name_k": "イタバシク",
+    "capital": false
+  },
+  {
+    "code": "131202",
+    "prefecture_code": 13,
+    "name": "練馬区",
+    "name_k": "ネリマク",
+    "capital": false
+  },
+  {
+    "code": "131211",
+    "prefecture_code": 13,
+    "name": "足立区",
+    "name_k": "アダチク",
+    "capital": false
+  },
+  {
+    "code": "131229",
+    "prefecture_code": 13,
+    "name": "葛飾区",
+    "name_k": "カツシカク",
+    "capital": false
+  },
+  {
+    "code": "131237",
+    "prefecture_code": 13,
+    "name": "江戸川区",
+    "name_k": "エドガワク",
+    "capital": false
+  },
+  {
+    "code": "132012",
+    "prefecture_code": 13,
+    "name": "八王子市",
+    "name_k": "ハチオウジシ",
+    "capital": false
+  },
+  {
+    "code": "132021",
+    "prefecture_code": 13,
+    "name": "立川市",
+    "name_k": "タチカワシ",
+    "capital": false
+  },
+  {
+    "code": "132039",
+    "prefecture_code": 13,
+    "name": "武蔵野市",
+    "name_k": "ムサシノシ",
+    "capital": false
+  },
+  {
+    "code": "132047",
+    "prefecture_code": 13,
+    "name": "三鷹市",
+    "name_k": "ミタカシ",
+    "capital": false
+  },
+  {
+    "code": "132055",
+    "prefecture_code": 13,
+    "name": "青梅市",
+    "name_k": "オウメシ",
+    "capital": false
+  },
+  {
+    "code": "132063",
+    "prefecture_code": 13,
+    "name": "府中市",
+    "name_k": "フチュウシ",
+    "capital": false
+  },
+  {
+    "code": "132071",
+    "prefecture_code": 13,
+    "name": "昭島市",
+    "name_k": "アキシマシ",
+    "capital": false
+  },
+  {
+    "code": "132080",
+    "prefecture_code": 13,
+    "name": "調布市",
+    "name_k": "チョウフシ",
+    "capital": false
+  },
+  {
+    "code": "132098",
+    "prefecture_code": 13,
+    "name": "町田市",
+    "name_k": "マチダシ",
+    "capital": false
+  },
+  {
+    "code": "132101",
+    "prefecture_code": 13,
+    "name": "小金井市",
+    "name_k": "コガネイシ",
+    "capital": false
+  },
+  {
+    "code": "132110",
+    "prefecture_code": 13,
+    "name": "小平市",
+    "name_k": "コダイラシ",
+    "capital": false
+  },
+  {
+    "code": "132128",
+    "prefecture_code": 13,
+    "name": "日野市",
+    "name_k": "ヒノシ",
+    "capital": false
+  },
+  {
+    "code": "132136",
+    "prefecture_code": 13,
+    "name": "東村山市",
+    "name_k": "ヒガシムラヤマシ",
+    "capital": false
+  },
+  {
+    "code": "132144",
+    "prefecture_code": 13,
+    "name": "国分寺市",
+    "name_k": "コクブンジシ",
+    "capital": false
+  },
+  {
+    "code": "132152",
+    "prefecture_code": 13,
+    "name": "国立市",
+    "name_k": "クニタチシ",
+    "capital": false
+  },
+  {
+    "code": "132187",
+    "prefecture_code": 13,
+    "name": "福生市",
+    "name_k": "フッサシ",
+    "capital": false
+  },
+  {
+    "code": "132195",
+    "prefecture_code": 13,
+    "name": "狛江市",
+    "name_k": "コマエシ",
+    "capital": false
+  },
+  {
+    "code": "132209",
+    "prefecture_code": 13,
+    "name": "東大和市",
+    "name_k": "ヒガシヤマトシ",
+    "capital": false
+  },
+  {
+    "code": "132217",
+    "prefecture_code": 13,
+    "name": "清瀬市",
+    "name_k": "キヨセシ",
+    "capital": false
+  },
+  {
+    "code": "132225",
+    "prefecture_code": 13,
+    "name": "東久留米市",
+    "name_k": "ヒガシクルメシ",
+    "capital": false
+  },
+  {
+    "code": "132233",
+    "prefecture_code": 13,
+    "name": "武蔵村山市",
+    "name_k": "ムサシムラヤマシ",
+    "capital": false
+  },
+  {
+    "code": "132241",
+    "prefecture_code": 13,
+    "name": "多摩市",
+    "name_k": "タマシ",
+    "capital": false
+  },
+  {
+    "code": "132250",
+    "prefecture_code": 13,
+    "name": "稲城市",
+    "name_k": "イナギシ",
+    "capital": false
+  },
+  {
+    "code": "132276",
+    "prefecture_code": 13,
+    "name": "羽村市",
+    "name_k": "ハムラシ",
+    "capital": false
+  },
+  {
+    "code": "132284",
+    "prefecture_code": 13,
+    "name": "あきる野市",
+    "name_k": "アキルノシ",
+    "capital": false
+  },
+  {
+    "code": "132292",
+    "prefecture_code": 13,
+    "name": "西東京市",
+    "name_k": "ニシトウキョウシ",
+    "capital": false
+  },
+  {
+    "code": "133035",
+    "prefecture_code": 13,
+    "name": "瑞穂町",
+    "name_k": "ミズホマチ",
+    "capital": false
+  },
+  {
+    "code": "133051",
+    "prefecture_code": 13,
+    "name": "日の出町",
+    "name_k": "ヒノデマチ",
+    "capital": false
+  },
+  {
+    "code": "133078",
+    "prefecture_code": 13,
+    "name": "檜原村",
+    "name_k": "ヒノハラムラ",
+    "capital": false
+  },
+  {
+    "code": "133086",
+    "prefecture_code": 13,
+    "name": "奥多摩町",
+    "name_k": "オクタママチ",
+    "capital": false
+  },
+  {
+    "code": "133612",
+    "prefecture_code": 13,
+    "name": "大島町",
+    "name_k": "オオシママチ",
+    "capital": false
+  },
+  {
+    "code": "133621",
+    "prefecture_code": 13,
+    "name": "利島村",
+    "name_k": "トシマムラ",
+    "capital": false
+  },
+  {
+    "code": "133639",
+    "prefecture_code": 13,
+    "name": "新島村",
+    "name_k": "ニイジマムラ",
+    "capital": false
+  },
+  {
+    "code": "133647",
+    "prefecture_code": 13,
+    "name": "神津島村",
+    "name_k": "コウヅシマムラ",
+    "capital": false
+  },
+  {
+    "code": "133817",
+    "prefecture_code": 13,
+    "name": "三宅村",
+    "name_k": "ミヤケムラ",
+    "capital": false
+  },
+  {
+    "code": "133825",
+    "prefecture_code": 13,
+    "name": "御蔵島村",
+    "name_k": "ミクラジマムラ",
+    "capital": false
+  },
+  {
+    "code": "134015",
+    "prefecture_code": 13,
+    "name": "八丈町",
+    "name_k": "ハチジョウマチ",
+    "capital": false
+  },
+  {
+    "code": "134023",
+    "prefecture_code": 13,
+    "name": "青ヶ島村",
+    "name_k": "アオガシマムラ",
+    "capital": false
+  },
+  {
+    "code": "134210",
+    "prefecture_code": 13,
+    "name": "小笠原村",
+    "name_k": "オガサワラムラ",
+    "capital": false
+  }
+]

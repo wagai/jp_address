@@ -1,0 +1,520 @@
+[
+  {
+    "code": "271004",
+    "prefecture_code": 27,
+    "name": "大阪市",
+    "name_k": "オオサカシ",
+    "capital": true
+  },
+  {
+    "code": "271021",
+    "prefecture_code": 27,
+    "name": "大阪市都島区",
+    "name_k": "オオサカシミヤコジマク",
+    "capital": false
+  },
+  {
+    "code": "271039",
+    "prefecture_code": 27,
+    "name": "大阪市福島区",
+    "name_k": "オオサカシフクシマク",
+    "capital": false
+  },
+  {
+    "code": "271047",
+    "prefecture_code": 27,
+    "name": "大阪市此花区",
+    "name_k": "オオサカシコノハナク",
+    "capital": false
+  },
+  {
+    "code": "271063",
+    "prefecture_code": 27,
+    "name": "大阪市西区",
+    "name_k": "オオサカシニシク",
+    "capital": false
+  },
+  {
+    "code": "271071",
+    "prefecture_code": 27,
+    "name": "大阪市港区",
+    "name_k": "オオサカシミナトク",
+    "capital": false
+  },
+  {
+    "code": "271080",
+    "prefecture_code": 27,
+    "name": "大阪市大正区",
+    "name_k": "オオサカシタイショウク",
+    "capital": false
+  },
+  {
+    "code": "271098",
+    "prefecture_code": 27,
+    "name": "大阪市天王寺区",
+    "name_k": "オオサカシテンノウジク",
+    "capital": false
+  },
+  {
+    "code": "271110",
+    "prefecture_code": 27,
+    "name": "大阪市浪速区",
+    "name_k": "オオサカシナニワク",
+    "capital": false
+  },
+  {
+    "code": "271136",
+    "prefecture_code": 27,
+    "name": "大阪市西淀川区",
+    "name_k": "オオサカシニシヨドガワク",
+    "capital": false
+  },
+  {
+    "code": "271144",
+    "prefecture_code": 27,
+    "name": "大阪市東淀川区",
+    "name_k": "オオサカシヒガシヨドガワク",
+    "capital": false
+  },
+  {
+    "code": "271152",
+    "prefecture_code": 27,
+    "name": "大阪市東成区",
+    "name_k": "オオサカシヒガシナリク",
+    "capital": false
+  },
+  {
+    "code": "271161",
+    "prefecture_code": 27,
+    "name": "大阪市生野区",
+    "name_k": "オオサカシイクノク",
+    "capital": false
+  },
+  {
+    "code": "271179",
+    "prefecture_code": 27,
+    "name": "大阪市旭区",
+    "name_k": "オオサカシアサヒク",
+    "capital": false
+  },
+  {
+    "code": "271187",
+    "prefecture_code": 27,
+    "name": "大阪市城東区",
+    "name_k": "オオサカシジョウトウク",
+    "capital": false
+  },
+  {
+    "code": "271195",
+    "prefecture_code": 27,
+    "name": "大阪市阿倍野区",
+    "name_k": "オオサカシアベノク",
+    "capital": false
+  },
+  {
+    "code": "271209",
+    "prefecture_code": 27,
+    "name": "大阪市住吉区",
+    "name_k": "オオサカシスミヨシク",
+    "capital": false
+  },
+  {
+    "code": "271217",
+    "prefecture_code": 27,
+    "name": "大阪市東住吉区",
+    "name_k": "オオサカシヒガシスミヨシク",
+    "capital": false
+  },
+  {
+    "code": "271225",
+    "prefecture_code": 27,
+    "name": "大阪市西成区",
+    "name_k": "オオサカシニシナリク",
+    "capital": false
+  },
+  {
+    "code": "271233",
+    "prefecture_code": 27,
+    "name": "大阪市淀川区",
+    "name_k": "オオサカシヨドガワク",
+    "capital": false
+  },
+  {
+    "code": "271241",
+    "prefecture_code": 27,
+    "name": "大阪市鶴見区",
+    "name_k": "オオサカシツルミク",
+    "capital": false
+  },
+  {
+    "code": "271250",
+    "prefecture_code": 27,
+    "name": "大阪市住之江区",
+    "name_k": "オオサカシスミノエク",
+    "capital": false
+  },
+  {
+    "code": "271268",
+    "prefecture_code": 27,
+    "name": "大阪市平野区",
+    "name_k": "オオサカシヒラノク",
+    "capital": false
+  },
+  {
+    "code": "271276",
+    "prefecture_code": 27,
+    "name": "大阪市北区",
+    "name_k": "オオサカシキタク",
+    "capital": false
+  },
+  {
+    "code": "271284",
+    "prefecture_code": 27,
+    "name": "大阪市中央区",
+    "name_k": "オオサカシチュウオウク",
+    "capital": false
+  },
+  {
+    "code": "271403",
+    "prefecture_code": 27,
+    "name": "堺市",
+    "name_k": "サカイシ",
+    "capital": false
+  },
+  {
+    "code": "271411",
+    "prefecture_code": 27,
+    "name": "堺市堺区",
+    "name_k": "サカイシサカイク",
+    "capital": false
+  },
+  {
+    "code": "271420",
+    "prefecture_code": 27,
+    "name": "堺市中区",
+    "name_k": "サカイシナカク",
+    "capital": false
+  },
+  {
+    "code": "271438",
+    "prefecture_code": 27,
+    "name": "堺市東区",
+    "name_k": "サカイシヒガシク",
+    "capital": false
+  },
+  {
+    "code": "271446",
+    "prefecture_code": 27,
+    "name": "堺市西区",
+    "name_k": "サカイシニシク",
+    "capital": false
+  },
+  {
+    "code": "271454",
+    "prefecture_code": 27,
+    "name": "堺市南区",
+    "name_k": "サカイシミナミク",
+    "capital": false
+  },
+  {
+    "code": "271462",
+    "prefecture_code": 27,
+    "name": "堺市北区",
+    "name_k": "サカイシキタク",
+    "capital": false
+  },
+  {
+    "code": "271471",
+    "prefecture_code": 27,
+    "name": "堺市美原区",
+    "name_k": "サカイシミハラク",
+    "capital": false
+  },
+  {
+    "code": "272027",
+    "prefecture_code": 27,
+    "name": "岸和田市",
+    "name_k": "キシワダシ",
+    "capital": false
+  },
+  {
+    "code": "272035",
+    "prefecture_code": 27,
+    "name": "豊中市",
+    "name_k": "トヨナカシ",
+    "capital": false
+  },
+  {
+    "code": "272043",
+    "prefecture_code": 27,
+    "name": "池田市",
+    "name_k": "イケダシ",
+    "capital": false
+  },
+  {
+    "code": "272051",
+    "prefecture_code": 27,
+    "name": "吹田市",
+    "name_k": "スイタシ",
+    "capital": false
+  },
+  {
+    "code": "272060",
+    "prefecture_code": 27,
+    "name": "泉大津市",
+    "name_k": "イズミオオツシ",
+    "capital": false
+  },
+  {
+    "code": "272078",
+    "prefecture_code": 27,
+    "name": "高槻市",
+    "name_k": "タカツキシ",
+    "capital": false
+  },
+  {
+    "code": "272086",
+    "prefecture_code": 27,
+    "name": "貝塚市",
+    "name_k": "カイヅカシ",
+    "capital": false
+  },
+  {
+    "code": "272094",
+    "prefecture_code": 27,
+    "name": "守口市",
+    "name_k": "モリグチシ",
+    "capital": false
+  },
+  {
+    "code": "272108",
+    "prefecture_code": 27,
+    "name": "枚方市",
+    "name_k": "ヒラカタシ",
+    "capital": false
+  },
+  {
+    "code": "272116",
+    "prefecture_code": 27,
+    "name": "茨木市",
+    "name_k": "イバラキシ",
+    "capital": false
+  },
+  {
+    "code": "272124",
+    "prefecture_code": 27,
+    "name": "八尾市",
+    "name_k": "ヤオシ",
+    "capital": false
+  },
+  {
+    "code": "272132",
+    "prefecture_code": 27,
+    "name": "泉佐野市",
+    "name_k": "イズミサノシ",
+    "capital": false
+  },
+  {
+    "code": "272141",
+    "prefecture_code": 27,
+    "name": "富田林市",
+    "name_k": "トンダバヤシシ",
+    "capital": false
+  },
+  {
+    "code": "272159",
+    "prefecture_code": 27,
+    "name": "寝屋川市",
+    "name_k": "ネヤガワシ",
+    "capital": false
+  },
+  {
+    "code": "272167",
+    "prefecture_code": 27,
+    "name": "河内長野市",
+    "name_k": "カワチナガノシ",
+    "capital": false
+  },
+  {
+    "code": "272175",
+    "prefecture_code": 27,
+    "name": "松原市",
+    "name_k": "マツバラシ",
+    "capital": false
+  },
+  {
+    "code": "272183",
+    "prefecture_code": 27,
+    "name": "大東市",
+    "name_k": "ダイトウシ",
+    "capital": false
+  },
+  {
+    "code": "272191",
+    "prefecture_code": 27,
+    "name": "和泉市",
+    "name_k": "イズミシ",
+    "capital": false
+  },
+  {
+    "code": "272205",
+    "prefecture_code": 27,
+    "name": "箕面市",
+    "name_k": "ミノオシ",
+    "capital": false
+  },
+  {
+    "code": "272213",
+    "prefecture_code": 27,
+    "name": "柏原市",
+    "name_k": "カシワラシ",
+    "capital": false
+  },
+  {
+    "code": "272221",
+    "prefecture_code": 27,
+    "name": "羽曳野市",
+    "name_k": "ハビキノシ",
+    "capital": false
+  },
+  {
+    "code": "272230",
+    "prefecture_code": 27,
+    "name": "門真市",
+    "name_k": "カドマシ",
+    "capital": false
+  },
+  {
+    "code": "272248",
+    "prefecture_code": 27,
+    "name": "摂津市",
+    "name_k": "セッツシ",
+    "capital": false
+  },
+  {
+    "code": "272256",
+    "prefecture_code": 27,
+    "name": "高石市",
+    "name_k": "タカイシシ",
+    "capital": false
+  },
+  {
+    "code": "272264",
+    "prefecture_code": 27,
+    "name": "藤井寺市",
+    "name_k": "フジイデラシ",
+    "capital": false
+  },
+  {
+    "code": "272272",
+    "prefecture_code": 27,
+    "name": "東大阪市",
+    "name_k": "ヒガシオオサカシ",
+    "capital": false
+  },
+  {
+    "code": "272281",
+    "prefecture_code": 27,
+    "name": "泉南市",
+    "name_k": "センナンシ",
+    "capital": false
+  },
+  {
+    "code": "272299",
+    "prefecture_code": 27,
+    "name": "四條畷市",
+    "name_k": "シジヨウナワテシ",
+    "capital": false
+  },
+  {
+    "code": "272302",
+    "prefecture_code": 27,
+    "name": "交野市",
+    "name_k": "カタノシ",
+    "capital": false
+  },
+  {
+    "code": "272311",
+    "prefecture_code": 27,
+    "name": "大阪狭山市",
+    "name_k": "オオサカサヤマシ",
+    "capital": false
+  },
+  {
+    "code": "272329",
+    "prefecture_code": 27,
+    "name": "阪南市",
+    "name_k": "ハンナンシ",
+    "capital": false
+  },
+  {
+    "code": "273015",
+    "prefecture_code": 27,
+    "name": "島本町",
+    "name_k": "シマモトチョウ",
+    "capital": false
+  },
+  {
+    "code": "273210",
+    "prefecture_code": 27,
+    "name": "豊能町",
+    "name_k": "トヨノチョウ",
+    "capital": false
+  },
+  {
+    "code": "273228",
+    "prefecture_code": 27,
+    "name": "能勢町",
+    "name_k": "ノセチョウ",
+    "capital": false
+  },
+  {
+    "code": "273414",
+    "prefecture_code": 27,
+    "name": "忠岡町",
+    "name_k": "タダオカチョウ",
+    "capital": false
+  },
+  {
+    "code": "273619",
+    "prefecture_code": 27,
+    "name": "熊取町",
+    "name_k": "クマトリチョウ",
+    "capital": false
+  },
+  {
+    "code": "273627",
+    "prefecture_code": 27,
+    "name": "田尻町",
+    "name_k": "タジリチョウ",
+    "capital": false
+  },
+  {
+    "code": "273660",
+    "prefecture_code": 27,
+    "name": "岬町",
+    "name_k": "ミサキチョウ",
+    "capital": false
+  },
+  {
+    "code": "273813",
+    "prefecture_code": 27,
+    "name": "太子町",
+    "name_k": "タイシチョウ",
+    "capital": false
+  },
+  {
+    "code": "273821",
+    "prefecture_code": 27,
+    "name": "河南町",
+    "name_k": "カナンチョウ",
+    "capital": false
+  },
+  {
+    "code": "273830",
+    "prefecture_code": 27,
+    "name": "千早赤阪村",
+    "name_k": "チハヤアカサカムラ",
+    "capital": false
+  }
+]

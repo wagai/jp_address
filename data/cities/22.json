@@ -1,0 +1,317 @@
+[
+  {
+    "code": "221007",
+    "prefecture_code": 22,
+    "name": "静岡市",
+    "name_k": "シズオカシ",
+    "capital": true
+  },
+  {
+    "code": "221015",
+    "prefecture_code": 22,
+    "name": "静岡市葵区",
+    "name_k": "シズオカシアオイク",
+    "capital": false
+  },
+  {
+    "code": "221023",
+    "prefecture_code": 22,
+    "name": "静岡市駿河区",
+    "name_k": "シズオカシスルガク",
+    "capital": false
+  },
+  {
+    "code": "221031",
+    "prefecture_code": 22,
+    "name": "静岡市清水区",
+    "name_k": "シズオカシシミズク",
+    "capital": false
+  },
+  {
+    "code": "221309",
+    "prefecture_code": 22,
+    "name": "浜松市",
+    "name_k": "ハママツシ",
+    "capital": false
+  },
+  {
+    "code": "221317",
+    "prefecture_code": 22,
+    "name": "浜松市中区",
+    "name_k": "ハママツシナカク",
+    "capital": false
+  },
+  {
+    "code": "221325",
+    "prefecture_code": 22,
+    "name": "浜松市東区",
+    "name_k": "ハママツシヒガシク",
+    "capital": false
+  },
+  {
+    "code": "221333",
+    "prefecture_code": 22,
+    "name": "浜松市西区",
+    "name_k": "ハママツシニシク",
+    "capital": false
+  },
+  {
+    "code": "221341",
+    "prefecture_code": 22,
+    "name": "浜松市南区",
+    "name_k": "ハママツシミナミク",
+    "capital": false
+  },
+  {
+    "code": "221350",
+    "prefecture_code": 22,
+    "name": "浜松市北区",
+    "name_k": "ハママツシキタク",
+    "capital": false
+  },
+  {
+    "code": "221368",
+    "prefecture_code": 22,
+    "name": "浜松市浜北区",
+    "name_k": "ハママツシハマキタク",
+    "capital": false
+  },
+  {
+    "code": "221376",
+    "prefecture_code": 22,
+    "name": "浜松市天竜区",
+    "name_k": "ハママツシテンリュウク",
+    "capital": false
+  },
+  {
+    "code": "222038",
+    "prefecture_code": 22,
+    "name": "沼津市",
+    "name_k": "ヌマヅシ",
+    "capital": false
+  },
+  {
+    "code": "222054",
+    "prefecture_code": 22,
+    "name": "熱海市",
+    "name_k": "アタミシ",
+    "capital": false
+  },
+  {
+    "code": "222062",
+    "prefecture_code": 22,
+    "name": "三島市",
+    "name_k": "ミシマシ",
+    "capital": false
+  },
+  {
+    "code": "222071",
+    "prefecture_code": 22,
+    "name": "富士宮市",
+    "name_k": "フジノミヤシ",
+    "capital": false
+  },
+  {
+    "code": "222089",
+    "prefecture_code": 22,
+    "name": "伊東市",
+    "name_k": "イトウシ",
+    "capital": false
+  },
+  {
+    "code": "222097",
+    "prefecture_code": 22,
+    "name": "島田市",
+    "name_k": "シマダシ",
+    "capital": false
+  },
+  {
+    "code": "222101",
+    "prefecture_code": 22,
+    "name": "富士市",
+    "name_k": "フジシ",
+    "capital": false
+  },
+  {
+    "code": "222119",
+    "prefecture_code": 22,
+    "name": "磐田市",
+    "name_k": "イワタシ",
+    "capital": false
+  },
+  {
+    "code": "222127",
+    "prefecture_code": 22,
+    "name": "焼津市",
+    "name_k": "ヤイヅシ",
+    "capital": false
+  },
+  {
+    "code": "222135",
+    "prefecture_code": 22,
+    "name": "掛川市",
+    "name_k": "カケガワシ",
+    "capital": false
+  },
+  {
+    "code": "222143",
+    "prefecture_code": 22,
+    "name": "藤枝市",
+    "name_k": "フジエダシ",
+    "capital": false
+  },
+  {
+    "code": "222151",
+    "prefecture_code": 22,
+    "name": "御殿場市",
+    "name_k": "ゴテンバシ",
+    "capital": false
+  },
+  {
+    "code": "222160",
+    "prefecture_code": 22,
+    "name": "袋井市",
+    "name_k": "フクロイシ",
+    "capital": false
+  },
+  {
+    "code": "222194",
+    "prefecture_code": 22,
+    "name": "下田市",
+    "name_k": "シモダシ",
+    "capital": false
+  },
+  {
+    "code": "222208",
+    "prefecture_code": 22,
+    "name": "裾野市",
+    "name_k": "スソノシ",
+    "capital": false
+  },
+  {
+    "code": "222216",
+    "prefecture_code": 22,
+    "name": "湖西市",
+    "name_k": "コサイシ",
+    "capital": false
+  },
+  {
+    "code": "222224",
+    "prefecture_code": 22,
+    "name": "伊豆市",
+    "name_k": "イズシ",
+    "capital": false
+  },
+  {
+    "code": "222232",
+    "prefecture_code": 22,
+    "name": "御前崎市",
+    "name_k": "オマエザキシ",
+    "capital": false
+  },
+  {
+    "code": "222241",
+    "prefecture_code": 22,
+    "name": "菊川市",
+    "name_k": "キクガワシ",
+    "capital": false
+  },
+  {
+    "code": "222259",
+    "prefecture_code": 22,
+    "name": "伊豆の国市",
+    "name_k": "イズノクニシ",
+    "capital": false
+  },
+  {
+    "code": "222267",
+    "prefecture_code": 22,
+    "name": "牧之原市",
+    "name_k": "マキノハラシ",
+    "capital": false
+  },
+  {
+    "code": "223018",
+    "prefecture_code": 22,
+    "name": "東伊豆町",
+    "name_k": "ヒガシイズチョウ",
+    "capital": false
+  },
+  {
+    "code": "223026",
+    "prefecture_code": 22,
+    "name": "河津町",
+    "name_k": "カワヅチョウ",
+    "capital": false
+  },
+  {
+    "code": "223042",
+    "prefecture_code": 22,
+    "name": "南伊豆町",
+    "name_k": "ミナミイズチョウ",
+    "capital": false
+  },
+  {
+    "code": "223051",
+    "prefecture_code": 22,
+    "name": "松崎町",
+    "name_k": "マツザキチョウ",
+    "capital": false
+  },
+  {
+    "code": "223069",
+    "prefecture_code": 22,
+    "name": "西伊豆町",
+    "name_k": "ニシイズチョウ",
+    "capital": false
+  },
+  {
+    "code": "223255",
+    "prefecture_code": 22,
+    "name": "函南町",
+    "name_k": "カンナミチョウ",
+    "capital": false
+  },
+  {
+    "code": "223417",
+    "prefecture_code": 22,
+    "name": "清水町",
+    "name_k": "シミズチョウ",
+    "capital": false
+  },
+  {
+    "code": "223425",
+    "prefecture_code": 22,
+    "name": "長泉町",
+    "name_k": "ナガイズミチョウ",
+    "capital": false
+  },
+  {
+    "code": "223441",
+    "prefecture_code": 22,
+    "name": "小山町",
+    "name_k": "オヤマチョウ",
+    "capital": false
+  },
+  {
+    "code": "224243",
+    "prefecture_code": 22,
+    "name": "吉田町",
+    "name_k": "ヨシダチョウ",
+    "capital": false
+  },
+  {
+    "code": "224294",
+    "prefecture_code": 22,
+    "name": "川根本町",
+    "name_k": "カワネホンチョウ",
+    "capital": false
+  },
+  {
+    "code": "224618",
+    "prefecture_code": 22,
+    "name": "森町",
+    "name_k": "モリマチ",
+    "capital": false
+  }
+]

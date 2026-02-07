@@ -1,0 +1,233 @@
+[
+  {
+    "code": "032018",
+    "prefecture_code": 3,
+    "name": "盛岡市",
+    "name_k": "モリオカシ",
+    "capital": true
+  },
+  {
+    "code": "032026",
+    "prefecture_code": 3,
+    "name": "宮古市",
+    "name_k": "ミヤコシ",
+    "capital": false
+  },
+  {
+    "code": "032034",
+    "prefecture_code": 3,
+    "name": "大船渡市",
+    "name_k": "オオフナトシ",
+    "capital": false
+  },
+  {
+    "code": "032051",
+    "prefecture_code": 3,
+    "name": "花巻市",
+    "name_k": "ハナマキシ",
+    "capital": false
+  },
+  {
+    "code": "032069",
+    "prefecture_code": 3,
+    "name": "北上市",
+    "name_k": "キタカミシ",
+    "capital": false
+  },
+  {
+    "code": "032077",
+    "prefecture_code": 3,
+    "name": "久慈市",
+    "name_k": "クジシ",
+    "capital": false
+  },
+  {
+    "code": "032085",
+    "prefecture_code": 3,
+    "name": "遠野市",
+    "name_k": "トオノシ",
+    "capital": false
+  },
+  {
+    "code": "032093",
+    "prefecture_code": 3,
+    "name": "一関市",
+    "name_k": "イチノセキシ",
+    "capital": false
+  },
+  {
+    "code": "032107",
+    "prefecture_code": 3,
+    "name": "陸前高田市",
+    "name_k": "リクゼンタカタシ",
+    "capital": false
+  },
+  {
+    "code": "032115",
+    "prefecture_code": 3,
+    "name": "釜石市",
+    "name_k": "カマイシシ",
+    "capital": false
+  },
+  {
+    "code": "032131",
+    "prefecture_code": 3,
+    "name": "二戸市",
+    "name_k": "ニノヘシ",
+    "capital": false
+  },
+  {
+    "code": "032140",
+    "prefecture_code": 3,
+    "name": "八幡平市",
+    "name_k": "ハチマンタイシ",
+    "capital": false
+  },
+  {
+    "code": "032158",
+    "prefecture_code": 3,
+    "name": "奥州市",
+    "name_k": "オウシュウシ",
+    "capital": false
+  },
+  {
+    "code": "032166",
+    "prefecture_code": 3,
+    "name": "滝沢市",
+    "name_k": "タキザワシ",
+    "capital": false
+  },
+  {
+    "code": "033014",
+    "prefecture_code": 3,
+    "name": "雫石町",
+    "name_k": "シズクイシチョウ",
+    "capital": false
+  },
+  {
+    "code": "033022",
+    "prefecture_code": 3,
+    "name": "葛巻町",
+    "name_k": "クズマキマチ",
+    "capital": false
+  },
+  {
+    "code": "033031",
+    "prefecture_code": 3,
+    "name": "岩手町",
+    "name_k": "イワテマチ",
+    "capital": false
+  },
+  {
+    "code": "033219",
+    "prefecture_code": 3,
+    "name": "紫波町",
+    "name_k": "シワチョウ",
+    "capital": false
+  },
+  {
+    "code": "033227",
+    "prefecture_code": 3,
+    "name": "矢巾町",
+    "name_k": "ヤハバチョウ",
+    "capital": false
+  },
+  {
+    "code": "033669",
+    "prefecture_code": 3,
+    "name": "西和賀町",
+    "name_k": "ニシワガマチ",
+    "capital": false
+  },
+  {
+    "code": "033812",
+    "prefecture_code": 3,
+    "name": "金ケ崎町",
+    "name_k": "カネガサキチョウ",
+    "capital": false
+  },
+  {
+    "code": "034029",
+    "prefecture_code": 3,
+    "name": "平泉町",
+    "name_k": "ヒライズミチョウ",
+    "capital": false
+  },
+  {
+    "code": "034410",
+    "prefecture_code": 3,
+    "name": "住田町",
+    "name_k": "スミタチョウ",
+    "capital": false
+  },
+  {
+    "code": "034614",
+    "prefecture_code": 3,
+    "name": "大槌町",
+    "name_k": "オオツチチョウ",
+    "capital": false
+  },
+  {
+    "code": "034827",
+    "prefecture_code": 3,
+    "name": "山田町",
+    "name_k": "ヤマダマチ",
+    "capital": false
+  },
+  {
+    "code": "034835",
+    "prefecture_code": 3,
+    "name": "岩泉町",
+    "name_k": "イワイズミチョウ",
+    "capital": false
+  },
+  {
+    "code": "034843",
+    "prefecture_code": 3,
+    "name": "田野畑村",
+    "name_k": "タノハタムラ",
+    "capital": false
+  },
+  {
+    "code": "034851",
+    "prefecture_code": 3,
+    "name": "普代村",
+    "name_k": "フダイムラ",
+    "capital": false
+  },
+  {
+    "code": "035017",
+    "prefecture_code": 3,
+    "name": "軽米町",
+    "name_k": "カルマイマチ",
+    "capital": false
+  },
+  {
+    "code": "035033",
+    "prefecture_code": 3,
+    "name": "野田村",
+    "name_k": "ノダムラ",
+    "capital": false
+  },
+  {
+    "code": "035068",
+    "prefecture_code": 3,
+    "name": "九戸村",
+    "name_k": "クノヘムラ",
+    "capital": false
+  },
+  {
+    "code": "035076",
+    "prefecture_code": 3,
+    "name": "洋野町",
+    "name_k": "ヒロノチョウ",
+    "capital": false
+  },
+  {
+    "code": "035246",
+    "prefecture_code": 3,
+    "name": "一戸町",
+    "name_k": "イチノヘマチ",
+    "capital": false
+  }
+]

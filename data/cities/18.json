@@ -1,0 +1,121 @@
+[
+  {
+    "code": "182010",
+    "prefecture_code": 18,
+    "name": "福井市",
+    "name_k": "フクイシ",
+    "capital": true
+  },
+  {
+    "code": "182028",
+    "prefecture_code": 18,
+    "name": "敦賀市",
+    "name_k": "ツルガシ",
+    "capital": false
+  },
+  {
+    "code": "182044",
+    "prefecture_code": 18,
+    "name": "小浜市",
+    "name_k": "オバマシ",
+    "capital": false
+  },
+  {
+    "code": "182052",
+    "prefecture_code": 18,
+    "name": "大野市",
+    "name_k": "オオノシ",
+    "capital": false
+  },
+  {
+    "code": "182061",
+    "prefecture_code": 18,
+    "name": "勝山市",
+    "name_k": "カツヤマシ",
+    "capital": false
+  },
+  {
+    "code": "182079",
+    "prefecture_code": 18,
+    "name": "鯖江市",
+    "name_k": "サバエシ",
+    "capital": false
+  },
+  {
+    "code": "182087",
+    "prefecture_code": 18,
+    "name": "あわら市",
+    "name_k": "アワラシ",
+    "capital": false
+  },
+  {
+    "code": "182095",
+    "prefecture_code": 18,
+    "name": "越前市",
+    "name_k": "エチゼンシ",
+    "capital": false
+  },
+  {
+    "code": "182109",
+    "prefecture_code": 18,
+    "name": "坂井市",
+    "name_k": "サカイシ",
+    "capital": false
+  },
+  {
+    "code": "183229",
+    "prefecture_code": 18,
+    "name": "永平寺町",
+    "name_k": "エイヘイジチョウ",
+    "capital": false
+  },
+  {
+    "code": "183822",
+    "prefecture_code": 18,
+    "name": "池田町",
+    "name_k": "イケダチョウ",
+    "capital": false
+  },
+  {
+    "code": "184047",
+    "prefecture_code": 18,
+    "name": "南越前町",
+    "name_k": "ミナミエチゼンチョウ",
+    "capital": false
+  },
+  {
+    "code": "184233",
+    "prefecture_code": 18,
+    "name": "越前町",
+    "name_k": "エチゼンチョウ",
+    "capital": false
+  },
+  {
+    "code": "184420",
+    "prefecture_code": 18,
+    "name": "美浜町",
+    "name_k": "ミハマチョウ",
+    "capital": false
+  },
+  {
+    "code": "184811",
+    "prefecture_code": 18,
+    "name": "高浜町",
+    "name_k": "タカハマチョウ",
+    "capital": false
+  },
+  {
+    "code": "184837",
+    "prefecture_code": 18,
+    "name": "おおい町",
+    "name_k": "オオイチョウ",
+    "capital": false
+  },
+  {
+    "code": "185019",
+    "prefecture_code": 18,
+    "name": "若狭町",
+    "name_k": "ワカサチョウ",
+    "capital": false
+  }
+]

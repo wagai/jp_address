@@ -1,0 +1,170 @@
+[
+  {
+    "code": "362018",
+    "prefecture_code": 36,
+    "name": "徳島市",
+    "name_k": "トクシマシ",
+    "capital": true
+  },
+  {
+    "code": "362026",
+    "prefecture_code": 36,
+    "name": "鳴門市",
+    "name_k": "ナルトシ",
+    "capital": false
+  },
+  {
+    "code": "362034",
+    "prefecture_code": 36,
+    "name": "小松島市",
+    "name_k": "コマツシマシ",
+    "capital": false
+  },
+  {
+    "code": "362042",
+    "prefecture_code": 36,
+    "name": "阿南市",
+    "name_k": "アナンシ",
+    "capital": false
+  },
+  {
+    "code": "362051",
+    "prefecture_code": 36,
+    "name": "吉野川市",
+    "name_k": "ヨシノガワシ",
+    "capital": false
+  },
+  {
+    "code": "362069",
+    "prefecture_code": 36,
+    "name": "阿波市",
+    "name_k": "アワシ",
+    "capital": false
+  },
+  {
+    "code": "362077",
+    "prefecture_code": 36,
+    "name": "美馬市",
+    "name_k": "ミマシ",
+    "capital": false
+  },
+  {
+    "code": "362085",
+    "prefecture_code": 36,
+    "name": "三好市",
+    "name_k": "ミヨシシ",
+    "capital": false
+  },
+  {
+    "code": "363014",
+    "prefecture_code": 36,
+    "name": "勝浦町",
+    "name_k": "カツウラチョウ",
+    "capital": false
+  },
+  {
+    "code": "363022",
+    "prefecture_code": 36,
+    "name": "上勝町",
+    "name_k": "カミカツチョウ",
+    "capital": false
+  },
+  {
+    "code": "363219",
+    "prefecture_code": 36,
+    "name": "佐那河内村",
+    "name_k": "サナゴウチソン",
+    "capital": false
+  },
+  {
+    "code": "363413",
+    "prefecture_code": 36,
+    "name": "石井町",
+    "name_k": "イシイチョウ",
+    "capital": false
+  },
+  {
+    "code": "363421",
+    "prefecture_code": 36,
+    "name": "神山町",
+    "name_k": "カミヤマチョウ",
+    "capital": false
+  },
+  {
+    "code": "363685",
+    "prefecture_code": 36,
+    "name": "那賀町",
+    "name_k": "ナカチョウ",
+    "capital": false
+  },
+  {
+    "code": "363839",
+    "prefecture_code": 36,
+    "name": "牟岐町",
+    "name_k": "ムギチョウ",
+    "capital": false
+  },
+  {
+    "code": "363871",
+    "prefecture_code": 36,
+    "name": "美波町",
+    "name_k": "ミナミチョウ",
+    "capital": false
+  },
+  {
+    "code": "363880",
+    "prefecture_code": 36,
+    "name": "海陽町",
+    "name_k": "カイヨウチョウ",
+    "capital": false
+  },
+  {
+    "code": "364011",
+    "prefecture_code": 36,
+    "name": "松茂町",
+    "name_k": "マツシゲチョウ",
+    "capital": false
+  },
+  {
+    "code": "364029",
+    "prefecture_code": 36,
+    "name": "北島町",
+    "name_k": "キタジマチョウ",
+    "capital": false
+  },
+  {
+    "code": "364037",
+    "prefecture_code": 36,
+    "name": "藍住町",
+    "name_k": "アイズミチョウ",
+    "capital": false
+  },
+  {
+    "code": "364045",
+    "prefecture_code": 36,
+    "name": "板野町",
+    "name_k": "イタノチョウ",
+    "capital": false
+  },
+  {
+    "code": "364053",
+    "prefecture_code": 36,
+    "name": "上板町",
+    "name_k": "カミイタチョウ",
+    "capital": false
+  },
+  {
+    "code": "364681",
+    "prefecture_code": 36,
+    "name": "つるぎ町",
+    "name_k": "ツルギチョウ",
+    "capital": false
+  },
+  {
+    "code": "364894",
+    "prefecture_code": 36,
+    "name": "東みよし町",
+    "name_k": "ヒガシミヨシチョウ",
+    "capital": false
+  }
+]

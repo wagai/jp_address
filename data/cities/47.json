@@ -1,0 +1,289 @@
+[
+  {
+    "code": "472018",
+    "prefecture_code": 47,
+    "name": "那覇市",
+    "name_k": "ナハシ",
+    "capital": true
+  },
+  {
+    "code": "472051",
+    "prefecture_code": 47,
+    "name": "宜野湾市",
+    "name_k": "ギノワンシ",
+    "capital": false
+  },
+  {
+    "code": "472077",
+    "prefecture_code": 47,
+    "name": "石垣市",
+    "name_k": "イシガキシ",
+    "capital": false
+  },
+  {
+    "code": "472085",
+    "prefecture_code": 47,
+    "name": "浦添市",
+    "name_k": "ウラソエシ",
+    "capital": false
+  },
+  {
+    "code": "472093",
+    "prefecture_code": 47,
+    "name": "名護市",
+    "name_k": "ナゴシ",
+    "capital": false
+  },
+  {
+    "code": "472107",
+    "prefecture_code": 47,
+    "name": "糸満市",
+    "name_k": "イトマンシ",
+    "capital": false
+  },
+  {
+    "code": "472115",
+    "prefecture_code": 47,
+    "name": "沖縄市",
+    "name_k": "オキナワシ",
+    "capital": false
+  },
+  {
+    "code": "472123",
+    "prefecture_code": 47,
+    "name": "豊見城市",
+    "name_k": "トミグスクシ",
+    "capital": false
+  },
+  {
+    "code": "472131",
+    "prefecture_code": 47,
+    "name": "うるま市",
+    "name_k": "ウルマシ",
+    "capital": false
+  },
+  {
+    "code": "472140",
+    "prefecture_code": 47,
+    "name": "宮古島市",
+    "name_k": "ミヤコジマシ",
+    "capital": false
+  },
+  {
+    "code": "472158",
+    "prefecture_code": 47,
+    "name": "南城市",
+    "name_k": "ナンジョウシ",
+    "capital": false
+  },
+  {
+    "code": "473014",
+    "prefecture_code": 47,
+    "name": "国頭村",
+    "name_k": "クニガミソン",
+    "capital": false
+  },
+  {
+    "code": "473022",
+    "prefecture_code": 47,
+    "name": "大宜味村",
+    "name_k": "オオギミソン",
+    "capital": false
+  },
+  {
+    "code": "473031",
+    "prefecture_code": 47,
+    "name": "東村",
+    "name_k": "ヒガシソン",
+    "capital": false
+  },
+  {
+    "code": "473065",
+    "prefecture_code": 47,
+    "name": "今帰仁村",
+    "name_k": "ナキジンソン",
+    "capital": false
+  },
+  {
+    "code": "473081",
+    "prefecture_code": 47,
+    "name": "本部町",
+    "name_k": "モトブチョウ",
+    "capital": false
+  },
+  {
+    "code": "473111",
+    "prefecture_code": 47,
+    "name": "恩納村",
+    "name_k": "オンナソン",
+    "capital": false
+  },
+  {
+    "code": "473138",
+    "prefecture_code": 47,
+    "name": "宜野座村",
+    "name_k": "ギノザソン",
+    "capital": false
+  },
+  {
+    "code": "473146",
+    "prefecture_code": 47,
+    "name": "金武町",
+    "name_k": "キンチョウ",
+    "capital": false
+  },
+  {
+    "code": "473154",
+    "prefecture_code": 47,
+    "name": "伊江村",
+    "name_k": "イエソン",
+    "capital": false
+  },
+  {
+    "code": "473243",
+    "prefecture_code": 47,
+    "name": "読谷村",
+    "name_k": "ヨミタンソン",
+    "capital": false
+  },
+  {
+    "code": "473251",
+    "prefecture_code": 47,
+    "name": "嘉手納町",
+    "name_k": "カデナチョウ",
+    "capital": false
+  },
+  {
+    "code": "473260",
+    "prefecture_code": 47,
+    "name": "北谷町",
+    "name_k": "チヤタンチョウ",
+    "capital": false
+  },
+  {
+    "code": "473278",
+    "prefecture_code": 47,
+    "name": "北中城村",
+    "name_k": "キタナカグスクソン",
+    "capital": false
+  },
+  {
+    "code": "473286",
+    "prefecture_code": 47,
+    "name": "中城村",
+    "name_k": "ナカグスクソン",
+    "capital": false
+  },
+  {
+    "code": "473294",
+    "prefecture_code": 47,
+    "name": "西原町",
+    "name_k": "ニシハラチョウ",
+    "capital": false
+  },
+  {
+    "code": "473481",
+    "prefecture_code": 47,
+    "name": "与那原町",
+    "name_k": "ヨナバルチョウ",
+    "capital": false
+  },
+  {
+    "code": "473502",
+    "prefecture_code": 47,
+    "name": "南風原町",
+    "name_k": "ハエバルチョウ",
+    "capital": false
+  },
+  {
+    "code": "473537",
+    "prefecture_code": 47,
+    "name": "渡嘉敷村",
+    "name_k": "トカシキソン",
+    "capital": false
+  },
+  {
+    "code": "473545",
+    "prefecture_code": 47,
+    "name": "座間味村",
+    "name_k": "ザマミソン",
+    "capital": false
+  },
+  {
+    "code": "473553",
+    "prefecture_code": 47,
+    "name": "粟国村",
+    "name_k": "アグニソン",
+    "capital": false
+  },
+  {
+    "code": "473561",
+    "prefecture_code": 47,
+    "name": "渡名喜村",
+    "name_k": "トナキソン",
+    "capital": false
+  },
+  {
+    "code": "473570",
+    "prefecture_code": 47,
+    "name": "南大東村",
+    "name_k": "ミナミダイトウソン",
+    "capital": false
+  },
+  {
+    "code": "473588",
+    "prefecture_code": 47,
+    "name": "北大東村",
+    "name_k": "キタダイトウソン",
+    "capital": false
+  },
+  {
+    "code": "473596",
+    "prefecture_code": 47,
+    "name": "伊平屋村",
+    "name_k": "イヘヤソン",
+    "capital": false
+  },
+  {
+    "code": "473600",
+    "prefecture_code": 47,
+    "name": "伊是名村",
+    "name_k": "イゼナソン",
+    "capital": false
+  },
+  {
+    "code": "473618",
+    "prefecture_code": 47,
+    "name": "久米島町",
+    "name_k": "クメジマチョウ",
+    "capital": false
+  },
+  {
+    "code": "473626",
+    "prefecture_code": 47,
+    "name": "八重瀬町",
+    "name_k": "ヤエセチョウ",
+    "capital": false
+  },
+  {
+    "code": "473758",
+    "prefecture_code": 47,
+    "name": "多良間村",
+    "name_k": "タラマソン",
+    "capital": false
+  },
+  {
+    "code": "473812",
+    "prefecture_code": 47,
+    "name": "竹富町",
+    "name_k": "タケトミチョウ",
+    "capital": false
+  },
+  {
+    "code": "473821",
+    "prefecture_code": 47,
+    "name": "与那国町",
+    "name_k": "ヨナグニチョウ",
+    "capital": false
+  }
+]

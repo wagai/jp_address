@@ -1,0 +1,107 @@
+[
+  {
+    "code": "162019",
+    "prefecture_code": 16,
+    "name": "富山市",
+    "name_k": "トヤマシ",
+    "capital": true
+  },
+  {
+    "code": "162027",
+    "prefecture_code": 16,
+    "name": "高岡市",
+    "name_k": "タカオカシ",
+    "capital": false
+  },
+  {
+    "code": "162043",
+    "prefecture_code": 16,
+    "name": "魚津市",
+    "name_k": "ウオヅシ",
+    "capital": false
+  },
+  {
+    "code": "162051",
+    "prefecture_code": 16,
+    "name": "氷見市",
+    "name_k": "ヒミシ",
+    "capital": false
+  },
+  {
+    "code": "162060",
+    "prefecture_code": 16,
+    "name": "滑川市",
+    "name_k": "ナメリカワシ",
+    "capital": false
+  },
+  {
+    "code": "162078",
+    "prefecture_code": 16,
+    "name": "黒部市",
+    "name_k": "クロベシ",
+    "capital": false
+  },
+  {
+    "code": "162086",
+    "prefecture_code": 16,
+    "name": "砺波市",
+    "name_k": "トナミシ",
+    "capital": false
+  },
+  {
+    "code": "162094",
+    "prefecture_code": 16,
+    "name": "小矢部市",
+    "name_k": "オヤベシ",
+    "capital": false
+  },
+  {
+    "code": "162108",
+    "prefecture_code": 16,
+    "name": "南砺市",
+    "name_k": "ナントシ",
+    "capital": false
+  },
+  {
+    "code": "162116",
+    "prefecture_code": 16,
+    "name": "射水市",
+    "name_k": "イミズシ",
+    "capital": false
+  },
+  {
+    "code": "163210",
+    "prefecture_code": 16,
+    "name": "舟橋村",
+    "name_k": "フナハシムラ",
+    "capital": false
+  },
+  {
+    "code": "163228",
+    "prefecture_code": 16,
+    "name": "上市町",
+    "name_k": "カミイチマチ",
+    "capital": false
+  },
+  {
+    "code": "163236",
+    "prefecture_code": 16,
+    "name": "立山町",
+    "name_k": "タテヤママチ",
+    "capital": false
+  },
+  {
+    "code": "163422",
+    "prefecture_code": 16,
+    "name": "入善町",
+    "name_k": "ニュウゼンマチ",
+    "capital": false
+  },
+  {
+    "code": "163431",
+    "prefecture_code": 16,
+    "name": "朝日町",
+    "name_k": "アサヒマチ",
+    "capital": false
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "code": "111007",
+    "prefecture_code": 11,
+    "name": "さいたま市",
+    "name_k": "サイタマシ",
+    "capital": true
+  },
+  {
+    "code": "111015",
+    "prefecture_code": 11,
+    "name": "さいたま市西区",
+    "name_k": "サイタマシニシク",
+    "capital": false
+  },
+  {
+    "code": "111023",
+    "prefecture_code": 11,
+    "name": "さいたま市北区",
+    "name_k": "サイタマシキタク",
+    "capital": false
+  },
+  {
+    "code": "111031",
+    "prefecture_code": 11,
+    "name": "さいたま市大宮区",
+    "name_k": "サイタマシオオミヤク",
+    "capital": false
+  },
+  {
+    "code": "111040",
+    "prefecture_code": 11,
+    "name": "さいたま市見沼区",
+    "name_k": "サイタマシミヌマク",
+    "capital": false
+  },
+  {
+    "code": "111058",
+    "prefecture_code": 11,
+    "name": "さいたま市中央区",
+    "name_k": "サイタマシチュウオウク",
+    "capital": false
+  },
+  {
+    "code": "111066",
+    "prefecture_code": 11,
+    "name": "さいたま市桜区",
+    "name_k": "サイタマシサクラク",
+    "capital": false
+  },
+  {
+    "code": "111074",
+    "prefecture_code": 11,
+    "name": "さいたま市浦和区",
+    "name_k": "サイタマシウラワク",
+    "capital": false
+  },
+  {
+    "code": "111082",
+    "prefecture_code": 11,
+    "name": "さいたま市南区",
+    "name_k": "サイタマシミナミク",
+    "capital": false
+  },
+  {
+    "code": "111091",
+    "prefecture_code": 11,
+    "name": "さいたま市緑区",
+    "name_k": "サイタマシミドリク",
+    "capital": false
+  },
+  {
+    "code": "111104",
+    "prefecture_code": 11,
+    "name": "さいたま市岩槻区",
+    "name_k": "サイタマシイワツキク",
+    "capital": false
+  },
+  {
+    "code": "112011",
+    "prefecture_code": 11,
+    "name": "川越市",
+    "name_k": "カワゴエシ",
+    "capital": false
+  },
+  {
+    "code": "112020",
+    "prefecture_code": 11,
+    "name": "熊谷市",
+    "name_k": "クマガヤシ",
+    "capital": false
+  },
+  {
+    "code": "112038",
+    "prefecture_code": 11,
+    "name": "川口市",
+    "name_k": "カワグチシ",
+    "capital": false
+  },
+  {
+    "code": "112062",
+    "prefecture_code": 11,
+    "name": "行田市",
+    "name_k": "ギヨウダシ",
+    "capital": false
+  },
+  {
+    "code": "112071",
+    "prefecture_code": 11,
+    "name": "秩父市",
+    "name_k": "チチブシ",
+    "capital": false
+  },
+  {
+    "code": "112089",
+    "prefecture_code": 11,
+    "name": "所沢市",
+    "name_k": "トコロザワシ",
+    "capital": false
+  },
+  {
+    "code": "112097",
+    "prefecture_code": 11,
+    "name": "飯能市",
+    "name_k": "ハンノウシ",
+    "capital": false
+  },
+  {
+    "code": "112101",
+    "prefecture_code": 11,
+    "name": "加須市",
+    "name_k": "カゾシ",
+    "capital": false
+  },
+  {
+    "code": "112119",
+    "prefecture_code": 11,
+    "name": "本庄市",
+    "name_k": "ホンジヨウシ",
+    "capital": false
+  },
+  {
+    "code": "112127",
+    "prefecture_code": 11,
+    "name": "東松山市",
+    "name_k": "ヒガシマツヤマシ",
+    "capital": false
+  },
+  {
+    "code": "112143",
+    "prefecture_code": 11,
+    "name": "春日部市",
+    "name_k": "カスカベシ",
+    "capital": false
+  },
+  {
+    "code": "112151",
+    "prefecture_code": 11,
+    "name": "狭山市",
+    "name_k": "サヤマシ",
+    "capital": false
+  },
+  {
+    "code": "112160",
+    "prefecture_code": 11,
+    "name": "羽生市",
+    "name_k": "ハニユウシ",
+    "capital": false
+  },
+  {
+    "code": "112178",
+    "prefecture_code": 11,
+    "name": "鴻巣市",
+    "name_k": "コウノスシ",
+    "capital": false
+  },
+  {
+    "code": "112186",
+    "prefecture_code": 11,
+    "name": "深谷市",
+    "name_k": "フカヤシ",
+    "capital": false
+  },
+  {
+    "code": "112194",
+    "prefecture_code": 11,
+    "name": "上尾市",
+    "name_k": "アゲオシ",
+    "capital": false
+  },
+  {
+    "code": "112216",
+    "prefecture_code": 11,
+    "name": "草加市",
+    "name_k": "ソウカシ",
+    "capital": false
+  },
+  {
+    "code": "112224",
+    "prefecture_code": 11,
+    "name": "越谷市",
+    "name_k": "コシガヤシ",
+    "capital": false
+  },
+  {
+    "code": "112232",
+    "prefecture_code": 11,
+    "name": "蕨市",
+    "name_k": "ワラビシ",
+    "capital": false
+  },
+  {
+    "code": "112241",
+    "prefecture_code": 11,
+    "name": "戸田市",
+    "name_k": "トダシ",
+    "capital": false
+  },
+  {
+    "code": "112259",
+    "prefecture_code": 11,
+    "name": "入間市",
+    "name_k": "イルマシ",
+    "capital": false
+  },
+  {
+    "code": "112275",
+    "prefecture_code": 11,
+    "name": "朝霞市",
+    "name_k": "アサカシ",
+    "capital": false
+  },
+  {
+    "code": "112283",
+    "prefecture_code": 11,
+    "name": "志木市",
+    "name_k": "シキシ",
+    "capital": false
+  },
+  {
+    "code": "112291",
+    "prefecture_code": 11,
+    "name": "和光市",
+    "name_k": "ワコウシ",
+    "capital": false
+  },
+  {
+    "code": "112305",
+    "prefecture_code": 11,
+    "name": "新座市",
+    "name_k": "ニイザシ",
+    "capital": false
+  },
+  {
+    "code": "112313",
+    "prefecture_code": 11,
+    "name": "桶川市",
+    "name_k": "オケガワシ",
+    "capital": false
+  },
+  {
+    "code": "112321",
+    "prefecture_code": 11,
+    "name": "久喜市",
+    "name_k": "クキシ",
+    "capital": false
+  },
+  {
+    "code": "112330",
+    "prefecture_code": 11,
+    "name": "北本市",
+    "name_k": "キタモトシ",
+    "capital": false
+  },
+  {
+    "code": "112348",
+    "prefecture_code": 11,
+    "name": "八潮市",
+    "name_k": "ヤシオシ",
+    "capital": false
+  },
+  {
+    "code": "112356",
+    "prefecture_code": 11,
+    "name": "富士見市",
+    "name_k": "フジミシ",
+    "capital": false
+  },
+  {
+    "code": "112372",
+    "prefecture_code": 11,
+    "name": "三郷市",
+    "name_k": "ミサトシ",
+    "capital": false
+  },
+  {
+    "code": "112381",
+    "prefecture_code": 11,
+    "name": "蓮田市",
+    "name_k": "ハスダシ",
+    "capital": false
+  },
+  {
+    "code": "112399",
+    "prefecture_code": 11,
+    "name": "坂戸市",
+    "name_k": "サカドシ",
+    "capital": false
+  },
+  {
+    "code": "112402",
+    "prefecture_code": 11,
+    "name": "幸手市",
+    "name_k": "サッテシ",
+    "capital": false
+  },
+  {
+    "code": "112411",
+    "prefecture_code": 11,
+    "name": "鶴ヶ島市",
+    "name_k": "ツルガシマシ",
+    "capital": false
+  },
+  {
+    "code": "112429",
+    "prefecture_code": 11,
+    "name": "日高市",
+    "name_k": "ヒダカシ",
+    "capital": false
+  },
+  {
+    "code": "112437",
+    "prefecture_code": 11,
+    "name": "吉川市",
+    "name_k": "ヨシカワシ",
+    "capital": false
+  },
+  {
+    "code": "112453",
+    "prefecture_code": 11,
+    "name": "ふじみ野市",
+    "name_k": "フジミノシ",
+    "capital": false
+  },
+  {
+    "code": "112461",
+    "prefecture_code": 11,
+    "name": "白岡市",
+    "name_k": "シラオカシ",
+    "capital": false
+  },
+  {
+    "code": "113018",
+    "prefecture_code": 11,
+    "name": "伊奈町",
+    "name_k": "イナマチ",
+    "capital": false
+  },
+  {
+    "code": "113247",
+    "prefecture_code": 11,
+    "name": "三芳町",
+    "name_k": "ミヨシマチ",
+    "capital": false
+  },
+  {
+    "code": "113263",
+    "prefecture_code": 11,
+    "name": "毛呂山町",
+    "name_k": "モロヤママチ",
+    "capital": false
+  },
+  {
+    "code": "113271",
+    "prefecture_code": 11,
+    "name": "越生町",
+    "name_k": "オゴセマチ",
+    "capital": false
+  },
+  {
+    "code": "113417",
+    "prefecture_code": 11,
+    "name": "滑川町",
+    "name_k": "ナメガワマチ",
+    "capital": false
+  },
+  {
+    "code": "113425",
+    "prefecture_code": 11,
+    "name": "嵐山町",
+    "name_k": "ランザンマチ",
+    "capital": false
+  },
+  {
+    "code": "113433",
+    "prefecture_code": 11,
+    "name": "小川町",
+    "name_k": "オガワマチ",
+    "capital": false
+  },
+  {
+    "code": "113468",
+    "prefecture_code": 11,
+    "name": "川島町",
+    "name_k": "カワジママチ",
+    "capital": false
+  },
+  {
+    "code": "113476",
+    "prefecture_code": 11,
+    "name": "吉見町",
+    "name_k": "ヨシミマチ",
+    "capital": false
+  },
+  {
+    "code": "113484",
+    "prefecture_code": 11,
+    "name": "鳩山町",
+    "name_k": "ハトヤママチ",
+    "capital": false
+  },
+  {
+    "code": "113492",
+    "prefecture_code": 11,
+    "name": "ときがわ町",
+    "name_k": "トキガワマチ",
+    "capital": false
+  },
+  {
+    "code": "113611",
+    "prefecture_code": 11,
+    "name": "横瀬町",
+    "name_k": "ヨコゼマチ",
+    "capital": false
+  },
+  {
+    "code": "113620",
+    "prefecture_code": 11,
+    "name": "皆野町",
+    "name_k": "ミナノマチ",
+    "capital": false
+  },
+  {
+    "code": "113638",
+    "prefecture_code": 11,
+    "name": "長瀞町",
+    "name_k": "ナガトロマチ",
+    "capital": false
+  },
+  {
+    "code": "113654",
+    "prefecture_code": 11,
+    "name": "小鹿野町",
+    "name_k": "オガノマチ",
+    "capital": false
+  },
+  {
+    "code": "113697",
+    "prefecture_code": 11,
+    "name": "東秩父村",
+    "name_k": "ヒガシチチブムラ",
+    "capital": false
+  },
+  {
+    "code": "113816",
+    "prefecture_code": 11,
+    "name": "美里町",
+    "name_k": "ミサトマチ",
+    "capital": false
+  },
+  {
+    "code": "113832",
+    "prefecture_code": 11,
+    "name": "神川町",
+    "name_k": "カミカワマチ",
+    "capital": false
+  },
+  {
+    "code": "113859",
+    "prefecture_code": 11,
+    "name": "上里町",
+    "name_k": "カミサトマチ",
+    "capital": false
+  },
+  {
+    "code": "114081",
+    "prefecture_code": 11,
+    "name": "寄居町",
+    "name_k": "ヨリイマチ",
+    "capital": false
+  },
+  {
+    "code": "114421",
+    "prefecture_code": 11,
+    "name": "宮代町",
+    "name_k": "ミヤシロマチ",
+    "capital": false
+  },
+  {
+    "code": "114642",
+    "prefecture_code": 11,
+    "name": "杉戸町",
+    "name_k": "スギトマチ",
+    "capital": false
+  },
+  {
+    "code": "114651",
+    "prefecture_code": 11,
+    "name": "松伏町",
+    "name_k": "マツブシマチ",
+    "capital": false
+  }
+]

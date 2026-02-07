@@ -1,0 +1,135 @@
+[
+  {
+    "code": "312011",
+    "prefecture_code": 31,
+    "name": "鳥取市",
+    "name_k": "トットリシ",
+    "capital": true
+  },
+  {
+    "code": "312029",
+    "prefecture_code": 31,
+    "name": "米子市",
+    "name_k": "ヨナゴシ",
+    "capital": false
+  },
+  {
+    "code": "312037",
+    "prefecture_code": 31,
+    "name": "倉吉市",
+    "name_k": "クラヨシシ",
+    "capital": false
+  },
+  {
+    "code": "312045",
+    "prefecture_code": 31,
+    "name": "境港市",
+    "name_k": "サカイミナトシ",
+    "capital": false
+  },
+  {
+    "code": "313025",
+    "prefecture_code": 31,
+    "name": "岩美町",
+    "name_k": "イワミチョウ",
+    "capital": false
+  },
+  {
+    "code": "313254",
+    "prefecture_code": 31,
+    "name": "若桜町",
+    "name_k": "ワカサチョウ",
+    "capital": false
+  },
+  {
+    "code": "313289",
+    "prefecture_code": 31,
+    "name": "智頭町",
+    "name_k": "チヅチョウ",
+    "capital": false
+  },
+  {
+    "code": "313297",
+    "prefecture_code": 31,
+    "name": "八頭町",
+    "name_k": "ヤズチョウ",
+    "capital": false
+  },
+  {
+    "code": "313645",
+    "prefecture_code": 31,
+    "name": "三朝町",
+    "name_k": "ミササチョウ",
+    "capital": false
+  },
+  {
+    "code": "313700",
+    "prefecture_code": 31,
+    "name": "湯梨浜町",
+    "name_k": "ユリハマチョウ",
+    "capital": false
+  },
+  {
+    "code": "313718",
+    "prefecture_code": 31,
+    "name": "琴浦町",
+    "name_k": "コトウラチョウ",
+    "capital": false
+  },
+  {
+    "code": "313726",
+    "prefecture_code": 31,
+    "name": "北栄町",
+    "name_k": "ホクエイチョウ",
+    "capital": false
+  },
+  {
+    "code": "313840",
+    "prefecture_code": 31,
+    "name": "日吉津村",
+    "name_k": "ヒエヅソン",
+    "capital": false
+  },
+  {
+    "code": "313866",
+    "prefecture_code": 31,
+    "name": "大山町",
+    "name_k": "ダイセンチョウ",
+    "capital": false
+  },
+  {
+    "code": "313891",
+    "prefecture_code": 31,
+    "name": "南部町",
+    "name_k": "ナンブチョウ",
+    "capital": false
+  },
+  {
+    "code": "313904",
+    "prefecture_code": 31,
+    "name": "伯耆町",
+    "name_k": "ホウキチョウ",
+    "capital": false
+  },
+  {
+    "code": "314013",
+    "prefecture_code": 31,
+    "name": "日南町",
+    "name_k": "ニチナンチョウ",
+    "capital": false
+  },
+  {
+    "code": "314021",
+    "prefecture_code": 31,
+    "name": "日野町",
+    "name_k": "ヒノチョウ",
+    "capital": false
+  },
+  {
+    "code": "314030",
+    "prefecture_code": 31,
+    "name": "江府町",
+    "name_k": "コウフチョウ",
+    "capital": false
+  }
+]

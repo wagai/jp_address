@@ -1,0 +1,149 @@
+[
+  {
+    "code": "422011",
+    "prefecture_code": 42,
+    "name": "長崎市",
+    "name_k": "ナガサキシ",
+    "capital": true
+  },
+  {
+    "code": "422029",
+    "prefecture_code": 42,
+    "name": "佐世保市",
+    "name_k": "サセボシ",
+    "capital": false
+  },
+  {
+    "code": "422037",
+    "prefecture_code": 42,
+    "name": "島原市",
+    "name_k": "シマバラシ",
+    "capital": false
+  },
+  {
+    "code": "422045",
+    "prefecture_code": 42,
+    "name": "諫早市",
+    "name_k": "イサハヤシ",
+    "capital": false
+  },
+  {
+    "code": "422053",
+    "prefecture_code": 42,
+    "name": "大村市",
+    "name_k": "オオムラシ",
+    "capital": false
+  },
+  {
+    "code": "422070",
+    "prefecture_code": 42,
+    "name": "平戸市",
+    "name_k": "ヒラドシ",
+    "capital": false
+  },
+  {
+    "code": "422088",
+    "prefecture_code": 42,
+    "name": "松浦市",
+    "name_k": "マツウラシ",
+    "capital": false
+  },
+  {
+    "code": "422096",
+    "prefecture_code": 42,
+    "name": "対馬市",
+    "name_k": "ツシマシ",
+    "capital": false
+  },
+  {
+    "code": "422100",
+    "prefecture_code": 42,
+    "name": "壱岐市",
+    "name_k": "イキシ",
+    "capital": false
+  },
+  {
+    "code": "422118",
+    "prefecture_code": 42,
+    "name": "五島市",
+    "name_k": "ゴトウシ",
+    "capital": false
+  },
+  {
+    "code": "422126",
+    "prefecture_code": 42,
+    "name": "西海市",
+    "name_k": "サイカイシ",
+    "capital": false
+  },
+  {
+    "code": "422134",
+    "prefecture_code": 42,
+    "name": "雲仙市",
+    "name_k": "ウンゼンシ",
+    "capital": false
+  },
+  {
+    "code": "422142",
+    "prefecture_code": 42,
+    "name": "南島原市",
+    "name_k": "ミナミシマバラシ",
+    "capital": false
+  },
+  {
+    "code": "423076",
+    "prefecture_code": 42,
+    "name": "長与町",
+    "name_k": "ナガヨチョウ",
+    "capital": false
+  },
+  {
+    "code": "423084",
+    "prefecture_code": 42,
+    "name": "時津町",
+    "name_k": "トギツチョウ",
+    "capital": false
+  },
+  {
+    "code": "423211",
+    "prefecture_code": 42,
+    "name": "東彼杵町",
+    "name_k": "ヒガシソノギチョウ",
+    "capital": false
+  },
+  {
+    "code": "423220",
+    "prefecture_code": 42,
+    "name": "川棚町",
+    "name_k": "カワタナチョウ",
+    "capital": false
+  },
+  {
+    "code": "423238",
+    "prefecture_code": 42,
+    "name": "波佐見町",
+    "name_k": "ハサミチョウ",
+    "capital": false
+  },
+  {
+    "code": "423831",
+    "prefecture_code": 42,
+    "name": "小値賀町",
+    "name_k": "オヂカチョウ",
+    "capital": false
+  },
+  {
+    "code": "423912",
+    "prefecture_code": 42,
+    "name": "佐々町",
+    "name_k": "サザチョウ",
+    "capital": false
+  },
+  {
+    "code": "424111",
+    "prefecture_code": 42,
+    "name": "新上五島町",
+    "name_k": "シンカミゴトウチョウ",
+    "capital": false
+  }
+]

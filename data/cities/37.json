@@ -1,0 +1,121 @@
+[
+  {
+    "code": "372013",
+    "prefecture_code": 37,
+    "name": "高松市",
+    "name_k": "タカマツシ",
+    "capital": true
+  },
+  {
+    "code": "372021",
+    "prefecture_code": 37,
+    "name": "丸亀市",
+    "name_k": "マルガメシ",
+    "capital": false
+  },
+  {
+    "code": "372030",
+    "prefecture_code": 37,
+    "name": "坂出市",
+    "name_k": "サカイデシ",
+    "capital": false
+  },
+  {
+    "code": "372048",
+    "prefecture_code": 37,
+    "name": "善通寺市",
+    "name_k": "ゼンツウジシ",
+    "capital": false
+  },
+  {
+    "code": "372056",
+    "prefecture_code": 37,
+    "name": "観音寺市",
+    "name_k": "カンオンジシ",
+    "capital": false
+  },
+  {
+    "code": "372064",
+    "prefecture_code": 37,
+    "name": "さぬき市",
+    "name_k": "サヌキシ",
+    "capital": false
+  },
+  {
+    "code": "372072",
+    "prefecture_code": 37,
+    "name": "東かがわ市",
+    "name_k": "ヒガシカガワシ",
+    "capital": false
+  },
+  {
+    "code": "372081",
+    "prefecture_code": 37,
+    "name": "三豊市",
+    "name_k": "ミトヨシ",
+    "capital": false
+  },
+  {
+    "code": "373222",
+    "prefecture_code": 37,
+    "name": "土庄町",
+    "name_k": "トノショウチョウ",
+    "capital": false
+  },
+  {
+    "code": "373249",
+    "prefecture_code": 37,
+    "name": "小豆島町",
+    "name_k": "ショウドシマチョウ",
+    "capital": false
+  },
+  {
+    "code": "373419",
+    "prefecture_code": 37,
+    "name": "三木町",
+    "name_k": "ミキチョウ",
+    "capital": false
+  },
+  {
+    "code": "373648",
+    "prefecture_code": 37,
+    "name": "直島町",
+    "name_k": "ナオシマチョウ",
+    "capital": false
+  },
+  {
+    "code": "373869",
+    "prefecture_code": 37,
+    "name": "宇多津町",
+    "name_k": "ウタヅチョウ",
+    "capital": false
+  },
+  {
+    "code": "373877",
+    "prefecture_code": 37,
+    "name": "綾川町",
+    "name_k": "アヤガワチョウ",
+    "capital": false
+  },
+  {
+    "code": "374032",
+    "prefecture_code": 37,
+    "name": "琴平町",
+    "name_k": "コトヒラチョウ",
+    "capital": false
+  },
+  {
+    "code": "374041",
+    "prefecture_code": 37,
+    "name": "多度津町",
+    "name_k": "タドツチョウ",
+    "capital": false
+  },
+  {
+    "code": "374067",
+    "prefecture_code": 37,
+    "name": "まんのう町",
+    "name_k": "マンノウチョウ",
+    "capital": false
+  }
+]

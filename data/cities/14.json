@@ -1,0 +1,429 @@
+[
+  {
+    "code": "141003",
+    "prefecture_code": 14,
+    "name": "横浜市",
+    "name_k": "ヨコハマシ",
+    "capital": true
+  },
+  {
+    "code": "141011",
+    "prefecture_code": 14,
+    "name": "横浜市鶴見区",
+    "name_k": "ヨコハマシツルミク",
+    "capital": false
+  },
+  {
+    "code": "141020",
+    "prefecture_code": 14,
+    "name": "横浜市神奈川区",
+    "name_k": "ヨコハマシカナガワク",
+    "capital": false
+  },
+  {
+    "code": "141038",
+    "prefecture_code": 14,
+    "name": "横浜市西区",
+    "name_k": "ヨコハマシニシク",
+    "capital": false
+  },
+  {
+    "code": "141046",
+    "prefecture_code": 14,
+    "name": "横浜市中区",
+    "name_k": "ヨコハマシナカク",
+    "capital": false
+  },
+  {
+    "code": "141054",
+    "prefecture_code": 14,
+    "name": "横浜市南区",
+    "name_k": "ヨコハマシミナミク",
+    "capital": false
+  },
+  {
+    "code": "141062",
+    "prefecture_code": 14,
+    "name": "横浜市保土ケ谷区",
+    "name_k": "ヨコハマシホドガヤク",
+    "capital": false
+  },
+  {
+    "code": "141071",
+    "prefecture_code": 14,
+    "name": "横浜市磯子区",
+    "name_k": "ヨコハマシイソゴク",
+    "capital": false
+  },
+  {
+    "code": "141089",
+    "prefecture_code": 14,
+    "name": "横浜市金沢区",
+    "name_k": "ヨコハマシカナザワク",
+    "capital": false
+  },
+  {
+    "code": "141097",
+    "prefecture_code": 14,
+    "name": "横浜市港北区",
+    "name_k": "ヨコハマシコウホクク",
+    "capital": false
+  },
+  {
+    "code": "141101",
+    "prefecture_code": 14,
+    "name": "横浜市戸塚区",
+    "name_k": "ヨコハマシトツカク",
+    "capital": false
+  },
+  {
+    "code": "141119",
+    "prefecture_code": 14,
+    "name": "横浜市港南区",
+    "name_k": "ヨコハマシコウナンク",
+    "capital": false
+  },
+  {
+    "code": "141127",
+    "prefecture_code": 14,
+    "name": "横浜市旭区",
+    "name_k": "ヨコハマシアサヒク",
+    "capital": false
+  },
+  {
+    "code": "141135",
+    "prefecture_code": 14,
+    "name": "横浜市緑区",
+    "name_k": "ヨコハマシミドリク",
+    "capital": false
+  },
+  {
+    "code": "141143",
+    "prefecture_code": 14,
+    "name": "横浜市瀬谷区",
+    "name_k": "ヨコハマシセヤク",
+    "capital": false
+  },
+  {
+    "code": "141151",
+    "prefecture_code": 14,
+    "name": "横浜市栄区",
+    "name_k": "ヨコハマシサカエク",
+    "capital": false
+  },
+  {
+    "code": "141160",
+    "prefecture_code": 14,
+    "name": "横浜市泉区",
+    "name_k": "ヨコハマシイズミク",
+    "capital": false
+  },
+  {
+    "code": "141178",
+    "prefecture_code": 14,
+    "name": "横浜市青葉区",
+    "name_k": "ヨコハマシアオバク",
+    "capital": false
+  },
+  {
+    "code": "141186",
+    "prefecture_code": 14,
+    "name": "横浜市都筑区",
+    "name_k": "ヨコハマシツヅキク",
+    "capital": false
+  },
+  {
+    "code": "141305",
+    "prefecture_code": 14,
+    "name": "川崎市",
+    "name_k": "カワサキシ",
+    "capital": false
+  },
+  {
+    "code": "141313",
+    "prefecture_code": 14,
+    "name": "川崎市川崎区",
+    "name_k": "カワサキシカワサキク",
+    "capital": false
+  },
+  {
+    "code": "141321",
+    "prefecture_code": 14,
+    "name": "川崎市幸区",
+    "name_k": "カワサキシサイワイク",
+    "capital": false
+  },
+  {
+    "code": "141330",
+    "prefecture_code": 14,
+    "name": "川崎市中原区",
+    "name_k": "カワサキシナカハラク",
+    "capital": false
+  },
+  {
+    "code": "141348",
+    "prefecture_code": 14,
+    "name": "川崎市高津区",
+    "name_k": "カワサキシタカツク",
+    "capital": false
+  },
+  {
+    "code": "141356",
+    "prefecture_code": 14,
+    "name": "川崎市多摩区",
+    "name_k": "カワサキシタマク",
+    "capital": false
+  },
+  {
+    "code": "141364",
+    "prefecture_code": 14,
+    "name": "川崎市宮前区",
+    "name_k": "カワサキシミヤマエク",
+    "capital": false
+  },
+  {
+    "code": "141372",
+    "prefecture_code": 14,
+    "name": "川崎市麻生区",
+    "name_k": "カワサキシアサオク",
+    "capital": false
+  },
+  {
+    "code": "141500",
+    "prefecture_code": 14,
+    "name": "相模原市",
+    "name_k": "サガミハラシ",
+    "capital": false
+  },
+  {
+    "code": "141518",
+    "prefecture_code": 14,
+    "name": "相模原市緑区",
+    "name_k": "サガミハラシミドリク",
+    "capital": false
+  },
+  {
+    "code": "141526",
+    "prefecture_code": 14,
+    "name": "相模原市中央区",
+    "name_k": "サガミハラシチュウオウク",
+    "capital": false
+  },
+  {
+    "code": "141534",
+    "prefecture_code": 14,
+    "name": "相模原市南区",
+    "name_k": "サガミハラシミナミク",
+    "capital": false
+  },
+  {
+    "code": "142018",
+    "prefecture_code": 14,
+    "name": "横須賀市",
+    "name_k": "ヨコスカシ",
+    "capital": false
+  },
+  {
+    "code": "142034",
+    "prefecture_code": 14,
+    "name": "平塚市",
+    "name_k": "ヒラツカシ",
+    "capital": false
+  },
+  {
+    "code": "142042",
+    "prefecture_code": 14,
+    "name": "鎌倉市",
+    "name_k": "カマクラシ",
+    "capital": false
+  },
+  {
+    "code": "142051",
+    "prefecture_code": 14,
+    "name": "藤沢市",
+    "name_k": "フジサワシ",
+    "capital": false
+  },
+  {
+    "code": "142069",
+    "prefecture_code": 14,
+    "name": "小田原市",
+    "name_k": "オダワラシ",
+    "capital": false
+  },
+  {
+    "code": "142077",
+    "prefecture_code": 14,
+    "name": "茅ヶ崎市",
+    "name_k": "チガサキシ",
+    "capital": false
+  },
+  {
+    "code": "142085",
+    "prefecture_code": 14,
+    "name": "逗子市",
+    "name_k": "ズシシ",
+    "capital": false
+  },
+  {
+    "code": "142107",
+    "prefecture_code": 14,
+    "name": "三浦市",
+    "name_k": "ミウラシ",
+    "capital": false
+  },
+  {
+    "code": "142115",
+    "prefecture_code": 14,
+    "name": "秦野市",
+    "name_k": "ハダノシ",
+    "capital": false
+  },
+  {
+    "code": "142123",
+    "prefecture_code": 14,
+    "name": "厚木市",
+    "name_k": "アツギシ",
+    "capital": false
+  },
+  {
+    "code": "142131",
+    "prefecture_code": 14,
+    "name": "大和市",
+    "name_k": "ヤマトシ",
+    "capital": false
+  },
+  {
+    "code": "142140",
+    "prefecture_code": 14,
+    "name": "伊勢原市",
+    "name_k": "イセハラシ",
+    "capital": false
+  },
+  {
+    "code": "142158",
+    "prefecture_code": 14,
+    "name": "海老名市",
+    "name_k": "エビナシ",
+    "capital": false
+  },
+  {
+    "code": "142166",
+    "prefecture_code": 14,
+    "name": "座間市",
+    "name_k": "ザマシ",
+    "capital": false
+  },
+  {
+    "code": "142174",
+    "prefecture_code": 14,
+    "name": "南足柄市",
+    "name_k": "ミナミアシガラシ",
+    "capital": false
+  },
+  {
+    "code": "142182",
+    "prefecture_code": 14,
+    "name": "綾瀬市",
+    "name_k": "アヤセシ",
+    "capital": false
+  },
+  {
+    "code": "143014",
+    "prefecture_code": 14,
+    "name": "葉山町",
+    "name_k": "ハヤママチ",
+    "capital": false
+  },
+  {
+    "code": "143219",
+    "prefecture_code": 14,
+    "name": "寒川町",
+    "name_k": "サムカワマチ",
+    "capital": false
+  },
+  {
+    "code": "143413",
+    "prefecture_code": 14,
+    "name": "大磯町",
+    "name_k": "オオイソマチ",
+    "capital": false
+  },
+  {
+    "code": "143421",
+    "prefecture_code": 14,
+    "name": "二宮町",
+    "name_k": "ニノミヤマチ",
+    "capital": false
+  },
+  {
+    "code": "143618",
+    "prefecture_code": 14,
+    "name": "中井町",
+    "name_k": "ナカイマチ",
+    "capital": false
+  },
+  {
+    "code": "143626",
+    "prefecture_code": 14,
+    "name": "大井町",
+    "name_k": "オオイマチ",
+    "capital": false
+  },
+  {
+    "code": "143634",
+    "prefecture_code": 14,
+    "name": "松田町",
+    "name_k": "マツダマチ",
+    "capital": false
+  },
+  {
+    "code": "143642",
+    "prefecture_code": 14,
+    "name": "山北町",
+    "name_k": "ヤマキタマチ",
+    "capital": false
+  },
+  {
+    "code": "143669",
+    "prefecture_code": 14,
+    "name": "開成町",
+    "name_k": "カイセイマチ",
+    "capital": false
+  },
+  {
+    "code": "143821",
+    "prefecture_code": 14,
+    "name": "箱根町",
+    "name_k": "ハコネマチ",
+    "capital": false
+  },
+  {
+    "code": "143839",
+    "prefecture_code": 14,
+    "name": "真鶴町",
+    "name_k": "マナツルマチ",
+    "capital": false
+  },
+  {
+    "code": "143847",
+    "prefecture_code": 14,
+    "name": "湯河原町",
+    "name_k": "ユガワラマチ",
+    "capital": false
+  },
+  {
+    "code": "144011",
+    "prefecture_code": 14,
+    "name": "愛川町",
+    "name_k": "アイカワマチ",
+    "capital": false
+  },
+  {
+    "code": "144029",
+    "prefecture_code": 14,
+    "name": "清川村",
+    "name_k": "キヨカワムラ",
+    "capital": false
+  }
+]

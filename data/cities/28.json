@@ -1,0 +1,352 @@
+[
+  {
+    "code": "281000",
+    "prefecture_code": 28,
+    "name": "神戸市",
+    "name_k": "コウベシ",
+    "capital": true
+  },
+  {
+    "code": "281018",
+    "prefecture_code": 28,
+    "name": "神戸市東灘区",
+    "name_k": "コウベシヒガシナダク",
+    "capital": false
+  },
+  {
+    "code": "281026",
+    "prefecture_code": 28,
+    "name": "神戸市灘区",
+    "name_k": "コウベシナダク",
+    "capital": false
+  },
+  {
+    "code": "281051",
+    "prefecture_code": 28,
+    "name": "神戸市兵庫区",
+    "name_k": "コウベシヒョウゴク",
+    "capital": false
+  },
+  {
+    "code": "281069",
+    "prefecture_code": 28,
+    "name": "神戸市長田区",
+    "name_k": "コウベシナガタク",
+    "capital": false
+  },
+  {
+    "code": "281077",
+    "prefecture_code": 28,
+    "name": "神戸市須磨区",
+    "name_k": "コウベシスマク",
+    "capital": false
+  },
+  {
+    "code": "281085",
+    "prefecture_code": 28,
+    "name": "神戸市垂水区",
+    "name_k": "コウベシタルミク",
+    "capital": false
+  },
+  {
+    "code": "281093",
+    "prefecture_code": 28,
+    "name": "神戸市北区",
+    "name_k": "コウベシキタク",
+    "capital": false
+  },
+  {
+    "code": "281107",
+    "prefecture_code": 28,
+    "name": "神戸市中央区",
+    "name_k": "コウベシチュウオウク",
+    "capital": false
+  },
+  {
+    "code": "281115",
+    "prefecture_code": 28,
+    "name": "神戸市西区",
+    "name_k": "コウベシニシク",
+    "capital": false
+  },
+  {
+    "code": "282014",
+    "prefecture_code": 28,
+    "name": "姫路市",
+    "name_k": "ヒメジシ",
+    "capital": false
+  },
+  {
+    "code": "282022",
+    "prefecture_code": 28,
+    "name": "尼崎市",
+    "name_k": "アマガサキシ",
+    "capital": false
+  },
+  {
+    "code": "282031",
+    "prefecture_code": 28,
+    "name": "明石市",
+    "name_k": "アカシシ",
+    "capital": false
+  },
+  {
+    "code": "282049",
+    "prefecture_code": 28,
+    "name": "西宮市",
+    "name_k": "ニシノミヤシ",
+    "capital": false
+  },
+  {
+    "code": "282057",
+    "prefecture_code": 28,
+    "name": "洲本市",
+    "name_k": "スモトシ",
+    "capital": false
+  },
+  {
+    "code": "282065",
+    "prefecture_code": 28,
+    "name": "芦屋市",
+    "name_k": "アシヤシ",
+    "capital": false
+  },
+  {
+    "code": "282073",
+    "prefecture_code": 28,
+    "name": "伊丹市",
+    "name_k": "イタミシ",
+    "capital": false
+  },
+  {
+    "code": "282081",
+    "prefecture_code": 28,
+    "name": "相生市",
+    "name_k": "アイオイシ",
+    "capital": false
+  },
+  {
+    "code": "282090",
+    "prefecture_code": 28,
+    "name": "豊岡市",
+    "name_k": "トヨオカシ",
+    "capital": false
+  },
+  {
+    "code": "282103",
+    "prefecture_code": 28,
+    "name": "加古川市",
+    "name_k": "カコガワシ",
+    "capital": false
+  },
+  {
+    "code": "282120",
+    "prefecture_code": 28,
+    "name": "赤穂市",
+    "name_k": "アコウシ",
+    "capital": false
+  },
+  {
+    "code": "282138",
+    "prefecture_code": 28,
+    "name": "西脇市",
+    "name_k": "ニシワキシ",
+    "capital": false
+  },
+  {
+    "code": "282146",
+    "prefecture_code": 28,
+    "name": "宝塚市",
+    "name_k": "タカラヅカシ",
+    "capital": false
+  },
+  {
+    "code": "282154",
+    "prefecture_code": 28,
+    "name": "三木市",
+    "name_k": "ミキシ",
+    "capital": false
+  },
+  {
+    "code": "282162",
+    "prefecture_code": 28,
+    "name": "高砂市",
+    "name_k": "タカサゴシ",
+    "capital": false
+  },
+  {
+    "code": "282171",
+    "prefecture_code": 28,
+    "name": "川西市",
+    "name_k": "カワニシシ",
+    "capital": false
+  },
+  {
+    "code": "282189",
+    "prefecture_code": 28,
+    "name": "小野市",
+    "name_k": "オノシ",
+    "capital": false
+  },
+  {
+    "code": "282197",
+    "prefecture_code": 28,
+    "name": "三田市",
+    "name_k": "サンダシ",
+    "capital": false
+  },
+  {
+    "code": "282201",
+    "prefecture_code": 28,
+    "name": "加西市",
+    "name_k": "カサイシ",
+    "capital": false
+  },
+  {
+    "code": "282219",
+    "prefecture_code": 28,
+    "name": "丹波篠山市",
+    "name_k": "タンバササヤマシ",
+    "capital": false
+  },
+  {
+    "code": "282227",
+    "prefecture_code": 28,
+    "name": "養父市",
+    "name_k": "ヤブシ",
+    "capital": false
+  },
+  {
+    "code": "282235",
+    "prefecture_code": 28,
+    "name": "丹波市",
+    "name_k": "タンバシ",
+    "capital": false
+  },
+  {
+    "code": "282243",
+    "prefecture_code": 28,
+    "name": "南あわじ市",
+    "name_k": "ミナミアワジシ",
+    "capital": false
+  },
+  {
+    "code": "282251",
+    "prefecture_code": 28,
+    "name": "朝来市",
+    "name_k": "アサゴシ",
+    "capital": false
+  },
+  {
+    "code": "282260",
+    "prefecture_code": 28,
+    "name": "淡路市",
+    "name_k": "アワジシ",
+    "capital": false
+  },
+  {
+    "code": "282278",
+    "prefecture_code": 28,
+    "name": "宍粟市",
+    "name_k": "シソウシ",
+    "capital": false
+  },
+  {
+    "code": "282286",
+    "prefecture_code": 28,
+    "name": "加東市",
+    "name_k": "カトウシ",
+    "capital": false
+  },
+  {
+    "code": "282294",
+    "prefecture_code": 28,
+    "name": "たつの市",
+    "name_k": "タツノシ",
+    "capital": false
+  },
+  {
+    "code": "283011",
+    "prefecture_code": 28,
+    "name": "猪名川町",
+    "name_k": "イナガワチョウ",
+    "capital": false
+  },
+  {
+    "code": "283657",
+    "prefecture_code": 28,
+    "name": "多可町",
+    "name_k": "タカチョウ",
+    "capital": false
+  },
+  {
+    "code": "283819",
+    "prefecture_code": 28,
+    "name": "稲美町",
+    "name_k": "イナミチョウ",
+    "capital": false
+  },
+  {
+    "code": "283827",
+    "prefecture_code": 28,
+    "name": "播磨町",
+    "name_k": "ハリマチョウ",
+    "capital": false
+  },
+  {
+    "code": "284424",
+    "prefecture_code": 28,
+    "name": "市川町",
+    "name_k": "イチカワチョウ",
+    "capital": false
+  },
+  {
+    "code": "284432",
+    "prefecture_code": 28,
+    "name": "福崎町",
+    "name_k": "フクサキチョウ",
+    "capital": false
+  },
+  {
+    "code": "284467",
+    "prefecture_code": 28,
+    "name": "神河町",
+    "name_k": "カミカワチョウ",
+    "capital": false
+  },
+  {
+    "code": "284645",
+    "prefecture_code": 28,
+    "name": "太子町",
+    "name_k": "タイシチョウ",
+    "capital": false
+  },
+  {
+    "code": "284815",
+    "prefecture_code": 28,
+    "name": "上郡町",
+    "name_k": "カミゴオリチョウ",
+    "capital": false
+  },
+  {
+    "code": "285013",
+    "prefecture_code": 28,
+    "name": "佐用町",
+    "name_k": "サヨウチョウ",
+    "capital": false
+  },
+  {
+    "code": "285854",
+    "prefecture_code": 28,
+    "name": "香美町",
+    "name_k": "カミチョウ",
+    "capital": false
+  },
+  {
+    "code": "285862",
+    "prefecture_code": 28,
+    "name": "新温泉町",
+    "name_k": "シンオンセンチョウ",
+    "capital": false
+  }
+]
