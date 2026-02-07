@@ -99,11 +99,57 @@ shop.full_address # => "東京都千代田区"
 shop.postal_address # => "東京都世田谷区上馬"
 ```
 
-### 郵便番号自動入力（Hotwire）
+### 郵便番号から住所検索（コントローラー例）
 
-Rails 7+アプリでTurbo Frame + Stimulusによる住所自動入力を提供します。
+`PostalCode.find`を使えば、フレームワークを問わず自由にエンドポイントを作れます。
+
+#### JSON API
+
+```ruby
+# app/controllers/postal_codes_controller.rb
+class PostalCodesController < ApplicationController
+  def lookup
+    results = JpAddress::PostalCode.find(params[:code])
+
+    render json: results.map { |r|
+      { prefecture: r.prefecture_name, city: r.city_name, town: r.town }
+    }
+  end
+end
+```
+
+#### Turbo Frame
+
+```ruby
+# app/controllers/postal_codes_controller.rb
+class PostalCodesController < ApplicationController
+  def lookup
+    @postal = JpAddress::PostalCode.find(params[:code]).first
+  end
+end
+```
+
+```erb
+<%# app/views/postal_codes/lookup.html.erb %>
+<turbo-frame id="postal-result">
+  <% if @postal %>
+    <span data-prefecture="<%= @postal.prefecture_name %>"
+          data-city="<%= @postal.city_name %>"
+          data-town="<%= @postal.town %>"></span>
+  <% end %>
+</turbo-frame>
+```
+
+### 郵便番号自動入力（Hotwire Engine）
+
+Turbo Frame + Stimulusによる住所自動入力をビルトインで提供するRails Engineです。自前でコントローラーを書かずに使えます。
 
 #### セットアップ
+
+```ruby
+# config/application.rb
+require "jp_address/engine"
+```
 
 ```ruby
 # config/routes.rb
@@ -134,29 +180,12 @@ mount JpAddress::Engine, at: "/jp_address"
 <% end %>
 ```
 
-`jp_address_autofill_frame_tag`ヘルパーでTurbo Frameタグを生成できます:
-
-```erb
-<%= jp_address_autofill_frame_tag %>
-<%# => <turbo-frame id="jp-address-result" data-jp-address--auto-fill-target="frame"></turbo-frame> %>
-```
-
 #### 動作の流れ
 
 1. ユーザーが郵便番号を入力（7桁）
 2. 300msデバウンス後、Turbo Frameでサーバーに問い合わせ
 3. サーバーが住所データ付きのTurbo Frameを返却
 4. Stimulusが都道府県・市区町村・町域フィールドを自動入力
-
-#### オプション
-
-デバウンス間隔の変更:
-
-```erb
-<div data-controller="jp-address--auto-fill"
-     data-jp-address--auto-fill-url-value="<%= jp_address.postal_code_lookup_path %>"
-     data-jp-address--auto-fill-delay-value="500">
-```
 
 ## データソース
 
