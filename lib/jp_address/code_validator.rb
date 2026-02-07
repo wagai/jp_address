@@ -11,18 +11,19 @@ module JpAddress
 
     def valid?(code)
       return false unless code.is_a?(String) && code.length == VALID_CODE_LENGTH
+      return false unless PREFECTURE_RANGE.cover?(code[0..1].to_i)
 
-      prefecture_code = code[0..1].to_i
-      return false unless PREFECTURE_RANGE.cover?(prefecture_code)
+      code[CHECK_DIGITS_INDEX] == compute_check_digit(code).to_s
+    end
 
+    def compute_check_digit(code)
       sub_total = code.chars
                       .take(CHECK_DIGITS_INDEX)
                       .map.with_index { |digit, index| digit.to_i * (CHECK_DIGITS_INDEX - index + 1) }
                       .sum
 
       candidate = (CHECK_BASE - (sub_total % CHECK_BASE)) % 10
-      check_digit = sub_total >= CHECK_BASE ? candidate : CHECK_BASE - sub_total
-      code[CHECK_DIGITS_INDEX] == check_digit.to_s
+      sub_total >= CHECK_BASE ? candidate : CHECK_BASE - sub_total
     end
   end
 end

@@ -11,7 +11,7 @@ gem "rake", "~> 13.0"
 gem "rspec", "~> 3.0"
 gem "rspec-rails"
 
-gem "railties", ">= 7.0"
 gem "actionpack", ">= 7.0"
+gem "railties", ">= 7.0"
 
 gem "rubocop", "~> 1.21"

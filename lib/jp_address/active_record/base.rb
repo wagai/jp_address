@@ -5,7 +5,13 @@ module JpAddress
     module Base
       def jp_address(column)
         column = column.to_s
+        define_jp_address_city_methods(column)
+        define_jp_address_full_address
+      end
 
+      private
+
+      def define_jp_address_city_methods(column)
         define_method(:prefecture) do
           code = send(column)
           return nil if code.nil?
@@ -19,7 +25,9 @@ module JpAddress
 
           JpAddress::City.find(code)
         end
+      end
 
+      def define_jp_address_full_address
         define_method(:full_address) do
           pref = prefecture
           cty = city
@@ -28,6 +36,8 @@ module JpAddress
           "#{pref.name}#{cty.name}"
         end
       end
+
+      public
 
       def jp_address_postal(column)
         column = column.to_s

@@ -4,15 +4,11 @@ module JpAddress
   class Prefecture
     attr_reader :code, :name, :name_e, :name_k, :name_h, :type, :capital_code
 
-    def initialize(code:, name:, name_e:, name_k:, name_h:, region:, type:, capital_code:)
-      @code = code
-      @name = name
-      @name_e = name_e
-      @name_k = name_k
-      @name_h = name_h
-      @region_name = region
-      @type = type
-      @capital_code = capital_code
+    ATTRIBUTES = %i[code name name_e name_k name_h type capital_code].freeze
+
+    def initialize(**attrs)
+      ATTRIBUTES.each { |key| instance_variable_set(:"@#{key}", attrs[key]) }
+      @region_name = attrs[:region]
     end
 
     def region
