@@ -13,20 +13,11 @@ module JpAddress
         end
 
         def cities(prefecture_code)
-          cache_key = :"@cities_#{prefecture_code}"
-          return instance_variable_get(cache_key) if instance_variable_defined?(cache_key)
-
-          file = format("%02d.json", prefecture_code)
-          data = load_json("cities/#{file}")
-          instance_variable_set(cache_key, data)
+          cities_cache[prefecture_code] ||= load_json("cities/#{format("%02d", prefecture_code)}.json")
         end
 
         def postal_codes(prefix)
-          cache_key = :"@postal_#{prefix}"
-          return instance_variable_get(cache_key) if instance_variable_defined?(cache_key)
-
-          data = load_json("postal_codes/#{prefix}.json")
-          instance_variable_set(cache_key, data)
+          postal_cache[prefix] ||= load_json("postal_codes/#{prefix}.json")
         end
 
         def reset!
@@ -34,6 +25,14 @@ module JpAddress
         end
 
         private
+
+        def cities_cache
+          @cities_cache ||= {}
+        end
+
+        def postal_cache
+          @postal_cache ||= {}
+        end
 
         def load_json(relative_path)
           path = File.join(DATA_DIR, relative_path)
