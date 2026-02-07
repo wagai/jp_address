@@ -1,0 +1,225 @@
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:26:10 +0900
+  
+NameError (uninitialized constant JpAddress::Engine):
+  
+config/routes.rb:4:in 'block in <top (required)>'
+config/routes.rb:3:in '<top (required)>'
+Started GET "/jp_address/postal_codes/lookup?code=154-0011" for 127.0.0.1 at 2026-02-08 01:26:10 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/jp_address/postal_codes/lookup"):
+  
+Started GET "/jp_address/postal_codes/lookup?code=invalid" for 127.0.0.1 at 2026-02-08 01:26:10 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/jp_address/postal_codes/lookup"):
+  
+Started GET "/jp_address/postal_codes/lookup?code=0000000" for 127.0.0.1 at 2026-02-08 01:26:10 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/jp_address/postal_codes/lookup"):
+  
+Started GET "/jp_address/postal_codes/lookup?code=154" for 127.0.0.1 at 2026-02-08 01:26:10 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/jp_address/postal_codes/lookup"):
+  
+Started GET "/jp_address/postal_codes/lookup" for 127.0.0.1 at 2026-02-08 01:26:10 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/jp_address/postal_codes/lookup"):
+  
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:26:31 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "1540011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.2ms | GC: 0.0ms)
+Completed 200 OK in 3ms (Views: 2.3ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:27:02 +0900
+  
+NameError (uninitialized constant JpAddress::Engine):
+  
+config/routes.rb:4:in 'block in <top (required)>'
+config/routes.rb:3:in '<top (required)>'
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:27:15 +0900
+  
+NameError (uninitialized constant JpAddress::Engine):
+  
+config/routes.rb:4:in 'block in <top (required)>'
+config/routes.rb:3:in '<top (required)>'
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:27:32 +0900
+  
+NameError (uninitialized constant JpAddress::Engine):
+  
+config/routes.rb:4:in 'block in <top (required)>'
+config/routes.rb:3:in '<top (required)>'
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:30:48 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "1540011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.2ms | GC: 0.0ms)
+Completed 200 OK in 2ms (Views: 2.2ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154-0011" for 127.0.0.1 at 2026-02-08 01:30:48 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154-0011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=invalid" for 127.0.0.1 at 2026-02-08 01:30:48 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "invalid"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=0000000" for 127.0.0.1 at 2026-02-08 01:30:48 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "0000000"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154" for 127.0.0.1 at 2026-02-08 01:30:48 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup" for 127.0.0.1 at 2026-02-08 01:30:48 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:31:08 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "1540011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 2ms (Views: 1.9ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154-0011" for 127.0.0.1 at 2026-02-08 01:31:08 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154-0011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=invalid" for 127.0.0.1 at 2026-02-08 01:31:08 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "invalid"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=0000000" for 127.0.0.1 at 2026-02-08 01:31:08 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "0000000"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154" for 127.0.0.1 at 2026-02-08 01:31:08 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup" for 127.0.0.1 at 2026-02-08 01:31:08 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:31:58 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "1540011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 2ms (Views: 1.9ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154-0011" for 127.0.0.1 at 2026-02-08 01:31:58 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154-0011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=invalid" for 127.0.0.1 at 2026-02-08 01:31:58 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "invalid"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=0000000" for 127.0.0.1 at 2026-02-08 01:31:58 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "0000000"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154" for 127.0.0.1 at 2026-02-08 01:31:58 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup" for 127.0.0.1 at 2026-02-08 01:31:58 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:32:50 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "1540011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 2ms (Views: 2.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154-0011" for 127.0.0.1 at 2026-02-08 01:32:50 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154-0011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=invalid" for 127.0.0.1 at 2026-02-08 01:32:50 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "invalid"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=0000000" for 127.0.0.1 at 2026-02-08 01:32:50 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "0000000"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154" for 127.0.0.1 at 2026-02-08 01:32:50 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup" for 127.0.0.1 at 2026-02-08 01:32:50 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=1540011" for 127.0.0.1 at 2026-02-08 01:34:22 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "1540011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 2ms (Views: 2.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154-0011" for 127.0.0.1 at 2026-02-08 01:34:22 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154-0011"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=invalid" for 127.0.0.1 at 2026-02-08 01:34:22 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "invalid"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=0000000" for 127.0.0.1 at 2026-02-08 01:34:22 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "0000000"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup?code=154" for 127.0.0.1 at 2026-02-08 01:34:22 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Parameters: {"code" => "154"}
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | GC: 0.0ms)
+Started GET "/jp_address/postal_codes/lookup" for 127.0.0.1 at 2026-02-08 01:34:22 +0900
+Processing by JpAddress::PostalCodesController#lookup as HTML
+  Rendering /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb
+  Rendered /Users/hiro/projects/jp_address/app/views/jp_address/postal_codes/lookup.html.erb (Duration: 0.0ms | GC: 0.0ms)
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
