@@ -8,8 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["Hirotaka Wagai"]
   spec.email = ["hirotaka.wagai@gmail.com"]
 
-  spec.summary = "日本の住所データ（都道府県・市区町村・郵便番号・地方区分）を統一的に扱うgem"
-  spec.description = "都道府県・市区町村・郵便番号・地方区分をJSON同梱で提供。ActiveRecord統合あり。"
+  spec.summary = "Japanese address data (prefectures, cities, postal codes, regions) in a single gem"
+  spec.description = "Provides prefectures, cities, postal codes, and regions as bundled JSON. " \
+                     "Includes ActiveRecord integration."
   spec.homepage = "https://github.com/wagai/basho"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
