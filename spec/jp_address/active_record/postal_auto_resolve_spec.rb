@@ -1,15 +1,14 @@
 # frozen_string_literal: true
 
 module MockActiveRecord
+  ATTRS = %i[postal_code pref_name city_name town_name pref_code cty_code].freeze
+
   def self.included(base)
     base.include JpAddress
-    base.attr_accessor :postal_code, :pref_name, :city_name, :town_name
+    base.attr_accessor(*ATTRS)
 
-    base.define_method(:initialize) do |postal_code: nil, pref_name: nil, city_name: nil, town_name: nil|
-      @postal_code = postal_code
-      @pref_name = pref_name
-      @city_name = city_name
-      @town_name = town_name
+    base.define_method(:initialize) do |**attrs|
+      ATTRS.each { |a| instance_variable_set(:"@#{a}", attrs[a]) }
       @changes = {}
     end
   end
@@ -131,6 +130,33 @@ RSpec.describe JpAddress::ActiveRecord::PostalAutoResolve do
       expect(record.pref_name).to eq("東京都")
       expect(record.city_name).to be_nil
       expect(record.town_name).to be_nil
+    end
+  end
+
+  describe "コードマッピング（prefecture_code, city_code）" do
+    let(:model_class) do
+      build_model_class do
+        jp_address_postal :postal_code, prefecture_code: :pref_code, city_code: :cty_code
+      end
+    end
+
+    it "都道府県コードと市区町村コードを保存する" do
+      record = model_class.new(postal_code: "1540011")
+      record.mark_changed("postal_code")
+      record.run_before_save
+
+      expect(record.pref_code).to eq(13)
+      expect(record.cty_code).to be_a(String)
+      expect(record.cty_code).to start_with("13")
+    end
+
+    it "nilの郵便番号ではnilを設定する" do
+      record = model_class.new(postal_code: nil)
+      record.mark_changed("postal_code")
+      record.run_before_save
+
+      expect(record.pref_code).to be_nil
+      expect(record.cty_code).to be_nil
     end
   end
 

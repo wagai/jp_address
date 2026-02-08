@@ -4,11 +4,13 @@ module JpAddress
   module ActiveRecord
     # 郵便番号変更時にbefore_saveで住所カラムを自動解決する
     module PostalAutoResolve
-      MAPPING_KEYS = %i[prefecture city town].freeze
+      MAPPING_KEYS = %i[prefecture city town prefecture_code city_code].freeze
       RESOLVERS = {
         prefecture: :prefecture_name,
         city: :city_name,
-        town: :town
+        town: :town,
+        prefecture_code: :prefecture_code,
+        city_code: :resolve_city_code
       }.freeze
 
       module_function
@@ -57,7 +59,14 @@ module JpAddress
         return nil unless postal
 
         method_name = RESOLVERS[key]
-        method_name && postal.public_send(method_name)
+        return nil unless method_name
+
+        respond_to?(method_name, true) ? send(method_name, postal) : postal.public_send(method_name)
+      end
+
+      def resolve_city_code(postal)
+        City.where(prefecture_code: postal.prefecture_code)
+            .find { |c| c.name == postal.city_name }&.code
       end
     end
   end

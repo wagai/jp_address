@@ -15,6 +15,13 @@ RSpec.describe "JpAddress::Prefectures", type: :request do
       expect(json.last).to eq("code" => 47, "name" => "沖縄県")
     end
 
+    it "Cache-Controlヘッダーを返す" do
+      get "/jp_address/prefectures"
+
+      expect(response.headers["Cache-Control"]).to include("max-age=86400")
+      expect(response.headers["Cache-Control"]).to include("public")
+    end
+
     it "code, nameのみ含む" do
       get "/jp_address/prefectures"
 
@@ -37,6 +44,13 @@ RSpec.describe "JpAddress::Prefectures", type: :request do
         first_city = json.first
         expect(first_city.keys).to contain_exactly("code", "name")
         expect(first_city["code"]).to start_with("13")
+      end
+
+      it "Cache-Controlヘッダーを返す" do
+        get "/jp_address/prefectures/13/cities"
+
+        expect(response.headers["Cache-Control"]).to include("max-age=86400")
+        expect(response.headers["Cache-Control"]).to include("public")
       end
 
       it "北海道の市区町村を返す" do

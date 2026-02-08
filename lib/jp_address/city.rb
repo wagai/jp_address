@@ -21,11 +21,22 @@ module JpAddress
       end
 
       def where(prefecture_code:)
-        Data::Loader.cities(prefecture_code).map { |data| new(**data) }
+        cities_cache[prefecture_code] ||=
+          Data::Loader.cities(prefecture_code).map { |data| new(**data) }.freeze
       end
 
       def valid_code?(code)
         CodeValidator.valid?(code)
+      end
+
+      def reset!
+        @cities_cache = nil
+      end
+
+      private
+
+      def cities_cache
+        @cities_cache ||= {}
       end
     end
   end
