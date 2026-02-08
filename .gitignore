@@ -13,3 +13,6 @@
 # Rails engine test logs
 /log/
 /spec/dummy/log/
+
+# Built gem files
+*.gem
