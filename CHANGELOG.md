@@ -10,13 +10,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - **BREAKING**: `PostalCode.find()` が配列ではなく単一の `PostalCode` または `nil` を返すように変更
+- **BREAKING**: `PostalCode.where()` がキーワード引数 `where(code:)` に変更
 - **BREAKING**: カスケードセレクト機能を削除（Stimulusコントローラー、都道府県/市区町村JSON API、フォームヘルパー）
+- **BREAKING**: 郵便番号JSONのキー名 `city` → `city_name`、都道府県JSONのキー名 `region` → `region_name` に統一
 - `auto_fill_controller.js` をTurboイベント駆動にシンプル化（デバウンス削除）
+- `PostalAutoResolve` をシンプルなcase文ベースに簡素化
+- 市区町村データソースを `jp_local_gov` gem から KEN_ALL.CSV に変更（外部gem依存を撤廃）
+- `districts.rb` のロジックを `cities.rb` に統合
 
 ### Added
 
-- `PostalCode.where()` - 配列で結果を返す検索メソッド
+- `PostalCode.where(code:)` - 配列で結果を返す検索メソッド
 - Engine initializerでフォームヘルパーを自動インクルード
+- `Data::Loader` にパストラバーサル防御を追加
+
+### Fixed
+
+- KEN_ALL.CSVインポートの複数行町域名結合バグを修正（208件）
+- 「の次に番地がくる場合」の町域名が空にならないバグを修正（17件）
+- 名古屋市・大阪市・広島市の不正なdistrictデータを修正
+- 市区町村カナを正規化（旧式カタカナ → 正式カタカナ、15件）
 
 ### Removed
 
@@ -24,6 +37,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `basho_cascade_data` フォームヘルパーメソッド
 - `cascade_select_controller.js` Stimulusコントローラー
 - `/basho/prefectures` ルート
+- `tasks/import/districts.rb`（`cities.rb` に統合）
+- `jp_local_gov` gem への依存
 
 ## [0.2.2] - 2026-02-09
 
