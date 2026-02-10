@@ -2,7 +2,7 @@
 
 # Basho
 
-A Ruby gem for working with Japanese address data — prefectures, cities, postal codes, and regions — in a unified interface.
+A Ruby gem for working with Japanese address data -- prefectures, cities, postal codes, and regions -- in a unified interface.
 
 ## Why Basho
 
@@ -15,11 +15,13 @@ Dealing with Japanese addresses is tedious.
 
 Basho solves all of these.
 
-- **No DB migrations** — All data is bundled as JSON. Just `gem install` and go
-- **Framework-agnostic** — Works with plain Ruby, Sinatra, Rails API-only, or any Ruby app
-- **ActiveRecord integration** — `include Basho` + a one-line macro for automatic postal code to address resolution on save (optional)
-- **Hotwire-ready** — Built-in Rails Engine with postal code auto-fill via Turbo Frame + Stimulus (optional)
-- **Lightweight** — Immutable models via `Data.define`, lazy loading, zero external dependencies
+## Features
+
+- **No DB migrations** -- All data is bundled as JSON. Just `gem install` and go
+- **Framework-agnostic** -- Works with plain Ruby, Sinatra, Rails API-only, or any Ruby app
+- **ActiveRecord integration** -- `include Basho` + a one-line macro for automatic postal code to address resolution on save
+- **Hotwire-ready** -- Built-in Rails Engine with postal code auto-fill via Turbo Frame + Stimulus
+- **Lightweight** -- Immutable models via `Data.define`, lazy loading, zero external dependencies
 
 ## Supported Versions
 
@@ -69,7 +71,7 @@ user.town_name  # => "上馬"
 
 ```ruby
 Basho::Prefecture.find(13).name           # => "東京都"
-Basho::Prefecture.where(region: "関東")    # => 7 results
+Basho::Prefecture.where(region: "関東")    # => 7 prefectures
 Basho::City.find("131016").name            # => "千代田区"
 ```
 
@@ -78,67 +80,108 @@ Basho::City.find("131016").name            # => "千代田区"
 ### Prefecture
 
 ```ruby
-Basho::Prefecture.find(13)             # Find by code
-Basho::Prefecture.find(name: "東京都")  # Find by name
-Basho::Prefecture.all                   # All 47 prefectures
-Basho::Prefecture.where(region: "関東") # Filter by region
+# Class methods
+Basho::Prefecture.find(13)                 # Find by code (Integer)
+Basho::Prefecture.find(name: "東京都")      # Find by Japanese name
+Basho::Prefecture.find(name_en: "Tokyo")   # Find by English name
+Basho::Prefecture.all                      # All 47 prefectures
+Basho::Prefecture.where(region: "関東")     # Filter by region name
+```
 
+```ruby
+# Instance methods / members
 pref = Basho::Prefecture.find(13)
-pref.code          # => 13
-pref.name          # => "東京都"
-pref.name_en       # => "Tokyo"
-pref.name_kana     # => "トウキョウト"
-pref.name_hiragana # => "とうきょうと"
-pref.type          # => "都"
-pref.region        # => Region
-pref.cities        # => Array<City>
-pref.capital       # => City (prefectural capital)
+pref.code          # => 13            (Integer)
+pref.name          # => "東京都"       (String)
+pref.name_en       # => "Tokyo"       (String)
+pref.name_kana     # => "トウキョウト"  (String, katakana)
+pref.name_hiragana # => "とうきょうと"  (String, hiragana)
+pref.region_name   # => "関東"         (String)
+pref.type          # => "都"           (String: "都" / "道" / "府" / "県")
+pref.capital_code  # => "131016"       (String, 6-digit city code)
+pref.region        # => Basho::Region
+pref.cities        # => Array<Basho::City>
+pref.capital       # => Basho::City (prefectural capital)
 ```
 
 ### City
 
 ```ruby
-Basho::City.find("131016")              # Find by municipality code
-Basho::City.where(prefecture_code: 13)  # Filter by prefecture
-Basho::City.valid_code?("131016")       # Validate check digit
+# Class methods
+Basho::City.find("131016")              # Find by 6-digit municipality code (String)
+Basho::City.where(prefecture_code: 13)  # Filter by prefecture code (Integer)
+Basho::City.valid_code?("131016")       # Validate JIS X 0401 check digit
+```
 
+```ruby
+# Instance methods / members
 city = Basho::City.find("131016")
-city.code             # => "131016"
-city.prefecture_code  # => 13
-city.name             # => "千代田区"
-city.name_kana        # => "チヨダク"
-city.capital?         # => false
-city.prefecture       # => Prefecture
+city.code             # => "131016"    (String, 6-digit)
+city.prefecture_code  # => 13          (Integer)
+city.name             # => "千代田区"   (String)
+city.name_kana        # => "チヨダク"   (String, katakana)
+city.district         # => nil         (String or nil, e.g. "島尻郡")
+city.capital          # => false       (Boolean, raw member)
+city.capital?         # => false       (Boolean, prefectural capital?)
+city.full_name        # => "千代田区"   (String, prepends district if present)
+city.prefecture       # => Basho::Prefecture
+```
+
+`district` is set only for towns/villages that belong to a county (gun). For example:
+
+```ruby
+city = Basho::City.find("473821")
+city.name       # => "八重瀬町"
+city.district   # => "島尻郡"
+city.full_name  # => "島尻郡八重瀬町"
 ```
 
 ### PostalCode
 
+`find` returns a single `PostalCode` or `nil`. `where` returns an `Array` (may contain multiple results for shared postal codes).
+
 ```ruby
-postal = Basho::PostalCode.find("154-0011")   # => PostalCode or nil
-postal = Basho::PostalCode.find("1540011")    # Hyphenless format also works
-postal.code              # => "1540011"
-postal.formatted_code    # => "154-0011"
-postal.prefecture_code   # => 13
-postal.prefecture_name   # => "東京都"
-postal.city_name         # => "世田谷区"
-postal.town              # => "上馬"
-postal.prefecture        # => Prefecture
+# Class methods
+Basho::PostalCode.find("154-0011")    # => PostalCode or nil (first match)
+Basho::PostalCode.find("1540011")     # Hyphenless format also works
+Basho::PostalCode.where(code: "154-0011")  # => Array<PostalCode>
+```
+
+```ruby
+# Instance methods / members
+postal = Basho::PostalCode.find("154-0011")
+postal.code              # => "1540011"   (String, 7 digits, no hyphen)
+postal.formatted_code    # => "154-0011"  (String, with hyphen)
+postal.prefecture_code   # => 13          (Integer)
+postal.city_name         # => "世田谷区"   (String)
+postal.town              # => "上馬"       (String)
+postal.prefecture_name   # => "東京都"     (String)
+postal.prefecture        # => Basho::Prefecture
 ```
 
 ### Region
 
-```ruby
-Basho::Region.all                # 9 regions
-Basho::Region.find("関東")       # Find by name
+9 regions: Hokkaido, Tohoku, Kanto, Chubu, Kinki, Chugoku, Shikoku, Kyushu, Okinawa.
 
+```ruby
+# Class methods
+Basho::Region.all                # => Array of 9 regions
+Basho::Region.find("関東")       # Find by Japanese name
+Basho::Region.find("Kanto")     # Find by English name
+```
+
+```ruby
+# Instance methods / members
 region = Basho::Region.find("関東")
-region.name             # => "関東"
-region.name_en          # => "Kanto"
-region.prefectures      # => Array<Prefecture>
-region.prefecture_codes # => [8, 9, 10, 11, 12, 13, 14]
+region.name             # => "関東"     (String)
+region.name_en          # => "Kanto"   (String)
+region.prefecture_codes # => [8, 9, 10, 11, 12, 13, 14]  (Array<Integer>)
+region.prefectures      # => Array<Basho::Prefecture>
 ```
 
 ## ActiveRecord Integration
+
+Add `include Basho` to your model to enable the `basho` and `basho_postal` macros.
 
 ### Look up prefecture and city from a municipality code
 
@@ -148,10 +191,18 @@ class Shop < ApplicationRecord
   basho :local_gov_code
 end
 
-shop.prefecture   # => Prefecture
-shop.city         # => City
+shop.city         # => Basho::City
+shop.prefecture   # => Basho::Prefecture
 shop.full_address # => "東京都千代田区"
 ```
+
+`basho :column` defines three instance methods:
+
+| Method | Return value |
+|--------|-------------|
+| `city` | `Basho::City` found by the column value |
+| `prefecture` | `Basho::Prefecture` via `city.prefecture` |
+| `full_address` | `"#{prefecture.name}#{city.name}"` or `nil` |
 
 ### Get an address string from a postal code
 
@@ -164,9 +215,11 @@ end
 shop.postal_address # => "東京都世田谷区上馬"
 ```
 
+`basho_postal :column` (without mapping options) defines a `postal_address` method that returns `"#{prefecture_name}#{city_name}#{town}"` or `nil`.
+
 ### Auto-save address columns from a postal code
 
-When you pass mapping options to `basho_postal`, it registers a `before_save` callback that auto-fills address columns from the postal code.
+When you pass mapping options to `basho_postal`, it registers a `before_save` callback that auto-fills address columns whenever the postal code column changes.
 
 ```ruby
 class User < ApplicationRecord
@@ -178,9 +231,19 @@ class User < ApplicationRecord
 end
 ```
 
-- Resolution runs only when `postal_code` changes
+Available mapping keys:
+
+| Key | Resolved value |
+|-----|---------------|
+| `prefecture:` | Prefecture name (e.g. "東京都") |
+| `city:` | City name (e.g. "世田谷区") |
+| `town:` | Town name (e.g. "上馬") |
+| `prefecture_code:` | Prefecture code (e.g. 13) |
+| `city_code:` | 6-digit municipality code (e.g. "131130") |
+
+- Resolution runs only when the postal code column will change on save
 - Partial mappings are supported (e.g. `prefecture:` only)
-- Without options, only the `postal_address` method is defined (backward compatible)
+- The `postal_address` method is always defined regardless of mapping options
 
 ## Hotwire Engine
 
@@ -188,10 +251,20 @@ A built-in Rails Engine providing postal code auto-fill via Turbo Frame + Stimul
 
 ### Setup
 
+Mount the Engine in your routes:
+
 ```ruby
 # config/routes.rb
 mount Basho::Engine, at: "/basho"
 ```
+
+The Engine provides a single route:
+
+| Method | Path | Controller#Action |
+|--------|------|------------------|
+| GET | `/basho/postal_codes/lookup?code=1540011` | `Basho::PostalCodesController#lookup` |
+
+The Stimulus controller and form helper are automatically registered via importmap and `ActionView` initializers.
 
 ### Postal Code Auto-fill
 
@@ -222,22 +295,44 @@ Automatically fills in prefecture, city, and town fields when a 7-digit postal c
 <% end %>
 ```
 
+How it works:
+
 1. User enters a 7-digit postal code
-2. A Turbo Frame request is sent to the Engine
-3. Stimulus fills the prefecture, city, and town fields and shows them
+2. A Turbo Frame request is sent to the Engine's lookup endpoint
+3. Stimulus fills the prefecture, city, and town fields and shows the `fields` container
 4. When the postal code is cleared or incomplete, the fields are hidden
 
 The `fields` target is optional. Without it, the fields remain visible and are simply cleared.
 
-You can also use the `basho_autofill_frame_tag` helper instead of writing the `<turbo-frame>` tag manually:
+You can use the `basho_autofill_frame_tag` helper instead of writing the `<turbo-frame>` tag manually:
 
 ```erb
 <%= basho_autofill_frame_tag %>
 ```
 
+This renders:
+
+```html
+<turbo-frame id="basho-result"
+             data-basho--auto-fill-target="frame"
+             data-action="turbo:frame-load->basho--auto-fill#fill"></turbo-frame>
+```
+
+#### Stimulus Controller Targets and Values
+
+| Type | Name | Description |
+|------|------|-------------|
+| Value | `url` (String) | Lookup endpoint URL (required) |
+| Target | `input` | Postal code input field |
+| Target | `frame` | Turbo Frame for server response |
+| Target | `prefecture` | Prefecture output field |
+| Target | `city` | City output field |
+| Target | `town` | Town output field |
+| Target | `fields` | Container to show/hide (optional) |
+
 ### Prefecture-City Cascade Select
 
-Basho provides the data — build the UI in your app using Turbo Frame.
+Basho provides the data -- build the UI in your app using Turbo Frame.
 
 ```ruby
 # app/controllers/cities_controller.rb
@@ -277,7 +372,7 @@ This keeps the HTML and styling in your app where it belongs.
 The data API and ActiveRecord integration work without Hotwire. If you don't mount the Engine, no routes or Stimulus controllers are loaded.
 
 ```ruby
-# Just the data API — works in any Ruby app
+# Just the data API -- works in any Ruby app
 require "basho"
 
 Basho::PostalCode.find("154-0011").town         # => "上馬"
@@ -286,7 +381,7 @@ Basho::City.where(prefecture_code: 13)          # => Array<City>
 ```
 
 ```ruby
-# ActiveRecord integration — works in any Rails app, Hotwire or not
+# ActiveRecord integration -- works in any Rails app, Hotwire or not
 class Shop < ApplicationRecord
   include Basho
   basho_postal :postal_code, city_code: :city_code, town: :town
