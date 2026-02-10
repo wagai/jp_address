@@ -9,6 +9,12 @@ module Basho
       app.config.importmap.paths << root.join("config/importmap.rb") if app.config.respond_to?(:importmap)
     end
 
+    initializer "basho.helpers" do
+      ActiveSupport.on_load(:action_view) do
+        include Basho::FormHelper
+      end
+    end
+
     initializer "basho.assets" do |app|
       app.config.assets.paths << root.join("app/assets/javascripts") if app.config.respond_to?(:assets)
     end

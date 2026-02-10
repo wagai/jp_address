@@ -16,8 +16,9 @@
 Bashoはこれらをまとめて解決します。
 
 - **DBマイグレーション不要** — 全データをJSON同梱。`gem install`だけで使える
-- **ActiveRecord統合** — `include Basho` + 1行のマクロで郵便番号→住所の自動保存
-- **Hotwire対応** — 郵便番号自動入力・カスケードセレクトをビルトインEngine提供
+- **フレームワーク非依存** — 素のRuby、Sinatra、Rails API only、どこでも動く
+- **ActiveRecord統合** — `include Basho` + 1行のマクロで郵便番号→住所の自動保存（オプション）
+- **Hotwire対応** — Turbo Frame + Stimulusによる郵便番号自動入力をビルトインEngine提供（オプション）
 - **軽量** — `Data.define`によるイミュータブルモデル、遅延読み込み、外部依存なし
 
 ## 対応バージョン
@@ -40,7 +41,7 @@ bundle install
 ### 郵便番号から住所を引く
 
 ```ruby
-postal = Basho::PostalCode.find("154-0011").first
+postal = Basho::PostalCode.find("154-0011")
 postal.prefecture_name  # => "東京都"
 postal.city_name        # => "世田谷区"
 postal.town             # => "上馬"
@@ -113,8 +114,8 @@ city.prefecture       # => Prefecture
 ### PostalCode（郵便番号）
 
 ```ruby
-results = Basho::PostalCode.find("154-0011")  # 常にArrayを返す
-results = Basho::PostalCode.find("1540011")    # ハイフンなしも可
+postal = Basho::PostalCode.find("154-0011")   # => PostalCode or nil
+postal = Basho::PostalCode.find("1540011")    # ハイフンなしも可
 
 postal = results.first
 postal.code              # => "1540011"
@@ -185,14 +186,9 @@ end
 
 ## Hotwire Engine
 
-Turbo Frame + Stimulusによる住所自動入力・カスケードセレクトをビルトインで提供するRails Engineです。自前でコントローラーを書かずに使えます。
+Turbo Frame + Stimulusによる郵便番号自動入力をビルトインで提供するRails Engineです。
 
 ### セットアップ
-
-```ruby
-# config/application.rb
-require "basho/engine"
-```
 
 ```ruby
 # config/routes.rb
@@ -201,7 +197,7 @@ mount Basho::Engine, at: "/basho"
 
 ### 郵便番号自動入力
 
-郵便番号を入力すると都道府県・市区町村・町域フィールドを自動入力します。
+7桁の郵便番号を入力すると、都道府県・市区町村・町域フィールドを自動入力します。
 
 ```erb
 <%= form_with(model: @shop) do |f| %>
@@ -213,80 +209,89 @@ mount Basho::Engine, at: "/basho"
                   "basho--auto-fill-target": "input" } %>
 
     <turbo-frame id="basho-result"
-                 data-basho--auto-fill-target="frame"></turbo-frame>
+                 data-basho--auto-fill-target="frame"
+                 data-action="turbo:frame-load->basho--auto-fill#fill"></turbo-frame>
 
-    <%= f.text_field :prefecture,
-          data: { "basho--auto-fill-target": "prefecture" } %>
-    <%= f.text_field :city,
-          data: { "basho--auto-fill-target": "city" } %>
-    <%= f.text_field :town,
-          data: { "basho--auto-fill-target": "town" } %>
+    <div data-basho--auto-fill-target="fields" hidden>
+      <%= f.text_field :prefecture, disabled: true,
+            data: { "basho--auto-fill-target": "prefecture" } %>
+      <%= f.text_field :city, disabled: true,
+            data: { "basho--auto-fill-target": "city" } %>
+      <%= f.text_field :town, disabled: true,
+            data: { "basho--auto-fill-target": "town" } %>
+    </div>
   </div>
 <% end %>
 ```
 
-1. ユーザーが郵便番号を入力（7桁）
-2. 300msデバウンス後、Turbo Frameでサーバーに問い合わせ
-3. Stimulusが都道府県・市区町村・町域フィールドを自動入力
+1. ユーザーが7桁の郵便番号を入力
+2. Turbo Frameでサーバーに問い合わせ
+3. Stimulusが都道府県・市区町村・町域フィールドを自動入力して表示
+4. 郵便番号をクリア・変更するとフィールドは非表示に
+
+`fields`ターゲットはオプションです。なければフィールドは常に表示され、値のクリアのみ行います。
+
+`basho_autofill_frame_tag`ヘルパーで`<turbo-frame>`タグを簡潔に書けます：
+
+```erb
+<%= basho_autofill_frame_tag %>
+```
 
 ### 都道府県・市区町村カスケードセレクト
 
-都道府県を選択すると、対応する市区町村がJSON APIで動的に読み込まれます。
-
-```erb
-<%= form_with(model: @shop) do |f| %>
-  <div data-controller="basho--cascade-select"
-       data-basho--cascade-select-prefectures-url-value="<%= basho.prefectures_path %>"
-       data-basho--cascade-select-cities-url-template-value="<%= basho.cities_prefecture_path(':code') %>">
-
-    <select data-basho--cascade-select-target="prefecture"
-            data-action="change->basho--cascade-select#prefectureChanged">
-      <option value="">都道府県を選択</option>
-    </select>
-
-    <select data-basho--cascade-select-target="city">
-      <option value="">市区町村を選択</option>
-    </select>
-  </div>
-<% end %>
-```
-
-`basho_cascade_data`ヘルパーでdata属性を簡潔に書けます。
-
-```erb
-<div <%= tag.attributes(data: basho_cascade_data) %>>
-  ...
-</div>
-```
-
-1. ページ読み込み時、都道府県セレクトが空ならAPIから47件を取得
-2. 都道府県を選択すると、市区町村セレクトをAPIから再構築
-3. 都道府県を変更すると、市区町村セレクトがリセットされ再取得
-
-### JSON APIエンドポイント
-
-Engineをマウントすると以下のエンドポイントが利用可能になります。
-
-```
-GET /basho/prefectures           # => [{"code":1,"name":"北海道"}, ...]
-GET /basho/prefectures/13/cities  # => [{"code":"131016","name":"千代田区"}, ...]
-GET /basho/postal_codes/lookup?code=1540011  # => Turbo Frame HTML
-```
-
-## Engine不要の場合
-
-Engineを使わず、`PostalCode.find`で自由にエンドポイントを作ることもできます。
+Bashoはデータを提供します。UIはアプリ側でTurbo Frameを使って実装してください。
 
 ```ruby
-# JSON API
-class PostalCodesController < ApplicationController
-  def lookup
-    results = Basho::PostalCode.find(params[:code])
-
-    render json: results.map { |r|
-      { prefecture: r.prefecture_name, city: r.city_name, town: r.town }
-    }
+# app/controllers/cities_controller.rb
+class CitiesController < ApplicationController
+  def index
+    @cities = Basho::City.where(prefecture_code: params[:prefecture_code].to_i)
   end
+end
+```
+
+```erb
+<%# app/views/cities/index.html.erb %>
+<turbo-frame id="city-select">
+  <%= f.select :city_code,
+        @cities.map { |c| [c.name, c.code] },
+        { include_blank: "市区町村を選択" } %>
+</turbo-frame>
+```
+
+```erb
+<%# フォーム内 %>
+<%= f.select :prefecture_code,
+      Basho::Prefecture.all.map { |p| [p.name, p.code] },
+      { include_blank: "都道府県を選択" },
+      data: { action: "change->auto-submit#submit",
+              turbo_frame: "city-select" } %>
+
+<turbo-frame id="city-select">
+  <%= f.select :city_code, [], include_blank: "市区町村を選択" %>
+</turbo-frame>
+```
+
+HTMLとスタイリングの自由度はアプリ側にあります。
+
+## Hotwireなしでの利用
+
+データAPIとActiveRecord統合はHotwireなしで動きます。Engineをマウントしなければ、ルーティングもStimulus controllerも読み込まれません。
+
+```ruby
+# データAPIだけ — どのRubyアプリでも動く
+require "basho"
+
+Basho::PostalCode.find("154-0011").town         # => "上馬"
+Basho::Prefecture.find(13).name                 # => "東京都"
+Basho::City.where(prefecture_code: 13)          # => Array<City>
+```
+
+```ruby
+# ActiveRecord統合 — Hotwireの有無に関係なく、どのRailsアプリでも動く
+class Shop < ApplicationRecord
+  include Basho
+  basho_postal :postal_code, city_code: :city_code, town: :town
 end
 ```
 
