@@ -10,17 +10,7 @@ RSpec.describe Basho::FormHelper, type: :helper do
       expect(html).to include("turbo-frame")
       expect(html).to include('id="basho-result"')
       expect(html).to include('data-basho--auto-fill-target="frame"')
-    end
-  end
-
-  describe "#basho_cascade_data" do
-    it "Stimulusコントローラーのdata属性ハッシュを返す" do
-      data = helper.basho_cascade_data
-
-      expect(data[:controller]).to eq("basho--cascade-select")
-      expect(data["basho--cascade-select-prefectures-url-value"]).to eq("/basho/prefectures")
-      expect(data["basho--cascade-select-cities-url-template-value"]).to include("/basho/prefectures/")
-      expect(data["basho--cascade-select-cities-url-template-value"]).to include(":code")
+      expect(html).to include('data-action="turbo:frame-load-&gt;basho--auto-fill#fill"')
     end
   end
 end

@@ -1,34 +1,29 @@
 import { Controller } from "@hotwired/stimulus"
 
 export default class extends Controller {
-  static targets = ["input", "frame", "prefecture", "city", "town"]
-  static values = { url: String, delay: { type: Number, default: 300 } }
-
-  connect() {
-    this.frameTarget.addEventListener("turbo:frame-load", this.#fillFields)
-  }
-
-  disconnect() {
-    this.frameTarget.removeEventListener("turbo:frame-load", this.#fillFields)
-    clearTimeout(this.timeout)
-  }
+  static targets = ["input", "frame", "fields", "prefecture", "city", "town"]
+  static values = { url: String }
 
   lookup() {
-    clearTimeout(this.timeout)
     const code = this.inputTarget.value.replace(/-/g, "")
-    if (code.length < 7) return
 
-    this.timeout = setTimeout(() => {
-      this.frameTarget.src = `${this.urlValue}?code=${code}`
-    }, this.delayValue)
+    if (code.length < 7) {
+      this.#setAddress()
+      return
+    }
+
+    this.frameTarget.src = `${this.urlValue}?code=${code}`
   }
 
-  #fillFields = () => {
-    const data = this.frameTarget.querySelector("[data-address]")
-    if (!data) return
+  fill() {
+    const el = this.frameTarget.querySelector("[data-address]")
+    if (el) this.#setAddress(el.dataset)
+  }
 
-    if (this.hasPrefectureTarget) this.prefectureTarget.value = data.dataset.prefecture || ""
-    if (this.hasCityTarget) this.cityTarget.value = data.dataset.city || ""
-    if (this.hasTownTarget) this.townTarget.value = data.dataset.town || ""
+  #setAddress(data) {
+    if (this.hasPrefectureTarget) this.prefectureTarget.value = data?.prefecture || ""
+    if (this.hasCityTarget) this.cityTarget.value = data?.city || ""
+    if (this.hasTownTarget) this.townTarget.value = data?.town || ""
+    if (this.hasFieldsTarget) this.fieldsTarget.hidden = !data
   }
 }
