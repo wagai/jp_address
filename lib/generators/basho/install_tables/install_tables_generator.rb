@@ -5,6 +5,7 @@ require "rails/generators/active_record"
 
 module Basho
   module Generators
+    # basho_prefectures / basho_cities テーブルのマイグレーションジェネレータ
     class InstallTablesGenerator < Rails::Generators::Base
       include ::ActiveRecord::Generators::Migration
 

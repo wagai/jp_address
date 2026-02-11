@@ -34,7 +34,9 @@ RSpec.describe Basho::Generators::InstallTablesGenerator do
     it "cities テーブルに prefecture_code の外部キーを定義する" do
       content = migration_content("create_basho_cities")
       expect(content).to include("t.integer :prefecture_code, null: false")
-      expect(content).to include("add_foreign_key :basho_cities, :basho_prefectures, column: :prefecture_code, primary_key: :code")
+      expect(content).to include(
+        "add_foreign_key :basho_cities, :basho_prefectures, column: :prefecture_code, primary_key: :code"
+      )
     end
   end
 end

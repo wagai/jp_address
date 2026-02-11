@@ -5,6 +5,7 @@ require_relative "db/prefecture"
 require_relative "db/city"
 
 module Basho
+  # ActiveRecordバックエンド（オプション）
   module DB
     # JSON → DB の一括投入（冪等）
     def self.seed!

@@ -2,6 +2,7 @@
 
 module Basho
   module DB
+    # 都道府県のActiveRecordモデル
     class Prefecture < ::ActiveRecord::Base
       self.table_name = "basho_prefectures"
       self.primary_key = "code"

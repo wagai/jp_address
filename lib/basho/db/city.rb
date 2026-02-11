@@ -2,6 +2,7 @@
 
 module Basho
   module DB
+    # 市区町村のActiveRecordモデル
     class City < ::ActiveRecord::Base
       self.table_name = "basho_cities"
       self.primary_key = "code"
