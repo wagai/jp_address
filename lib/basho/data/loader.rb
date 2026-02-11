@@ -29,6 +29,21 @@ module Basho
           cities_cache[prefecture_code] ||= load_json("cities/#{format("%02d", prefecture_code)}.json")
         end
 
+        # 廃止された市区町村データを返す。
+        #
+        # @return [Array<Hash>]
+        def deprecated_cities
+          @deprecated_cities ||= load_json("deprecated_cities.json")
+        end
+
+        # 廃止コードで1件検索する（ハッシュインデックスによる O(1) ルックアップ）。
+        #
+        # @param code [String] 6桁自治体コード
+        # @return [Hash, nil]
+        def deprecated_city(code)
+          deprecated_cities_by_code[code]
+        end
+
         # 指定したプレフィックスの郵便番号データを返す。
         #
         # @param prefix [String] 3桁プレフィックス（例: "154"）
@@ -52,6 +67,10 @@ module Basho
 
         def postal_cache
           @postal_cache ||= {}
+        end
+
+        def deprecated_cities_by_code
+          @deprecated_cities_by_code ||= deprecated_cities.to_h { |c| [c[:code], c] }
         end
 
         def load_json(relative_path)

@@ -34,6 +34,43 @@ RSpec.describe Basho::Data::Loader do
     end
   end
 
+  describe ".deprecated_cities" do
+    it "配列を返す（初期は空）" do
+      expect(described_class.deprecated_cities).to eq([])
+    end
+
+    it "キャッシュする" do
+      first_call = described_class.deprecated_cities
+      second_call = described_class.deprecated_cities
+      expect(first_call).to equal(second_call)
+    end
+  end
+
+  describe ".deprecated_city" do
+    it "存在しないコードは nil を返す" do
+      expect(described_class.deprecated_city("999999")).to be_nil
+    end
+
+    context "廃止データがある場合" do
+      let(:entry) do
+        { code: "130001", prefecture_code: 13, name: "旧テスト区", name_kana: "キュウテストク",
+          deprecated_at: "2025-04-01", successor_code: "131016" }
+      end
+
+      before do
+        allow(described_class).to receive(:deprecated_cities).and_return([entry])
+      end
+
+      it "コードで検索できる" do
+        expect(described_class.deprecated_city("130001")).to eq(entry)
+      end
+
+      it "存在しないコードは nil を返す" do
+        expect(described_class.deprecated_city("999999")).to be_nil
+      end
+    end
+  end
+
   describe ".postal_codes" do
     it "存在しない郵便番号プレフィックスは空配列を返す" do
       expect(described_class.postal_codes("000")).to eq([])

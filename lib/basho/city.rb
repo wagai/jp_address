@@ -17,8 +17,13 @@ module Basho
   #   @return [String, nil] 郡名（例: "島尻郡"）。郡に属する町村のみ設定
   # @!attribute [r] capital
   #   @return [Boolean] 県庁所在地フラグ
-  City = ::Data.define(:code, :prefecture_code, :name, :name_kana, :district, :capital) do
-    def initialize(district: nil, capital: false, **)
+  # @!attribute [r] deprecated_at
+  #   @return [String, nil] 廃止日（例: "2025-04-01"）。現行自治体は +nil+
+  # @!attribute [r] successor_code
+  #   @return [String, nil] 合併先の6桁自治体コード。合併先がない場合は +nil+
+  City = ::Data.define(:code, :prefecture_code, :name, :name_kana, :district, :capital,
+                       :deprecated_at, :successor_code) do
+    def initialize(district: nil, capital: false, deprecated_at: nil, successor_code: nil, **)
       super
     end
 
@@ -32,6 +37,41 @@ module Basho
     # @return [String] 例: "島尻郡八重瀬町"
     def full_name
       district ? "#{district}#{name}" : name
+    end
+
+    # 廃止済みかどうかを返す。
+    #
+    # @return [Boolean]
+    def deprecated? = !deprecated_at.nil?
+
+    # 現行（未廃止）かどうかを返す。
+    #
+    # @return [Boolean]
+    def active? = deprecated_at.nil?
+
+    # 合併先の市区町村を返す。
+    #
+    # @return [City, nil]
+    def successor
+      City.find(successor_code) if successor_code
+    end
+
+    # 合併チェーンをたどり、現行の市区町村を返す。
+    # アクティブ市区町村は即座に自身を返す。ループ検出付き。
+    #
+    # @return [City]
+    def current
+      return self unless successor_code
+
+      city = self
+      seen = Set.new
+      while city.successor_code && seen.add?(city.successor_code)
+        next_city = City.find(city.successor_code)
+        break unless next_city
+
+        city = next_city
+      end
+      city
     end
 
     # 所属する都道府県を返す。
@@ -51,7 +91,8 @@ module Basho
         return DB::City.find_by(code: code) if Basho.db?
 
         pref_code = code[0..1].to_i
-        where(prefecture_code: pref_code).find { |city| city.code == code }
+        where(prefecture_code: pref_code).find { |city| city.code == code } ||
+          find_deprecated(code)
       end
 
       # 都道府県コードで市区町村を絞り込む。
@@ -70,6 +111,12 @@ module Basho
       # @return [Boolean]
       def valid_code?(code)
         CodeValidator.valid?(code)
+      end
+
+      private
+
+      def find_deprecated(code)
+        Data::Loader.deprecated_city(code)&.then { |data| new(**data) }
       end
     end
   end
