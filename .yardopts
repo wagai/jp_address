@@ -1,0 +1,8 @@
+--markup markdown
+--charset utf-8
+--output-dir doc
+lib/**/*.rb
+-
+README.md
+CHANGELOG.md
+LICENSE.txt

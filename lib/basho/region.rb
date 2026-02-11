@@ -1,12 +1,27 @@
 # frozen_string_literal: true
 
 module Basho
+  # 地方区分を表すイミュータブルなデータクラス。
+  # 北海道、東北、関東、中部、近畿、中国、四国、九州、沖縄の9地方。
+  #
+  # @!attribute [r] name
+  #   @return [String] 地方名（例: "関東"）
+  # @!attribute [r] name_en
+  #   @return [String] 英語名（例: "Kanto"）
+  # @!attribute [r] prefecture_codes
+  #   @return [Array<Integer>] 所属する都道府県コードの配列
   Region = ::Data.define(:name, :name_en, :prefecture_codes) do
+    # 所属する都道府県の一覧を返す。
+    #
+    # @return [Array<Prefecture>]
     def prefectures
       prefecture_codes.map { |code| Prefecture.find(code) }
     end
 
     class << self
+      # 全9地方を返す。
+      #
+      # @return [Array<Region>]
       def all
         @all ||= [
           new(name: "北海道", name_en: "Hokkaido", prefecture_codes: [1]),
@@ -21,6 +36,10 @@ module Basho
         ].freeze
       end
 
+      # 日本語名または英語名で地方を検索する。
+      #
+      # @param name [String] 地方名（例: "関東", "Kanto"）
+      # @return [Region, nil]
       def find(name)
         all.find { |region| region.name == name || region.name_en == name }
       end

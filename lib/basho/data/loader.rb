@@ -3,24 +3,43 @@
 require "json"
 
 module Basho
+  # 同梱データの読み込みに関する名前空間。
   module Data
-    # 組み込みJSONデータの遅延読み込みとキャッシュ
+    # 同梱JSONデータの遅延読み込みとキャッシュ。
+    # 各メソッドは初回呼び出し時にJSONファイルを読み込み、以降はキャッシュを返す。
+    #
+    # @api private
     class Loader
+      # 同梱JSONデータのディレクトリパス
       DATA_DIR = File.expand_path("../../../data", __dir__)
 
       class << self
+        # 全47都道府県データを返す。
+        #
+        # @return [Array<Hash>]
         def prefectures
           @prefectures ||= load_json("prefectures.json")
         end
 
+        # 指定した都道府県の市区町村データを返す。
+        #
+        # @param prefecture_code [Integer] 都道府県コード
+        # @return [Array<Hash>]
         def cities(prefecture_code)
           cities_cache[prefecture_code] ||= load_json("cities/#{format("%02d", prefecture_code)}.json")
         end
 
+        # 指定したプレフィックスの郵便番号データを返す。
+        #
+        # @param prefix [String] 3桁プレフィックス（例: "154"）
+        # @return [Array<Hash>]
         def postal_codes(prefix)
           postal_cache[prefix] ||= load_json("postal_codes/#{prefix}.json")
         end
 
+        # 全キャッシュをクリアする。
+        #
+        # @return [void]
         def reset!
           instance_variables.each { |var| remove_instance_variable(var) }
         end

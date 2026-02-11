@@ -2,12 +2,22 @@
 
 module Basho
   module ActiveRecord
-    # 郵便番号変更時にbefore_saveで住所カラムを自動解決する
+    # 郵便番号変更時に +before_save+ で住所カラムを自動解決する。
+    # {Base#basho_postal} のマッピングオプション指定時に使用される。
+    #
+    # @api private
     module PostalAutoResolve
+      # サポートするマッピングキーの一覧
       MAPPING_KEYS = %i[prefecture city town prefecture_code city_code].freeze
 
       module_function
 
+      # モデルに +before_save+ コールバックを登録する。
+      #
+      # @param model_class [Class] ActiveRecordモデルクラス
+      # @param postal_column [String] 郵便番号カラム名
+      # @param mappings [Hash] マッピング設定
+      # @return [void]
       def install(model_class, postal_column, mappings)
         unless model_class.respond_to?(:before_save)
           raise Basho::Error, "#{model_class} does not support before_save callbacks"
@@ -27,6 +37,11 @@ module Basho
         end
       end
 
+      # マッピングキーに対応する値を郵便番号データから解決する。
+      #
+      # @param postal [PostalCode, nil] 郵便番号データ
+      # @param key [Symbol] マッピングキー
+      # @return [String, Integer, nil]
       def resolve_value(postal, key)
         return nil unless postal
 
@@ -39,6 +54,10 @@ module Basho
         end
       end
 
+      # 郵便番号データから自治体コードを逆引きする。
+      #
+      # @param postal [PostalCode] 郵便番号データ
+      # @return [String, nil] 6桁自治体コード
       def resolve_city_code(postal)
         City.where(prefecture_code: postal.prefecture_code)
             .find { |c| c.full_name == postal.city_name }&.code

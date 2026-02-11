@@ -5,9 +5,12 @@ require_relative "db/prefecture"
 require_relative "db/city"
 
 module Basho
-  # ActiveRecordバックエンド（オプション）
+  # ActiveRecordバックエンド（オプション）。
+  # +basho_prefectures+ / +basho_cities+ テーブルへのアクセスとシードを提供する。
   module DB
-    # JSON → DB の一括投入（冪等）
+    # JSONデータをDBに一括投入する。冪等（何度実行しても同じ結果）。
+    #
+    # @return [Hash{Symbol => Integer}] 投入件数（+:prefectures+, +:cities+）
     def self.seed!
       prefs = prefecture_rows
       cities = city_rows

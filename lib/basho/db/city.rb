@@ -2,7 +2,8 @@
 
 module Basho
   module DB
-    # 市区町村のActiveRecordモデル
+    # 市区町村のActiveRecordモデル（+basho_cities+ テーブル）。
+    # メモリ版 {Basho::City} と同じAPI（+full_name+, +capital?+）を提供する。
     class City < ::ActiveRecord::Base
       self.table_name = "basho_cities"
       self.primary_key = "code"
@@ -12,6 +13,9 @@ module Basho
                  foreign_key: :prefecture_code,
                  inverse_of: :cities
 
+      # 郡名付きの正式名を返す。
+      #
+      # @return [String]
       def full_name
         district ? "#{district}#{name}" : name
       end
