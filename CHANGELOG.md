@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.0] - 2026-02-11
+
+### Added
+
+- `with_basho` スコープ — city・prefectureをeager loadしN+1クエリを防止（メモリモードではno-op）
+- `has_one :basho_prefecture` — prefecture直接プリロード対応（DBモード）
+- `Basho::DB::City` に廃止・合併管理機能（`deprecated_at`, `successor_code`, `#current`, `.active`, `.deprecated`）
+- `Basho::City`（メモリモード）にも同等の廃止・合併API（`#deprecated?`, `#active?`, `#successor`, `#current`）
+- `Basho::DB.seed_fresh?` — DBデータの鮮度チェック（Rails起動時に自動警告）
+- `rails generate basho:upgrade_deprecation` — 既存テーブルに廃止管理カラムを追加するマイグレーションジェネレータ
+- `MAX_SUCCESSOR_DEPTH` — 合併チェーン探索の深度制限（ループ検出に加えた安全弁）
+
+### Changed
+
+- `Basho::DB.seed!` を `delete_all` + `insert_all!` から `upsert_all` に変更（手動設定の `successor_code` / `deprecated_at` を保持）
+- gemデータから消えた市区町村を物理削除ではなく論理削除（`deprecated_at` を設定）に変更
+- `basho` マクロのリファクタリング（DB/メモリモードの分離、メソッド分割）
+
 ## [0.4.1] - 2026-02-11
 
 ### Fixed
@@ -103,6 +121,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - GitHub Actions CI（Ruby 3.2/3.3/3.4）
 - 月次データ自動更新ワークフロー
 
+[0.5.0]: https://github.com/wagai/basho/releases/tag/v0.5.0
 [0.4.1]: https://github.com/wagai/basho/releases/tag/v0.4.1
 [0.4.0]: https://github.com/wagai/basho/releases/tag/v0.4.0
 [0.3.0]: https://github.com/wagai/basho/releases/tag/v0.3.0
